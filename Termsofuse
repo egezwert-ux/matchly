@@ -1,29 +1,142 @@
-# Terms of Use for Matchly Predictions
+Fitnessly, [23.02.2026 00:35]
+Tamam. İşte Matchly Predictions MVP uygulaman için tamamen detaylı, kullanıma hazır Privacy Policy ve Terms of Use metni. Bu metin hem Firebase Analytics ve AdMob ödüllü reklam kullanımını kapsar, hem de yasal uyumluluğu sağlar.
 
-**Last Updated: [DATE]**
 
-By downloading or using Matchly Predictions, you agree to these terms. Please read them carefully.
+---
 
-### 1. Age Requirement
-You must be at least **18 years old** to use this application. By using the app, you confirm that you meet this age requirement.
+Privacy Policy – Matchly Predictions
 
-### 2. Nature of Service (No Guarantee)
-- Matchly Predictions provides **statistical insights and manual match analysis** for informational and entertainment purposes only.
-- **We are not a gambling or betting platform.** We do not facilitate any form of wagering.
-- **No outcomes are guaranteed.** Past performance does not guarantee future results. Users are solely responsible for any decisions made based on our analysis.
+Effective Date: 22 February 2026
+Contact Email: sportslydevoping@gmail.com
 
-### 3. Intellectual Property
-All manual analyses, combo structures, and professional insights within the app are the property of Matchly Predictions. Unauthorized reproduction or scraping of this data is strictly prohibited.
+1. Introduction
 
-### 4. VIP Subscriptions and Ads
-- **Free Users:** Can unlock content by viewing rewarded ads (subject to daily limits).
-- **VIP Users:** Enjoy unlimited access and an ad-free experience. Subscriptions are billed through Google Play and can be cancelled at any time via your Google account settings.
-- **Refunds:** Refunds are processed according to Google Play’s standard refund policies.
+Matchly Predictions ("we", "our", or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information. By using our mobile application, you agree to this Privacy Policy.
 
-### 5. Disclaimer of Liability
-Matchly Predictions shall not be liable for any financial losses or damages resulting from the use of the information provided in the app. Use at your own risk.
+2. Information We Collect
 
-### 6. Governing Law
-These terms are governed by the laws of the jurisdiction in which the developer operates.
+We do not require a traditional login (email/password). We collect minimal data to provide our services:
 
-**Contact:** [CONTACT_EMAIL]
+Device Identifiers: Used to track free ad-unlocks and VIP status locally on your device.
+
+Preferences: Language settings and VIP status stored locally using Jetpack DataStore.
+
+Payment Data: Subscriptions are securely handled via Google Play Billing. We do not store your credit card or payment information.
+
+Analytics Data: Firebase Analytics may collect anonymous usage data to improve the app experience.
+
+Advertising Data: Google AdMob may collect information for personalized or rewarded ads.
+
+
+3. Third-Party Services
+
+We may use third-party services that collect data according to their own policies:
+
+Google AdMob: To serve rewarded and display ads.
+
+Firebase Analytics: For app usage, performance, and crash reporting.
+
+Google Play Services: For app functionality and security.
+
+
+4. Children’s Privacy
+
+Our app is intended for users 18 years or older. We do not knowingly collect personal information from anyone under 18. If we discover such data, it will be deleted immediately.
+
+5. How We Use Your Data
+
+We use collected data to:
+
+Enable VIP features and ad-rewarded unlocks.
+
+Improve app performance and usability.
+
+Monitor usage and ensure app stability.
+
+
+6. Data Security
+
+We implement reasonable security measures to protect data stored locally on your device. However, no method of electronic transmission over the internet is completely secure.
+
+7. Data Sharing
+
+We do not sell or rent your personal information. Data collected by analytics or ad services is anonymous and used only for app improvement or ad functionality.
+
+8. Your Rights
+
+You may:
+
+Clear local app data to reset preferences.
+
+Disable ads via VIP subscription.
+
+Contact us to address any privacy concerns at sportslydevoping@gmail.com.
+
+
+
+---
+
+Terms of Use – Matchly Predictions
+
+Effective Date: 22 February 2026
+Contact Email: sportslydevoping@gmail.com
+
+1. Acceptance of Terms
+
+By using Matchly Predictions ("App"), you agree to be bound by these Terms of Use. If you do not agree, do not use the app.
+
+2. Eligibility
+
+You must be 18 years or older to use this app. By using the app, you confirm you meet this age requirement.
+
+3. Purpose
+
+The App provides statistical analysis, match predictions, and ad-rewarded unlocks for informational purposes only. It is not a gambling platform and does not provide betting services.
+
+4. Account and VIP Subscription
+
+No mandatory login is required.
+
+VIP features are optional and managed via Google Play Billing.
+
+All payments are processed securely by Google; we do not store credit card data.
+
+
+5. Use Restrictions
+
+You agree not to:
+
+Copy, modify, or distribute the App or its content.
+
+Use the App for any illegal purpose.
+
+Interfere with the app’s operation or security.
+
+
+6. Ad-Rewarded Unlocks
+
+The App may display rewarded ads or banner ads. Users may unlock additional features via ads. Google AdMob and other ad providers may collect anonymous data for this purpose.
+
+7. Disclaimers
+
+Predictions are for informational purposes only. We do not guarantee accuracy of predictions, scores, or outcomes.
+
+Use of the App is at your own risk.
+
+We are not responsible for losses or damages resulting from reliance on predictions.
+
+
+8. Limitation of Liability
+
+Fitnessly, [23.02.2026 00:35]
+To the maximum extent permitted by law, Matchly Predictions is not liable for any direct, indirect, incidental, or consequential damages arising from your use of the app.
+
+9. Changes to Terms
+
+We may update these Terms of Use from time to time. Updated terms will be posted in the App. Continued use constitutes acceptance of the changes.
+
+10. Contact
+
+For any questions regarding Terms of Use or Privacy Policy, contact us at: sportslydevoping@gmail.com
+
+
