@@ -1,92 +1,135 @@
 {
-  "timezone": "Europe/Istanbul",
-  "days": [
+  "matches": [
     {
+      "id": "m2501",
       "date": "2026-02-25",
-      "matches": [
-        {
-          "id": 1,
-          "league": "Champions League",
-          "match": "Barcelona vs Napoli",
-          "kickoff": "20:45",
-          "prediction": {
-            "result": "Home Win",
-            "score": "2-1",
-            "over_under": "Over 2.5"
-          },
-          "access": "FREE"
-        },
-        {
-          "id": 2,
-          "league": "Premier League",
-          "match": "Arsenal vs Aston Villa",
-          "kickoff": "22:00",
-          "prediction": {
-            "result": "Home Win",
-            "score": "3-1",
-            "over_under": "Over 2.5"
-          },
-          "access": "VIP"
-        }
-      ]
+      "time": "20:00",
+      "league": "Super Lig",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Konyaspor",
+
+      "prediction": {
+        "pick": "1",
+        "confidence": 82,
+        "overUnder": "Over 2.5",
+        "predictedScore": "3-1",
+        "corners": "Over 8.5"
+      },
+
+      "analysis": "Galatasaray iç sahada çok dominant. Konyaspor deplasmanda zorlanıyor. Erken gol gelirse maç kopabilir.",
+
+      "result": "won",
+      "finalScore": "3-1"
     },
+
     {
+      "id": "m2502",
+      "date": "2026-02-25",
+      "time": "22:45",
+      "league": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Tottenham",
+
+      "prediction": {
+        "pick": "BTTS Yes",
+        "confidence": 75,
+        "overUnder": "Over 2.5",
+        "predictedScore": "2-2",
+        "corners": "Over 9.5"
+      },
+
+      "analysis": "İki takım da hücum ağırlıklı. Savunmalar güven vermiyor. Karşılıklı gol yüksek ihtimal.",
+
+      "result": "pending",
+      "finalScore": "-"
+    },
+
+    {
+      "id": "m2601",
       "date": "2026-02-26",
-      "matches": [
-        {
-          "id": 3,
-          "league": "Serie A",
-          "match": "Inter vs Atalanta",
-          "kickoff": "21:30",
-          "prediction": {
-            "result": "Draw",
-            "score": "1-1",
-            "over_under": "Under 2.5"
-          },
-          "access": "FREE"
-        },
-        {
-          "id": 4,
-          "league": "La Liga",
-          "match": "Real Betis vs Villarreal",
-          "kickoff": "23:00",
-          "prediction": {
-            "result": "BTTS Yes",
-            "score": "2-2",
-            "over_under": "Over 3.5"
-          },
-          "access": "VIP"
-        }
-      ]
+      "time": "21:00",
+      "league": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Valencia",
+
+      "prediction": {
+        "pick": "1",
+        "confidence": 88,
+        "overUnder": "Over 2.5",
+        "predictedScore": "2-0",
+        "corners": "Under 9.5"
+      },
+
+      "analysis": "Barcelona topa sahip olacak. Valencia kapalı oynar. Kontrollü galibiyet bekleniyor.",
+
+      "result": "won",
+      "finalScore": "2-0"
     },
+
     {
+      "id": "m2602",
+      "date": "2026-02-26",
+      "time": "23:00",
+      "league": "Serie A",
+      "homeTeam": "Inter",
+      "awayTeam": "Roma",
+
+      "prediction": {
+        "pick": "1",
+        "confidence": 70,
+        "overUnder": "Under 2.5",
+        "predictedScore": "1-0",
+        "corners": "Under 10.5"
+      },
+
+      "analysis": "Inter savunma disiplini güçlü. Roma deplasmanda üretken değil. Az gollü maç bekleniyor.",
+
+      "result": "lost",
+      "finalScore": "1-2"
+    },
+
+    {
+      "id": "m2701",
       "date": "2026-02-27",
-      "matches": [
-        {
-          "id": 5,
-          "league": "Bundesliga",
-          "match": "RB Leipzig vs Frankfurt",
-          "kickoff": "21:45",
-          "prediction": {
-            "result": "Home Win",
-            "score": "2-0",
-            "over_under": "Under 2.5"
-          },
-          "access": "FREE"
-        },
-        {
-          "id": 6,
-          "league": "Ligue 1",
-          "match": "Marseille vs Monaco",
-          "kickoff": "22:30",
-          "prediction": {
-            "result": "BTTS Yes",
-            "score": "1-1",
-            "over_under": "Under 2.5"
-          },
-          "access": "VIP"
-        }
-      ]
+      "time": "20:30",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Dortmund",
+
+      "prediction": {
+        "pick": "Over 2.5",
+        "confidence": 84,
+        "overUnder": "Over 3.5",
+        "predictedScore": "3-2",
+        "corners": "Over 10.5"
+      },
+
+      "analysis": "Der Klassiker genelde gollü geçer. İki takım da hücumda etkili. Tempo yüksek olur.",
+
+      "result": "pending",
+      "finalScore": "-"
+    },
+
+    {
+      "id": "m2702",
+      "date": "2026-02-27",
+      "time": "22:00",
+      "league": "Ligue 1",
+      "homeTeam": "PSG",
+      "awayTeam": "Lyon",
+
+      "prediction": {
+        "pick": "1",
+        "confidence": 90,
+        "overUnder": "Over 2.5",
+        "predictedScore": "4-1",
+        "corners": "Over 8.5"
+      },
+
+      "analysis": "PSG iç sahada çok üstün. Lyon savunması zayıf. Net galibiyet bekleniyor.",
+
+      "result": "won",
+      "finalScore": "4-1"
     }
   ]
 }
