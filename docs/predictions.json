@@ -1,126 +1,92 @@
 {
-  "date": "2026-02-25",
-  "baseTimezone": "UTC",
-  "displayLocalTime": true,
-  "matches": [
+  "timezone": "Europe/Istanbul",
+  "days": [
     {
-      "id": "m1",
-      "league": "Serie A",
-      "home": "Inter",
-      "away": "Atalanta",
-      "kickoffUTC": "2026-02-24T20:00:00Z",
-
-      "mainPick": true,
-      "prediction": "MS1 + 1.5 ÜST",
-      "odds": 2.00,
-
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-1",
-      "corners": "8.5 ÜST",
-
-      "vipOnly": false,
-      "adUnlock": false,
-
-      "analysis": "Inter iç sahada tempolu oynuyor. Atalanta savunması deplasmanda açık veriyor. Gol ve ev sahibi galibiyeti öne çıkıyor.",
-
-      "riskLevel": "Medium",
-      "result": "pending"
+      "date": "2026-02-25",
+      "matches": [
+        {
+          "id": 1,
+          "league": "Champions League",
+          "match": "Barcelona vs Napoli",
+          "kickoff": "20:45",
+          "prediction": {
+            "result": "Home Win",
+            "score": "2-1",
+            "over_under": "Over 2.5"
+          },
+          "access": "FREE"
+        },
+        {
+          "id": 2,
+          "league": "Premier League",
+          "match": "Arsenal vs Aston Villa",
+          "kickoff": "22:00",
+          "prediction": {
+            "result": "Home Win",
+            "score": "3-1",
+            "over_under": "Over 2.5"
+          },
+          "access": "VIP"
+        }
+      ]
     },
-
     {
-      "id": "m2",
-      "league": "Premier League",
-      "home": "Everton",
-      "away": "Manchester United",
-      "kickoffUTC": "2026-02-24T20:00:00Z",
-
-      "mainPick": false,
-      "prediction": "BTTS",
-      "odds": 2.05,
-
-      "overUnder": "2.5 Over",
-      "predictedScore": "1-1",
-      "corners": "9.5 Under",
-
-      "vipOnly": true,
-      "adUnlock": true,
-
-      "analysis": "İki takım da savunma hatalarına açık. Tempo dengeli, karşılıklı gol ihtimali yüksek.",
-
-      "riskLevel": "Medium",
-      "result": "pending"
+      "date": "2026-02-26",
+      "matches": [
+        {
+          "id": 3,
+          "league": "Serie A",
+          "match": "Inter vs Atalanta",
+          "kickoff": "21:30",
+          "prediction": {
+            "result": "Draw",
+            "score": "1-1",
+            "over_under": "Under 2.5"
+          },
+          "access": "FREE"
+        },
+        {
+          "id": 4,
+          "league": "La Liga",
+          "match": "Real Betis vs Villarreal",
+          "kickoff": "23:00",
+          "prediction": {
+            "result": "BTTS Yes",
+            "score": "2-2",
+            "over_under": "Over 3.5"
+          },
+          "access": "VIP"
+        }
+      ]
     },
-
     {
-      "id": "m3",
-      "league": "La Liga",
-      "home": "Alaves",
-      "away": "Girona",
-      "kickoffUTC": "2026-02-25T20:00:00Z",
-
-      "mainPick": false,
-      "prediction": "2.5 ÜST",
-      "odds": 1.88,
-
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "1-2",
-      "corners": "10.5 ÜST",
-
-      "vipOnly": true,
-      "adUnlock": true,
-
-      "analysis": "Girona hücumda formda. Alaves iç sahada dirençli ama savunması kırılgan.",
-
-      "riskLevel": "High",
-      "result": "pending"
-    },
-
-    {
-      "id": "m4",
-      "league": "Championship",
-      "home": "Middlesbrough",
-      "away": "Leicester City",
-      "kickoffUTC": "2026-02-24T19:45:00Z",
-
-      "mainPick": false,
-      "prediction": "MS2",
-      "odds": 2.10,
-
-      "overUnder": "2.5 ALT",
-      "predictedScore": "0-1",
-      "corners": "8.5 ALT",
-
-      "vipOnly": true,
-      "adUnlock": false,
-
-      "analysis": "Leicester kalite farkıyla önde. Kontrollü oyun bekleniyor.",
-
-      "riskLevel": "Low",
-      "result": "pending"
-    },
-
-    {
-      "id": "m5",
-      "league": "Saudi Pro League",
-      "home": "Al Khaleej",
-      "away": "Al Khoolod",
-      "kickoffUTC": "2026-02-24T18:00:00Z",
-
-      "mainPick": false,
-      "prediction": "BTTS + 2.5 ÜST",
-      "odds": 2.05,
-
-      "overUnder": "2.5 ÜST",
-      "predictedScore": "2-2",
-      "corners": "9.5 ÜST",
-
-      "vipOnly": true,
-      "adUnlock": true,
-
-      "analysis": "İki takım da savunmada zayıf. Açık oyun ve gollü maç bekleniyor.",
-
-      "riskLevel": "High",
-      "result": "pending"
+      "date": "2026-02-27",
+      "matches": [
+        {
+          "id": 5,
+          "league": "Bundesliga",
+          "match": "RB Leipzig vs Frankfurt",
+          "kickoff": "21:45",
+          "prediction": {
+            "result": "Home Win",
+            "score": "2-0",
+            "over_under": "Under 2.5"
+          },
+          "access": "FREE"
+        },
+        {
+          "id": 6,
+          "league": "Ligue 1",
+          "match": "Marseille vs Monaco",
+          "kickoff": "22:30",
+          "prediction": {
+            "result": "BTTS Yes",
+            "score": "1-1",
+            "over_under": "Under 2.5"
+          },
+          "access": "VIP"
+        }
+      ]
     }
   ]
 }
