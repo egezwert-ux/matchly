@@ -1,135 +1,109 @@
 {
   "matches": [
     {
-      "id": "m2501",
-      "date": "2026-02-25",
-      "time": "20:00",
-      "league": "Super Lig",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Konyaspor",
-
-      "prediction": {
-        "pick": "1",
-        "confidence": 82,
-        "overUnder": "Over 2.5",
-        "predictedScore": "3-1",
-        "corners": "Over 8.5"
-      },
-
-      "analysis": "Galatasaray iç sahada çok dominant. Konyaspor deplasmanda zorlanıyor. Erken gol gelirse maç kopabilir.",
-
-      "result": "won",
-      "finalScore": "3-1"
-    },
-
-    {
-      "id": "m2502",
-      "date": "2026-02-25",
-      "time": "22:45",
-      "league": "Premier League",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Tottenham",
-
-      "prediction": {
-        "pick": "BTTS Yes",
-        "confidence": 75,
-        "overUnder": "Over 2.5",
-        "predictedScore": "2-2",
-        "corners": "Over 9.5"
-      },
-
-      "analysis": "İki takım da hücum ağırlıklı. Savunmalar güven vermiyor. Karşılıklı gol yüksek ihtimal.",
-
-      "result": "pending",
-      "finalScore": "-"
-    },
-
-    {
-      "id": "m2601",
-      "date": "2026-02-26",
+      "id": "m25_1",
+      "date": "2025-02-25",
       "time": "21:00",
-      "league": "La Liga",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Valencia",
-
+      "league": "Champions League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Inter Milan",
       "prediction": {
-        "pick": "1",
+        "pick": "MS1",
         "confidence": 88,
-        "overUnder": "Over 2.5",
+        "overUnder": "2.5 ÜST",
         "predictedScore": "2-0",
-        "corners": "Under 9.5"
+        "corners": "9.5 ÜST"
       },
-
-      "analysis": "Barcelona topa sahip olacak. Valencia kapalı oynar. Kontrollü galibiyet bekleniyor.",
-
+      "analysis": "Man City is dominant at home in European nights. Haaland is expected to score.",
+      "result": "pending"
+    },
+    {
+      "id": "m25_2",
+      "date": "2025-02-25",
+      "time": "20:45",
+      "league": "Premier League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Everton",
+      "prediction": {
+        "pick": "MS1 & 1.5 ÜST",
+        "confidence": 92,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "3-0",
+        "corners": "10.5 ÜST"
+      },
+      "analysis": "Arsenal needs this win for the title race. Everton struggles away from home.",
       "result": "won",
-      "finalScore": "2-0"
+      "finalScore": "3-0"
     },
-
     {
-      "id": "m2602",
-      "date": "2026-02-26",
-      "time": "23:00",
-      "league": "Serie A",
-      "homeTeam": "Inter",
-      "awayTeam": "Roma",
-
-      "prediction": {
-        "pick": "1",
-        "confidence": 70,
-        "overUnder": "Under 2.5",
-        "predictedScore": "1-0",
-        "corners": "Under 10.5"
-      },
-
-      "analysis": "Inter savunma disiplini güçlü. Roma deplasmanda üretken değil. Az gollü maç bekleniyor.",
-
-      "result": "lost",
-      "finalScore": "1-2"
-    },
-
-    {
-      "id": "m2701",
-      "date": "2026-02-27",
-      "time": "20:30",
-      "league": "Bundesliga",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Dortmund",
-
-      "prediction": {
-        "pick": "Over 2.5",
-        "confidence": 84,
-        "overUnder": "Over 3.5",
-        "predictedScore": "3-2",
-        "corners": "Over 10.5"
-      },
-
-      "analysis": "Der Klassiker genelde gollü geçer. İki takım da hücumda etkili. Tempo yüksek olur.",
-
-      "result": "pending",
-      "finalScore": "-"
-    },
-
-    {
-      "id": "m2702",
-      "date": "2026-02-27",
+      "id": "m25_3",
+      "date": "2025-02-25",
       "time": "22:00",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Alaves",
+      "prediction": {
+        "pick": "MS1",
+        "confidence": 95,
+        "overUnder": "3.5 ÜST",
+        "predictedScore": "4-1",
+        "corners": "8.5 ÜST"
+      },
+      "analysis": "Real Madrid rotation might happen but depth is enough to win comfortably.",
+      "result": "pending"
+    },
+    {
+      "id": "m25_4",
+      "date": "2025-02-25",
+      "time": "19:00",
+      "league": "Bundesliga",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "RB Leipzig",
+      "prediction": {
+        "pick": "KG VAR",
+        "confidence": 84,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "2-2",
+        "corners": "11.5 ÜST"
+      },
+      "analysis": "Both teams play offensive football. High chance of goals from both sides.",
+      "result": "won",
+      "finalScore": "2-1"
+    },
+    {
+      "id": "m25_5",
+      "date": "2025-02-25",
+      "time": "21:30",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "Torino",
+      "prediction": {
+        "pick": "MS1",
+        "confidence": 78,
+        "overUnder": "2.5 ALT",
+        "predictedScore": "1-0",
+        "corners": "9.5 ALT"
+      },
+      "analysis": "Turin derby is usually tight. Juventus defense is solid lately.",
+      "result": "won",
+      "finalScore": "1-0"
+    },
+    {
+      "id": "m25_6",
+      "date": "2025-02-25",
+      "time": "23:00",
       "league": "Ligue 1",
       "homeTeam": "PSG",
-      "awayTeam": "Lyon",
-
+      "awayTeam": "Monaco",
       "prediction": {
-        "pick": "1",
-        "confidence": 90,
-        "overUnder": "Over 2.5",
-        "predictedScore": "4-1",
-        "corners": "Over 8.5"
+        "pick": "2.5 ÜST",
+        "confidence": 80,
+        "overUnder": "2.5 ÜST",
+        "predictedScore": "3-1",
+        "corners": "10.5 ÜST"
       },
-
-      "analysis": "PSG iç sahada çok üstün. Lyon savunması zayıf. Net galibiyet bekleniyor.",
-
-      "result": "won",
-      "finalScore": "4-1"
+      "analysis": "Monaco is one of the few teams that can challenge PSG's defense.",
+      "result": "pending"
     }
   ]
 }
