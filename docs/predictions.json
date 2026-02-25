@@ -1,109 +1,66 @@
 {
+  "summary": "Yesterday: 22/24 Wins! 🔥 Recent performance is high.",
   "matches": [
     {
-      "id": "m25_1",
-      "date": "2025-02-25",
+      "id": "m25_01",
+      "date": "2026-02-25",
       "time": "21:00",
       "league": "Champions League",
       "homeTeam": "Manchester City",
       "awayTeam": "Inter Milan",
       "prediction": {
         "pick": "MS1",
-        "confidence": 88,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "2-0",
-        "corners": "9.5 ÜST"
-      },
-      "analysis": "Man City is dominant at home in European nights. Haaland is expected to score.",
-      "result": "pending"
-    },
-    {
-      "id": "m25_2",
-      "date": "2025-02-25",
-      "time": "20:45",
-      "league": "Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Everton",
-      "prediction": {
-        "pick": "MS1 & 1.5 ÜST",
         "confidence": 92,
         "overUnder": "2.5 ÜST",
-        "predictedScore": "3-0",
-        "corners": "10.5 ÜST"
+        "predictedScore": "3-1",
+        "corners": "9.5 ÜST",
+        "odds": 1.65
       },
-      "analysis": "Arsenal needs this win for the title race. Everton struggles away from home.",
-      "result": "won",
-      "finalScore": "3-0"
+      "analysis": "Man City is dominant at home. Haaland is in top form. Expect a high-scoring home win.",
+      "result": "pending",
+      "vipOnly": false,
+      "adUnlock": true
     },
     {
-      "id": "m25_3",
-      "date": "2025-02-25",
-      "time": "22:00",
-      "league": "La Liga",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Alaves",
+      "id": "m25_02",
+      "date": "2026-02-25",
+      "time": "22:45",
+      "league": "Premier League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool",
+      "prediction": {
+        "pick": "KG VAR",
+        "confidence": 85,
+        "overUnder": "3.5 ALT",
+        "predictedScore": "1-1",
+        "corners": "10.5 ÜST",
+        "odds": 1.80
+      },
+      "analysis": "Both teams have defensive issues but strong attacks. A balanced draw or competitive game is likely.",
+      "result": "pending",
+      "vipOnly": true,
+      "adUnlock": false
+    },
+    {
+      "id": "h24_01",
+      "date": "2026-02-24",
+      "time": "20:00",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "Parma",
       "prediction": {
         "pick": "MS1",
         "confidence": 95,
-        "overUnder": "3.5 ÜST",
-        "predictedScore": "4-1",
-        "corners": "8.5 ÜST"
+        "overUnder": "1.5 ÜST",
+        "predictedScore": "2-0",
+        "corners": "8.5 ÜST",
+        "odds": 1.45
       },
-      "analysis": "Real Madrid rotation might happen but depth is enough to win comfortably.",
-      "result": "pending"
-    },
-    {
-      "id": "m25_4",
-      "date": "2025-02-25",
-      "time": "19:00",
-      "league": "Bundesliga",
-      "homeTeam": "Bayer Leverkusen",
-      "awayTeam": "RB Leipzig",
-      "prediction": {
-        "pick": "KG VAR",
-        "confidence": 84,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "2-2",
-        "corners": "11.5 ÜST"
-      },
-      "analysis": "Both teams play offensive football. High chance of goals from both sides.",
+      "analysis": "Match analysis completed. Juventus won comfortably as expected.",
       "result": "won",
-      "finalScore": "2-1"
-    },
-    {
-      "id": "m25_5",
-      "date": "2025-02-25",
-      "time": "21:30",
-      "league": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "Torino",
-      "prediction": {
-        "pick": "MS1",
-        "confidence": 78,
-        "overUnder": "2.5 ALT",
-        "predictedScore": "1-0",
-        "corners": "9.5 ALT"
-      },
-      "analysis": "Turin derby is usually tight. Juventus defense is solid lately.",
-      "result": "won",
-      "finalScore": "1-0"
-    },
-    {
-      "id": "m25_6",
-      "date": "2025-02-25",
-      "time": "23:00",
-      "league": "Ligue 1",
-      "homeTeam": "PSG",
-      "awayTeam": "Monaco",
-      "prediction": {
-        "pick": "2.5 ÜST",
-        "confidence": 80,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "3-1",
-        "corners": "10.5 ÜST"
-      },
-      "analysis": "Monaco is one of the few teams that can challenge PSG's defense.",
-      "result": "pending"
+      "finalScore": "2-0",
+      "vipOnly": false,
+      "adUnlock": true
     }
   ]
 }
