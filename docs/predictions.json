@@ -1,66 +1,119 @@
 {
-  "summary": "Yesterday: 22/24 Wins! 🔥 Recent performance is high.",
+  "lastUpdated": "2026-02-24T14:30:00Z",
   "matches": [
     {
-      "id": "m25_01",
-      "date": "2026-02-25",
-      "time": "21:00",
-      "league": "Champions League",
-      "homeTeam": "Manchester City",
-      "awayTeam": "Inter Milan",
-      "prediction": {
-        "pick": "MS1",
-        "confidence": 92,
-        "overUnder": "2.5 ÜST",
-        "predictedScore": "3-1",
-        "corners": "9.5 ÜST",
-        "odds": 1.65
-      },
-      "analysis": "Man City is dominant at home. Haaland is in top form. Expect a high-scoring home win.",
-      "result": "pending",
-      "vipOnly": false,
-      "adUnlock": true
-    },
-    {
-      "id": "m25_02",
-      "date": "2026-02-25",
-      "time": "22:45",
+      "id": "m2501",
       "league": "Premier League",
       "homeTeam": "Arsenal",
-      "awayTeam": "Liverpool",
+      "awayTeam": "Leicester City",
+      "date": "2026-02-25",
+      "time": "20:00",
       "prediction": {
-        "pick": "KG VAR",
-        "confidence": 85,
-        "overUnder": "3.5 ALT",
-        "predictedScore": "1-1",
-        "corners": "10.5 ÜST",
-        "odds": 1.80
+        "mainPick": "Home Win",
+        "odds": "1.45",
+        "overUnder": "over",
+        "btts": "no",
+        "correctScore": "2-0",
+        "corners": "over 9.5",
+        "analysis": "Arsenal is in high form at Emirates. Defensively solid performance expected.",
+        "result": "pending"
       },
-      "analysis": "Both teams have defensive issues but strong attacks. A balanced draw or competitive game is likely.",
-      "result": "pending",
-      "vipOnly": true,
-      "adUnlock": false
+      "vip": false
     },
     {
-      "id": "h24_01",
-      "date": "2026-02-24",
-      "time": "20:00",
+      "id": "m2502",
       "league": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "Parma",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "AC Milan",
+      "date": "2026-02-25",
+      "time": "21:45",
       "prediction": {
-        "pick": "MS1",
-        "confidence": 95,
-        "overUnder": "1.5 ÜST",
-        "predictedScore": "2-0",
-        "corners": "8.5 ÜST",
-        "odds": 1.45
+        "mainPick": "BTTS Yes",
+        "odds": "1.72",
+        "overUnder": "over",
+        "btts": "yes",
+        "correctScore": "2-1",
+        "corners": "over 10.5",
+        "analysis": "Derby della Madonnina usually promises goals from both sides. High tension match.",
+        "result": "pending"
       },
-      "analysis": "Match analysis completed. Juventus won comfortably as expected.",
-      "result": "won",
-      "finalScore": "2-0",
-      "vipOnly": false,
-      "adUnlock": true
+      "vip": true
+    },
+    {
+      "id": "m2601",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Alaves",
+      "date": "2026-02-26",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.28",
+        "overUnder": "over",
+        "btts": "no",
+        "correctScore": "3-0",
+        "corners": "under 10.5",
+        "analysis": "Analysis suggested a comfortable win for Real Madrid and it was delivered.",
+        "result": "won"
+      },
+      "vip": false
+    },
+    {
+      "id": "m2602",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Bochum",
+      "date": "2026-02-26",
+      "time": "19:30",
+      "prediction": {
+        "mainPick": "Home -1.5 AH",
+        "odds": "1.55",
+        "overUnder": "over",
+        "btts": "no",
+        "correctScore": "4-1",
+        "corners": "over 11.5",
+        "analysis": "Bayern's offensive line dominated the game as predicted in the VIP breakdown.",
+        "result": "won"
+      },
+      "vip": true
+    },
+    {
+      "id": "m2701",
+      "league": "Ligue 1",
+      "homeTeam": "PSG",
+      "awayTeam": "Monaco",
+      "date": "2026-02-27",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.65",
+        "overUnder": "over",
+        "btts": "yes",
+        "correctScore": "1-2",
+        "corners": "over 9.5",
+        "analysis": "Surprise result. PSG missed many chances, and Monaco clinical on counters.",
+        "result": "lost"
+      },
+      "vip": false
+    },
+    {
+      "id": "m2702",
+      "league": "Super Lig",
+      "homeTeam": "Fenerbahce",
+      "awayTeam": "Besiktas",
+      "date": "2026-02-27",
+      "time": "19:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.90",
+        "overUnder": "under",
+        "btts": "no",
+        "correctScore": "1-1",
+        "corners": "under 9.5",
+        "analysis": "Tactical derby battle expected. Both managers will prioritize defensive safety.",
+        "result": "pending"
+      },
+      "vip": true
     }
   ]
 }
