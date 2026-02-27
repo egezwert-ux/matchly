@@ -1,119 +1,29 @@
 {
-  "lastUpdated": "2026-02-24T14:30:00Z",
+  "last_update_utc": "2023-10-27T10:00:00Z",
   "matches": [
     {
-      "id": "m2501",
+      "id": "match_101",
       "league": "Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Leicester City",
-      "date": "2026-02-25",
-      "time": "20:00",
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.45",
-        "overUnder": "over",
-        "btts": "no",
-        "correctScore": "2-0",
-        "corners": "over 9.5",
-        "analysis": "Arsenal is in high form at Emirates. Defensively solid performance expected.",
-        "result": "pending"
-      },
-      "vip": false
+      "home_team": "Arsenal",
+      "away_team": "Liverpool",
+      "kickoff_utc": "2023-10-28T15:00:00Z",
+      "status": "pending",
+      "access_type": "free",
+      "home_main_pick": "Over 2.5",
+      "main_pick_odds": 1.85,
+      "confidence_percent": 82
     },
     {
-      "id": "m2502",
-      "league": "Serie A",
-      "homeTeam": "Inter Milan",
-      "awayTeam": "AC Milan",
-      "date": "2026-02-25",
-      "time": "21:45",
-      "prediction": {
-        "mainPick": "BTTS Yes",
-        "odds": "1.72",
-        "overUnder": "over",
-        "btts": "yes",
-        "correctScore": "2-1",
-        "corners": "over 10.5",
-        "analysis": "Derby della Madonnina usually promises goals from both sides. High tension match.",
-        "result": "pending"
-      },
-      "vip": true
-    },
-    {
-      "id": "m2601",
+      "id": "match_99",
       "league": "La Liga",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Alaves",
-      "date": "2026-02-26",
-      "time": "22:00",
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.28",
-        "overUnder": "over",
-        "btts": "no",
-        "correctScore": "3-0",
-        "corners": "under 10.5",
-        "analysis": "Analysis suggested a comfortable win for Real Madrid and it was delivered.",
-        "result": "won"
-      },
-      "vip": false
-    },
-    {
-      "id": "m2602",
-      "league": "Bundesliga",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Bochum",
-      "date": "2026-02-26",
-      "time": "19:30",
-      "prediction": {
-        "mainPick": "Home -1.5 AH",
-        "odds": "1.55",
-        "overUnder": "over",
-        "btts": "no",
-        "correctScore": "4-1",
-        "corners": "over 11.5",
-        "analysis": "Bayern's offensive line dominated the game as predicted in the VIP breakdown.",
-        "result": "won"
-      },
-      "vip": true
-    },
-    {
-      "id": "m2701",
-      "league": "Ligue 1",
-      "homeTeam": "PSG",
-      "awayTeam": "Monaco",
-      "date": "2026-02-27",
-      "time": "21:00",
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.65",
-        "overUnder": "over",
-        "btts": "yes",
-        "correctScore": "1-2",
-        "corners": "over 9.5",
-        "analysis": "Surprise result. PSG missed many chances, and Monaco clinical on counters.",
-        "result": "lost"
-      },
-      "vip": false
-    },
-    {
-      "id": "m2702",
-      "league": "Super Lig",
-      "homeTeam": "Fenerbahce",
-      "awayTeam": "Besiktas",
-      "date": "2026-02-27",
-      "time": "19:00",
-      "prediction": {
-        "mainPick": "Under 2.5",
-        "odds": "1.90",
-        "overUnder": "under",
-        "btts": "no",
-        "correctScore": "1-1",
-        "corners": "under 9.5",
-        "analysis": "Tactical derby battle expected. Both managers will prioritize defensive safety.",
-        "result": "pending"
-      },
-      "vip": true
+      "home_team": "Real Madrid",
+      "away_team": "Barcelona",
+      "kickoff_utc": "2023-10-26T20:00:00Z",
+      "status": "won",
+      "access_type": "vip",
+      "home_main_pick": "Home Win",
+      "main_pick_odds": 2.10,
+      "confidence_percent": 75
     }
   ]
 }
