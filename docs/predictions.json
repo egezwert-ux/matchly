@@ -1,4 +1,5 @@
-{  "last_update_utc": "2025-02-26T10:00:00Z",
+{
+  "last_update_utc": "2025-02-26T10:00:00Z",
   "matches": [
     {
       "id": "m26_01",
@@ -35,18 +36,6 @@
       "home_main_pick": "BTTS Yes",
       "main_pick_odds": 1.55,
       "confidence_percent": 91
-    },
-    {
-      "id": "m27_02",
-      "league": "La Liga",
-      "home_team": "Real Madrid",
-      "away_team": "Atletico Madrid",
-      "kickoff_utc": "2025-02-27T21:00:00Z",
-      "status": "pending",
-      "access_type": "vip",
-      "home_main_pick": "Home Win",
-      "main_pick_odds": 2.05,
-      "confidence_percent": 78
     },
     {
       "id": "m25_01",
