@@ -1,29 +1,64 @@
-{
-  "last_update_utc": "2023-10-27T10:00:00Z",
+{  "last_update_utc": "2025-02-26T10:00:00Z",
   "matches": [
     {
-      "id": "match_101",
-      "league": "Premier League",
+      "id": "m26_01",
+      "league": "Champions League",
       "home_team": "Arsenal",
-      "away_team": "Liverpool",
-      "kickoff_utc": "2023-10-28T15:00:00Z",
+      "away_team": "Inter Milan",
+      "kickoff_utc": "2025-02-26T20:00:00Z",
       "status": "pending",
       "access_type": "free",
+      "home_main_pick": "Home Win",
+      "main_pick_odds": 1.75,
+      "confidence_percent": 88
+    },
+    {
+      "id": "m26_02",
+      "league": "Premier League",
+      "home_team": "Liverpool",
+      "away_team": "Chelsea",
+      "kickoff_utc": "2025-02-26T19:30:00Z",
+      "status": "pending",
+      "access_type": "vip",
       "home_main_pick": "Over 2.5",
-      "main_pick_odds": 1.85,
+      "main_pick_odds": 1.65,
       "confidence_percent": 82
     },
     {
-      "id": "match_99",
+      "id": "m27_01",
+      "league": "Europa League",
+      "home_team": "Galatasaray",
+      "away_team": "Ajax",
+      "kickoff_utc": "2025-02-27T18:45:00Z",
+      "status": "pending",
+      "access_type": "free",
+      "home_main_pick": "BTTS Yes",
+      "main_pick_odds": 1.55,
+      "confidence_percent": 91
+    },
+    {
+      "id": "m27_02",
       "league": "La Liga",
       "home_team": "Real Madrid",
-      "away_team": "Barcelona",
-      "kickoff_utc": "2023-10-26T20:00:00Z",
-      "status": "won",
+      "away_team": "Atletico Madrid",
+      "kickoff_utc": "2025-02-27T21:00:00Z",
+      "status": "pending",
       "access_type": "vip",
       "home_main_pick": "Home Win",
-      "main_pick_odds": 2.10,
-      "confidence_percent": 75
+      "main_pick_odds": 2.05,
+      "confidence_percent": 78
+    },
+    {
+      "id": "m25_01",
+      "league": "Serie A",
+      "home_team": "Juventus",
+      "away_team": "AC Milan",
+      "kickoff_utc": "2025-02-25T20:45:00Z",
+      "status": "won",
+      "access_type": "free",
+      "home_main_pick": "Under 3.5",
+      "main_pick_odds": 1.45,
+      "confidence_percent": 85
     }
   ]
 }
