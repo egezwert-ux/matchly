@@ -1,66 +1,47 @@
 {
-  "summary": "Yesterday: 22/24 Wins! 🔥 Recent performance is high.",
+  "summary": "Dünkü başarı: 22/24 Kazandı! 🔥 Performans zirvede.",
   "matches": [
     {
-      "id": "m25_01",
-      "date": "2026-02-28",
+      "id": "match_01",
+      "date": "2025-02-24", 
       "time": "21:00",
       "league": "Champions League",
-      "homeTeam": "Manchester City",
-      "awayTeam": "Inter Milan",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Manchester City",
       "prediction": {
         "mainPick": "MS1",
+        "odds": "2.10",
         "confidence": 92,
         "overUnder": "2.5 ÜST",
-        "predictedScore": "3-1",
+        "predictedScore": "2-1",
+        "btts": "KG VAR",
         "corners": "9.5 ÜST",
-        "odds": "1.65"
+        "result": "pending"
       },
-      "analysis": "Man City is dominant at home. Haaland is in top form.",
-      "result": "pending",
+      "analysis": "Madrid evinde çok güçlü. City savunmasında eksikler var.",
       "vip": false,
       "adUnlock": true
     },
     {
-      "id": "m25_02",
-      "date": "2026-02-28",
+      "id": "match_02",
+      "date": "2025-02-24",
       "time": "22:45",
       "league": "Premier League",
       "homeTeam": "Arsenal",
       "awayTeam": "Liverpool",
       "prediction": {
         "mainPick": "KG VAR",
-        "confidence": 85,
+        "odds": "1.85",
+        "confidence": 88,
         "overUnder": "3.5 ALT",
         "predictedScore": "1-1",
+        "btts": "KG VAR",
         "corners": "10.5 ÜST",
-        "odds": "1.80"
+        "result": "pending"
       },
-      "analysis": "Both teams have strong attacks. High chance of BTTS.",
-      "result": "pending",
+      "analysis": "İki takımın da hücum hattı formda. Karşılıklı gol bekliyoruz.",
       "vip": true,
       "adUnlock": false
-    },
-    {
-      "id": "h24_01",
-      "date": "2026-02-28",
-      "time": "20:00",
-      "league": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "Parma",
-      "prediction": {
-        "mainPick": "MS1",
-        "confidence": 95,
-        "overUnder": "1.5 ÜST",
-        "predictedScore": "2-0",
-        "corners": "8.5 ÜST",
-        "odds": "1.45"
-      },
-      "analysis": "Juventus dominated the game as expected.",
-      "result": "won",
-      "finalScore": "2-0",
-      "vip": false,
-      "adUnlock": true
     }
   ]
 }
