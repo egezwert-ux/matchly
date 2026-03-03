@@ -18,7 +18,7 @@
         "corners": "8.5 ÜST"
       },
       "analysis": "S. Luqueno sahasında savunma disipliniyle ön planda. Az gollü bir galibiyet bekliyoruz.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": false
     },
@@ -102,7 +102,7 @@
         "corners": "9.5 ALT"
       },
       "analysis": "Maldonado kadro kalitesiyle rakibinin oldukça önünde, rahat bir maç bekliyoruz.",
-      "result": "pending",
+      "result": "won",
       "vip": true,
       "adUnlock": true
     },
@@ -115,7 +115,7 @@
       "awayTeam": "L. Asuncion",
       "prediction": {
         "mainPick": "MS 2",
-        "odds": "1.75",
+        "odds": "1.32",
         "confidence": 84,
         "overUnder": "2.5 ÜST",
         "predictedScore": "1-2",
@@ -123,7 +123,7 @@
         "corners": "9.5 ÜST"
       },
       "analysis": "Asuncion ofansif gücüyle San Lorenzo deplasmanından galibiyetle dönecektir.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true
     },
@@ -144,7 +144,7 @@
         "corners": "8.5 ALT"
       },
       "analysis": "Banfield evinde hata yapmaz. Tek gollü bir maç olması muhtemel.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true
     },
@@ -165,7 +165,7 @@
         "corners": "9.5 ALT"
       },
       "analysis": "River Plate'in kalitesi tartışılmaz. Deplasmanda da olsa kazanmaya odaklılar.",
-      "result": "pending",
+      "result": "lost",
       "vip": true,
       "adUnlock": true
     },
@@ -186,7 +186,7 @@
         "corners": "10.5 ÜST"
       },
       "analysis": "Konuk ekip ligin en güçlü şampiyon adaylarından. Manta'yı zor da olsa geçerler.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true
     },
@@ -207,7 +207,7 @@
         "corners": "10.5 ÜST"
       },
       "analysis": "Avustralya ekibi evinde tempo yapacaktır. Gollü bir galibiyet bekliyoruz.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true
     },
