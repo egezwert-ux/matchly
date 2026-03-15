@@ -1,65 +1,33 @@
 import requests
-from bs4 import BeautifulSoup
-from datetime import datetime
-
-FIXTURE_URL = "FIXTURE_URL_BURAYA"
-RESULT_URL = "RESULT_URL_BURAYA"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-def fetch_today_fixtures():
-
-    r = requests.get(FIXTURE_URL, headers=HEADERS)
-    soup = BeautifulSoup(r.text, "html.parser")
-
-    fixtures = []
-
-    matches = soup.select("MATCH_SELECTOR_BURAYA")
-
-    for m in matches:
-
-        home = m.select_one("HOME_SELECTOR")
-        away = m.select_one("AWAY_SELECTOR")
-        time = m.select_one("TIME_SELECTOR")
-
-        if not home or not away:
-            continue
-
-        fixtures.append({
-            "id": str(hash(home.text + away.text)),
-            "date": datetime.utcnow().strftime("%Y-%m-%d"),
-            "time": time.text.strip() if time else "00:00",
-            "league": "Unknown",
-            "homeTeam": home.text.strip(),
-            "awayTeam": away.text.strip()
-        })
-
-    return fixtures
+import datetime
 
 
-def fetch_today_results():
+def get_today_matches():
 
-    r = requests.get(RESULT_URL, headers=HEADERS)
-    soup = BeautifulSoup(r.text, "html.parser")
+    today = datetime.date.today()
 
-    results = []
+    url = f"https://api.sofascore.com/api/v1/sport/football/scheduled-events/{today}"
 
-    matches = soup.select("RESULT_MATCH_SELECTOR")
+    headers = {
+        "User-Agent": "Mozilla/5.0"
+    }
 
-    for m in matches:
+    response = requests.get(url, headers=headers)
 
-        home = m.select_one("RESULT_HOME_SELECTOR")
-        away = m.select_one("RESULT_AWAY_SELECTOR")
-        score = m.select_one("RESULT_SCORE_SELECTOR")
+    data = response.json()
 
-        if not home or not away or not score:
-            continue
+    matches = []
 
-        results.append({
-            "id": str(hash(home.text + away.text)),
-            "score": score.text.strip()
-        })
+    for event in data["events"]:
 
-    return results
+        match = {
+            "id": event["id"],
+            "league": event["tournament"]["name"],
+            "home": event["homeTeam"]["name"],
+            "away": event["awayTeam"]["name"],
+            "time": event["startTimestamp"]
+        }
+
+        matches.append(match)
+
+    return matches
