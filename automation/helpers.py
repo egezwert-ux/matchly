@@ -1,33 +1,53 @@
 import requests
-import datetime
+from bs4 import BeautifulSoup
+from datetime import datetime
 
+# SofaScore fixtures ve results sayfaları
+FIXTURE_URL = "https://www.sofascore.com/football/england/premier-league/fixtures"
+RESULTS_URL = "https://www.sofascore.com/football/england/premier-league/results"
 
-def get_today_matches():
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-    today = datetime.date.today()
+def fetch_today_fixtures():
+    resp = requests.get(FIXTURE_URL, headers=HEADERS)
+    soup = BeautifulSoup(resp.text, "html.parser")
+    fixtures = []
 
-    url = f"https://api.sofascore.com/api/v1/sport/football/scheduled-events/{today}"
+    # 🏟️ Her maç div'i
+    for div in soup.select("div.event-row"):
+        home = div.select_one(".home .name")
+        away = div.select_one(".away .name")
+        match_id = div.get("id")  # genellikle uniq id attribute
+        league = "Premier League"  # Bu örnek, dilersen siteye göre alabilirsin
 
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
+        if not home or not away:
+            continue
 
-    response = requests.get(url, headers=headers)
+        fixtures.append({
+            "id": match_id,
+            "league": league,
+            "homeTeam": home.text.strip(),
+            "awayTeam": away.text.strip(),
+            "date": datetime.utcnow().strftime("%Y-%m-%d")
+        })
+    return fixtures
 
-    data = response.json()
+def fetch_today_results():
+    resp = requests.get(RESULTS_URL, headers=HEADERS)
+    soup = BeautifulSoup(resp.text, "html.parser")
+    results = []
 
-    matches = []
+    for div in soup.select("div.event-row"):
+        match_id = div.get("id")
+        score_span = div.select_one(".score")  # skor div/span
+        score = score_span.text.strip() if score_span else None
 
-    for event in data["events"]:
+        if not match_id or not score:
+            continue
 
-        match = {
-            "id": event["id"],
-            "league": event["tournament"]["name"],
-            "home": event["homeTeam"]["name"],
-            "away": event["awayTeam"]["name"],
-            "time": event["startTimestamp"]
-        }
+        results.append({
+            "id": match_id,
+            "score": score
+        })
 
-        matches.append(match)
-
-    return matches
+    return results
