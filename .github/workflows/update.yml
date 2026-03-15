@@ -1,8 +1,8 @@
-name: Daily AI Prediction
+name: Daily SofaScore AI Prediction
 
 on:
   schedule:
-    - cron: '0 06 * * *'  # UTC 06:00
+    - cron: '0 01 * * *'  # UTC 01:00
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,16 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-      - name: Install Dependencies
-        run: pip install requests
-      - name: Run Match Scraper
-        run: python helpers.py
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Generate Predictions
+        run: python automation/generate_predictions.py
+      - name: Update Results
+        run: python automation/update_results.py
+      - name: Commit & Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/predictions.json
+          git commit -m "Daily AI predictions update" || echo "No changes"
+          git push
