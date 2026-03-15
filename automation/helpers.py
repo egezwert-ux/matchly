@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 def fetch_today_fixtures():
-    url = "https://www.example.com/today-fixtures"
+    url = "https://www.flashscore.com./today-fixtures"
     resp = requests.get(url)
     soup = BeautifulSoup(resp.text, "html.parser")
     fixtures = []
