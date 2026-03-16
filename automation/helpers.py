@@ -1,39 +1,43 @@
-# helpers.py
 import requests
-from bs4 import BeautifulSoup
 from datetime import datetime
 
+# Günün tarihini formatla
+def get_today_date():
+    return datetime.utcnow().strftime("%Y-%m-%d")
+
+# Fixture ve sonuçları çekmek için tek endpoint kullanacağız
+BASE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/"
+
 def fetch_today_fixtures():
-    url = "https://www.sofascore.com/football/fixtures"  # sen burayı kendi endpoint ile değiştireceksin
-    headers = {"User-Agent": "Mozilla/5.0"}
-    resp = requests.get(url, headers=headers)
-    soup = BeautifulSoup(resp.text, "html.parser")
+    date = get_today_date()
+    url = f"{BASE_URL}{date}"
+    resp = requests.get(url)
+    data = resp.json()
     fixtures = []
 
-    # Selector örneği (sen kendi sayfa elementlerine göre değiştir)
-    for tr in soup.select("tr.match"):
-        home = tr.select_one(".home")
-        away = tr.select_one(".away")
-        if not home or not away:
-            continue
+    for event in data.get("events", []):
+        home = event["homeTeam"]["name"]
+        away = event["awayTeam"]["name"]
         fixtures.append({
-            "id": tr.get("data-id"),
-            "league": tr.get("data-league"),
-            "homeTeam": home.text.strip(),
-            "awayTeam": away.text.strip(),
-            "date": datetime.utcnow().strftime("%Y-%m-%d")
+            "id": str(event["id"]),
+            "league": event["tournament"]["name"],
+            "homeTeam": home,
+            "awayTeam": away,
+            "date": date
         })
     return fixtures
 
 def fetch_today_results():
-    url = "https://www.sofascore.com/football/results"  # kendi endpoint ile değiştir
-    headers = {"User-Agent": "Mozilla/5.0"}
-    resp = requests.get(url, headers=headers)
-    soup = BeautifulSoup(resp.text, "html.parser")
+    date = get_today_date()
+    url = f"{BASE_URL}{date}"
+    resp = requests.get(url)
+    data = resp.json()
     results = []
 
-    for tr in soup.select("tr.match"):
-        match_id = tr.get("data-id")
-        score = tr.select_one(".score").text.strip() if tr.select_one(".score") else None
-        results.append({"id": match_id, "score": score})
+    for event in data.get("events", []):
+        home_score = event.get("homeScore")
+        away_score = event.get("awayScore")
+        if home_score is not None and away_score is not None:
+            score = f"{home_score}-{away_score}"
+            results.append({"id": str(event["id"]), "score": score})
     return results
