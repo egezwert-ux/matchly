@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 from datetime import datetime
 
 SOFASCORE_FIXTURE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
