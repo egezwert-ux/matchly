@@ -1,8 +1,8 @@
-name: Daily SofaScore AI Prediction
+name: Daily AI Prediction Automation
 
 on:
   schedule:
-    - cron: '0 01 * * *'  # UTC 01:00
+    - cron: '0 01 * * *'  # UTC 01:00’de çalışacak
   workflow_dispatch:
 
 jobs:
@@ -10,16 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4
+
       - name: Generate Predictions
         run: python automation/generate_predictions.py
+        env:
+          AI_KEY: ${{ secrets.GEMINI_KEY }}
+
       - name: Update Results
         run: python automation/update_results.py
+
       - name: Commit & Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
