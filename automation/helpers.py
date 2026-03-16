@@ -1,43 +1,40 @@
-# helpers.py
 import requests
 from datetime import datetime
 
-# Örnek: Sofascore public JSON endpoint
-# Bu endpointi kendi date ve lig filtrelerine göre değiştir
-SOFASCORE_FIXTURE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
-SOFASCORE_RESULTS_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}/results"
+# Sofascore scheduled events endpoint (örnek)
+FIXTURE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
+RESULTS_URL = "https://api.sofascore.com/api/v1/sport/football/live-events"
 
 def fetch_today_fixtures():
-    """Bugünün maçlarını çek (fixture)"""
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    url = SOFASCORE_FIXTURE_URL.format(date=today)
-
-    resp = requests.get(url)
+    url = FIXTURE_URL.format(date=today)
+    headers = {"User-Agent": "Mozilla/5.0"}
+    
+    resp = requests.get(url, headers=headers)
+    resp.raise_for_status()
     data = resp.json()
-
+    
     fixtures = []
-    for ev in data.get("events", []):
+    for event in data.get("events", []):
         fixtures.append({
-            "id": str(ev["id"]),
-            "league": ev["tournament"]["name"],
-            "homeTeam": ev["homeTeam"]["name"],
-            "awayTeam": ev["awayTeam"]["name"],
+            "id": event.get("id"),
+            "league": event.get("tournament", {}).get("name"),
+            "homeTeam": event.get("homeTeam", {}).get("name"),
+            "awayTeam": event.get("awayTeam", {}).get("name"),
             "date": today
         })
     return fixtures
 
 def fetch_today_results():
-    """Bugünün maç sonuçlarını çek"""
-    today = datetime.utcnow().strftime("%Y-%m-%d")
-    url = SOFASCORE_RESULTS_URL.format(date=today)
-
-    resp = requests.get(url)
+    headers = {"User-Agent": "Mozilla/5.0"}
+    resp = requests.get(RESULTS_URL, headers=headers)
+    resp.raise_for_status()
     data = resp.json()
-
+    
     results = []
-    for ev in data.get("events", []):
+    for event in data.get("events", []):
         results.append({
-            "id": str(ev["id"]),
-            "score": f"{ev.get('homeScore',0)}-{ev.get('awayScore',0)}"
+            "id": event.get("id"),
+            "score": f"{event.get('homeScore',0)}-{event.get('awayScore',0)}"
         })
     return results
