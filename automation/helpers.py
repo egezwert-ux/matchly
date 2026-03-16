@@ -1,53 +1,26 @@
 import requests
-from datetime import datetime, timezone, timedelta
+from bs4 import BeautifulSoup
+from datetime import datetime
 
-# Sofascore endpointleri
-FIXTURE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
-RESULTS_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
+SOFASCORE_FIXTURE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
 
 def fetch_today_fixtures():
-    # Türkiye saati
-    tr_time = datetime.now(timezone(timedelta(hours=3)))
-    date_str = tr_time.strftime("%Y-%m-%d")
-
-    url = FIXTURE_URL.format(date=date_str)
+    today_str = datetime.utcnow().strftime("%Y-%m-%d")
+    url = SOFASCORE_FIXTURE_URL.format(date=today_str)
     try:
-        resp = requests.get(url)
+        resp = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
         data = resp.json()
-        events = data.get("events", [])
         fixtures = []
-        for e in events:
+        for match in data.get("events", []):
             fixtures.append({
-                "id": str(e.get("id")),
-                "league": e.get("tournament", {}).get("name", ""),
-                "homeTeam": e.get("homeTeam", {}).get("name", ""),
-                "awayTeam": e.get("awayTeam", {}).get("name", ""),
-                "date": date_str
+                "id": str(match.get("id")),
+                "league": match.get("tournament", {}).get("name", ""),
+                "homeTeam": match.get("homeTeam", {}).get("name", ""),
+                "awayTeam": match.get("awayTeam", {}).get("name", ""),
+                "date": today_str
             })
         return fixtures
-    except Exception as ex:
-        print("Error fetching fixtures:", ex)
-        return []
-
-def fetch_today_results():
-    # Türkiye saati
-    tr_time = datetime.now(timezone(timedelta(hours=3)))
-    date_str = tr_time.strftime("%Y-%m-%d")
-
-    url = RESULTS_URL.format(date=date_str)
-    try:
-        resp = requests.get(url)
-        data = resp.json()
-        events = data.get("events", [])
-        results = []
-        for e in events:
-            home_score = e.get("homeScore", "")
-            away_score = e.get("awayScore", "")
-            results.append({
-                "id": str(e.get("id")),
-                "score": f"{home_score}-{away_score}" if home_score != "" and away_score != "" else ""
-            })
-        return results
-    except Exception as ex:
-        print("Error fetching results:", ex)
+    except Exception as e:
+        print("Error fetching fixtures:", e)
         return []
