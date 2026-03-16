@@ -1,16 +1,24 @@
 import soccerdata as sd
 import json
 from datetime import datetime
+import os
 
-print("Fetching fixtures...")
+print("Starting fixture fetch...")
 
-sofa = sd.Sofascore()
+# gerekli klasörleri oluştur
+os.makedirs("data", exist_ok=True)
+os.makedirs("docs", exist_ok=True)
 
+# soccerdata başlat
+sofa = sd.Sofascore(data_dir="data")
+
+# fixture çek
 schedule = sofa.read_schedule()
 
 matches = []
 
 for index, row in schedule.iterrows():
+
     matches.append({
         "id": str(index),
         "date": str(row.get("date","")),
@@ -29,4 +37,4 @@ data = {
 with open("docs/predictions.json","w") as f:
     json.dump(data,f,indent=4)
 
-print("Fixtures saved")
+print("Fixtures saved successfully")
