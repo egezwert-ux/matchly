@@ -1,24 +1,15 @@
 import json
-from datetime import datetime
-from helpers import fetch_today_fixtures
 
-JSON_PATH = "docs/predictions.json"
+print("Updating results...")
 
-def update_results():
-    try:
-        with open(JSON_PATH, "r") as f:
-            data = json.load(f)
-    except FileNotFoundError:
-        data = {"lastUpdated": str(datetime.utcnow()), "matches": []}
+with open("docs/predictions.json","r") as f:
+    data = json.load(f)
 
-    fixtures = fetch_today_fixtures()
-    for match in fixtures:
-        for m in data["matches"]:
-            if m["id"] == match["id"]:
-                # Örnek placeholder: Sofascore’dan gerçek sonuçları buraya ekleyebilirsin
-                m["result"] = "update_needed"
-    with open(JSON_PATH, "w") as f:
-        json.dump(data, f, indent=4)
+for match in data["matches"]:
+    if match["result"] == "pending":
+        match["result"] = "pending"
 
-if __name__ == "__main__":
-    update_results()
+with open("docs/predictions.json","w") as f:
+    json.dump(data,f,indent=4)
+
+print("Results checked")
