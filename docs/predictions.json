@@ -1,115 +1,83 @@
-
 {
-  "fixtures": [
+  "lastUpdated": "2024-05-20T12:00:00Z",
+  "summary": "Today's AI Analysis: High confidence in European leagues.",
+  "monetization": {
+    "daily_free_predictions": 2,
+    "extra_rewarded_predictions": 5,
+    "banner_ads": true,
+    "interstitial_ads": ["home_screen", "detail_screen"],
+    "vip": {
+      "ads_removed": true,
+      "extra_predictions": 10,
+      "extra_statistics": true
+    }
+  },
+  "matches": [
     {
-      "id": 1,
-      "date": "2026-03-25",
+      "id": "m1",
       "league": "Premier League",
-      "homeTeam": "Chelsea",
+      "homeTeam": "Manchester City",
       "awayTeam": "Arsenal",
-      "predictedScore": "2-1",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Over",
-      "BTTS": "Yes"
+      "date": "2024-05-22",
+      "time": "20:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.85",
+        "overUnder": "2.5 Over",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "corners": "9.5 Over",
+        "confidence": 88
+      },
+      "analysis": "Manchester City is in great form at home. Arsenal has some injuries in defense.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": false,
+      "isDailyPick": true
     },
     {
-      "id": 2,
-      "date": "2026-03-25",
+      "id": "m2",
       "league": "La Liga",
       "homeTeam": "Real Madrid",
       "awayTeam": "Barcelona",
-      "predictedScore": "1-1",
-      "mainPick": "Draw",
-      "overUnder2_5": "Under",
-      "BTTS": "Yes"
+      "date": "2024-05-22",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Draw or Away",
+        "odds": "2.10",
+        "overUnder": "3.5 Under",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "corners": "8.5 Under",
+        "confidence": 72
+      },
+      "analysis": "El Clasico always brings surprises. Barcelona's midfield is controlling the tempo lately.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": false,
+      "isDailyPick": false
     },
     {
-      "id": 3,
-      "date": "2026-03-25",
-      "league": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "AC Milan",
-      "predictedScore": "2-2",
-      "mainPick": "Draw",
-      "overUnder2_5": "Over",
-      "BTTS": "Yes"
-    },
-    {
-      "id": 4,
-      "date": "2026-03-25",
-      "league": "Bundesliga",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Borussia Dortmund",
-      "predictedScore": "3-1",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Over",
-      "BTTS": "No"
-    },
-    {
-      "id": 5,
-      "date": "2026-03-25",
-      "league": "Ligue 1",
-      "homeTeam": "Paris Saint-Germain",
-      "awayTeam": "Marseille",
-      "predictedScore": "2-0",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Under",
-      "BTTS": "No"
-    },
-    {
-      "id": 6,
-      "date": "2026-03-25",
-      "league": "Premier League",
-      "homeTeam": "Manchester City",
-      "awayTeam": "Liverpool",
-      "predictedScore": "2-2",
-      "mainPick": "Draw",
-      "overUnder2_5": "Over",
-      "BTTS": "Yes"
-    },
-    {
-      "id": 7,
-      "date": "2026-03-25",
-      "league": "La Liga",
-      "homeTeam": "Atletico Madrid",
-      "awayTeam": "Sevilla",
-      "predictedScore": "1-0",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Under",
-      "BTTS": "No"
-    },
-    {
-      "id": 8,
-      "date": "2026-03-25",
+      "id": "m3",
       "league": "Serie A",
       "homeTeam": "Inter Milan",
-      "awayTeam": "Napoli",
-      "predictedScore": "1-2",
-      "mainPick": "Away Win",
-      "overUnder2_5": "Under",
-      "BTTS": "Yes"
-    },
-    {
-      "id": 9,
-      "date": "2026-03-25",
-      "league": "Bundesliga",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Schalke 04",
-      "predictedScore": "3-0",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Over",
-      "BTTS": "No"
-    },
-    {
-      "id": 10,
-      "date": "2026-03-25",
-      "league": "Ligue 1",
-      "homeTeam": "Lyon",
-      "awayTeam": "Nice",
-      "predictedScore": "2-1",
-      "mainPick": "Home Win",
-      "overUnder2_5": "Over",
-      "BTTS": "Yes"
+      "awayTeam": "AC Milan",
+      "date": "2024-05-23",
+      "time": "20:45",
+      "prediction": {
+        "mainPick": "Over 2.5 Goals",
+        "odds": "1.75",
+        "overUnder": "2.5 Over",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "corners": "10.5 Over",
+        "confidence": 80
+      },
+      "analysis": "Derby della Madonnina. Both teams are scoring easily this season.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
   ]
 }
