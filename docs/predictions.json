@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-27T01:40:00Z",
-  "summary": "Matchly AI: Global Data Feed - Part 1. Focus on International and Americas.",
+  "lastUpdated": "2026-03-27T01:50:00Z",
+  "summary": "Matchly AI: Global Match Feed with Sequential Identifiers.",
   "matches": [
     {
-      "id": "match_2026_wc_001",
+      "id": "m1",
       "league": "World Cup Qualifiers - Inter-Confederation",
       "homeTeam": "Bolivia",
       "awayTeam": "Suriname",
@@ -19,14 +19,14 @@
         "cards": "3.5 Over",
         "confidence": 65
       },
-      "analysis": "Early stages of the match with both teams playing defensively. A low-scoring draw is highly probable.",
+      "analysis": "A defensive start for both sides. The current tempo suggests a low-scoring result.",
       "result": "pending",
       "vip": false,
       "adUnlock": false,
       "isDailyPick": false
     },
     {
-      "id": "match_2026_par_001",
+      "id": "m2",
       "league": "Paraguay Primera Division - Apertura",
       "homeTeam": "CD Recoleta",
       "awayTeam": "Rubio Nu",
@@ -42,14 +42,14 @@
         "cards": "4.5 Over",
         "confidence": 70
       },
-      "analysis": "Two defensive-minded sides in the Paraguayan league. Expect a tight encounter with a likely draw.",
+      "analysis": "Both teams show tactical discipline but lack finishing power. A draw is the most likely outcome.",
       "result": "pending",
       "vip": true,
       "adUnlock": false,
       "isDailyPick": false
     },
     {
-      "id": "match_2026_int_001",
+      "id": "m3",
       "league": "International Friendlies",
       "homeTeam": "Croatia",
       "awayTeam": "Colombia",
@@ -65,14 +65,14 @@
         "cards": "3.5 Under",
         "confidence": 80
       },
-      "analysis": "Colombia shows better momentum in neutral venues. Expect an offensive game with goals from both sides.",
+      "analysis": "Colombia is currently in better physical shape for this friendly. Expect offensive pressure from the visitors.",
       "result": "pending",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": true
     },
     {
-      "id": "match_2026_chi_001",
+      "id": "m4",
       "league": "Chile Copa de la Liga",
       "homeTeam": "Everton de Vina",
       "awayTeam": "O'Higgins",
@@ -88,14 +88,14 @@
         "cards": "5.5 Over",
         "confidence": 75
       },
-      "analysis": "Everton holds a strong home advantage. O'Higgins may score, but the hosts are expected to secure 3 points.",
+      "analysis": "Everton usually dominates at home. O'Higgins has defensive gaps that the hosts will likely exploit.",
       "result": "pending",
       "vip": false,
       "adUnlock": false,
       "isDailyPick": false
     },
     {
-      "id": "match_2026_chi_002",
+      "id": "m5",
       "league": "Chile Copa de la Liga",
       "homeTeam": "Universidad Concepcion",
       "awayTeam": "Cobresal",
@@ -111,78 +111,124 @@
         "cards": "4.5 Under",
         "confidence": 85
       },
-      "analysis": "Concepcion is in superior form compared to Cobresal's struggling defense. Clear home win expected.",
+      "analysis": "The hosts are heavy favorites here. Cobresal's away record has been poor in recent weeks.",
       "result": "pending",
       "vip": true,
       "adUnlock": false,
       "isDailyPick": true
     },
     {
-      "id": "match_2026_arg_001",
-      "league": "Argentina Primera LFP - Apertura",
-      "homeTeam": "Argentinos Juniors",
-      "awayTeam": "Atletico Lanus",
+      "id": "m6",
+      "league": "Australia NPL Victoria",
+      "homeTeam": "Bentleigh Greens",
+      "awayTeam": "Dandenong Thunder",
       "date": "2026-03-27",
-      "time": "03:00",
+      "time": "11:30",
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.73",
-        "overUnder": "2.5 Under",
-        "btts": "No",
-        "predictedScore": "2-0",
-        "corners": "8.5 Under",
-        "cards": "4.5 Over",
-        "confidence": 80
-      },
-      "analysis": "Argentinos Juniors are disciplined at home. Lanus lacks offensive creativity in away matches.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": false,
-      "isDailyPick": false
-    },
-    {
-      "id": "match_2026_int_002",
-      "league": "International Friendlies",
-      "homeTeam": "Dominican Republic",
-      "awayTeam": "El Salvador",
-      "date": "2026-03-27",
-      "time": "03:00",
-      "prediction": {
-        "mainPick": "Draw",
-        "odds": "2.90",
-        "overUnder": "2.5 Under",
+        "odds": "2.04",
+        "overUnder": "2.5 Over",
         "btts": "Yes",
-        "predictedScore": "1-1",
-        "corners": "9.5 Over",
-        "cards": "3.5 Under",
-        "confidence": 70
+        "predictedScore": "3-1",
+        "corners": "12.5 Over",
+        "cards": "4.5 Over",
+        "confidence": 75
       },
-      "analysis": "Friendly match between two evenly matched CONCACAF sides. A balanced draw is the most likely result.",
+      "analysis": "NPL Victoria is known for high scores. Bentleigh should win this high-tempo encounter.",
       "result": "pending",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
     },
     {
-      "id": "match_2026_int_003",
-      "league": "International Friendlies",
-      "homeTeam": "Chile",
-      "awayTeam": "Cape Verde",
+      "id": "m7",
+      "league": "Australia NPL Victoria",
+      "homeTeam": "Heidelberg United",
+      "awayTeam": "Melbourne City U21",
       "date": "2026-03-27",
-      "time": "06:00",
+      "time": "11:30",
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.56",
-        "overUnder": "2.5 Under",
+        "odds": "1.27",
+        "overUnder": "2.5 Over",
         "btts": "No",
-        "predictedScore": "1-0",
-        "corners": "8.5 Alt",
-        "cards": "2.5 Alt",
-        "confidence": 85
+        "predictedScore": "4-0",
+        "corners": "11.5 Over",
+        "cards": "3.5 Under",
+        "confidence": 95
       },
-      "analysis": "Chile is testing new players. Expect a low-tempo game where the hosts dominate possession.",
+      "analysis": "Massive experience gap. Heidelberg will likely overwhelm the young Melbourne squad.",
       "result": "pending",
       "vip": true,
+      "adUnlock": false,
+      "isDailyPick": true
+    },
+    {
+      "id": "m8",
+      "league": "U21 Euro Championship Qualifiers",
+      "homeTeam": "Georgia U21",
+      "awayTeam": "Latvia U21",
+      "date": "2026-03-27",
+      "time": "18:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.29",
+        "overUnder": "2.5 Under",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "corners": "8.5 Under",
+        "cards": "3.5 Under",
+        "confidence": 95
+      },
+      "analysis": "Georgia's young talents are in excellent form. Expect a controlled match and a solid home victory.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": false,
+      "isDailyPick": true
+    },
+    {
+      "id": "m9",
+      "league": "U21 Euro Championship Qualifiers",
+      "homeTeam": "Norway U21",
+      "awayTeam": "Netherlands U21",
+      "date": "2026-03-27",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "3.27",
+        "overUnder": "2.5 Over",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "corners": "11.5 Over",
+        "cards": "4.5 Over",
+        "confidence": 75
+      },
+      "analysis": "A clash of two elite youth systems. A high-scoring draw is statistically the most probable result.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m10",
+      "league": "France National League",
+      "homeTeam": "Fleury 91",
+      "awayTeam": "Bourg-en-Bresse",
+      "date": "2026-03-27",
+      "time": "21:30",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "3.02",
+        "overUnder": "2.5 Under",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "corners": "9.5 Over",
+        "cards": "4.5 Over",
+        "confidence": 70
+      },
+      "analysis": "Both teams are struggling for consistency. A cautious game with a shared point is expected.",
+      "result": "pending",
+      "vip": false,
       "adUnlock": false,
       "isDailyPick": true
     }
