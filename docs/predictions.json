@@ -304,29 +304,6 @@
       "vip": false,
       "adUnlock": false,
       "isDailyPick": true
-    },
-    {
-      "id": "match_2026_fra_001",
-      "league": "France National League",
-      "homeTeam": "Fleury 91",
-      "awayTeam": "Bourg-en-Bresse",
-      "date": "2026-03-27",
-      "time": "21:30",
-      "prediction": {
-        "mainPick": "Draw",
-        "odds": "3.02",
-        "overUnder": "2.5 Under",
-        "btts": "Yes",
-        "predictedScore": "1-1",
-        "corners": "9.5 Over",
-        "cards": "4.5 Over",
-        "confidence": 70
-      },
-      "analysis": "Very balanced encounter. Both teams rely on counter-attacks which often leads to shared points.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": false,
-      "isDailyPick": true
     }
-  ]
-}
+    
+      
