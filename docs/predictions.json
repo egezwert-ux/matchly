@@ -13,7 +13,7 @@
         "mainPick": "Away Win", "odds": "1.35", "overUnder": "3.5 Over", "btts": "Yes", "predictedScore": "1-4", "confidence": 90
       },
       "analysis": "APIA Leichhardt is in superior form in the youth league. High scoring game expected.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": true
+      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": true
     },
     {
       "id": "m2",
@@ -26,7 +26,7 @@
         "mainPick": "Home Win", "odds": "1.10", "overUnder": "3.5 Over", "btts": "No", "predictedScore": "5-0", "confidence": 98
       },
       "analysis": "Significant quality gap. Monaro Panthers likely to dominate from the start.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m3",
@@ -52,7 +52,7 @@
         "mainPick": "Draw", "odds": "3.10", "overUnder": "2.5 Under", "btts": "Yes", "predictedScore": "1-1", "confidence": 68
       },
       "analysis": "A balanced clash in the Saudi second tier. Midfield battle will likely end in a stalemate.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m5",
@@ -65,7 +65,7 @@
         "mainPick": "Home Win", "odds": "1.30", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "2-0", "confidence": 88
       },
       "analysis": "Abha's squad depth is superior. Expected to secure a clean sheet victory.",
-      "result": "pending", "vip": false, "adUnlock": true, "isDailyPick": false
+      "result": "won", "vip": false, "adUnlock": true, "isDailyPick": false
     },
     {
       "id": "m6",
@@ -78,7 +78,7 @@
         "mainPick": "Draw", "odds": "2.85", "overUnder": "1.5 Under", "btts": "No", "predictedScore": "0-0", "confidence": 75
       },
       "analysis": "Egyptian lower leagues are historically low-scoring. Tight defensive setups for both.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "result": "lost", "vip": false, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m7",
@@ -104,7 +104,7 @@
         "mainPick": "Home Win", "odds": "2.05", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "1-0", "confidence": 78
       },
       "analysis": "ASM Oran has the home advantage. Expect a narrow victory in a tactical game.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m9",
@@ -130,7 +130,7 @@
         "mainPick": "Home Win", "odds": "1.25", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "2-0", "confidence": 92
       },
       "analysis": "Georgia has a very promising youth generation. Latvia's defense is prone to errors.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": true
+      "result": "lost", "vip": true, "adUnlock": false, "isDailyPick": true
     },
     {
       "id": "m11",
@@ -143,7 +143,7 @@
         "mainPick": "Away Win", "odds": "1.10", "overUnder": "3.5 Over", "btts": "No", "predictedScore": "0-4", "confidence": 96
       },
       "analysis": "Spain is one of the world's best at this level. Clear difference in technical quality.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m12",
@@ -156,7 +156,7 @@
         "mainPick": "Away Win", "odds": "1.75", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "0-1", "confidence": 80
       },
       "analysis": "Slovakia has a more disciplined tactical setup. Kazakhstan will likely sit back and defend.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": false
     },
     {
       "id": "m13",
