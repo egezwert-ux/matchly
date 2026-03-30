@@ -1,371 +1,720 @@
 {
-  "lastUpdated": "2026-03-27T20:05:00Z",
-  "summary": "Matchly Pro: Specific Screenshot Data Feed (m1-m40+)",
+  "lastUpdated": "2026-03-31T00:28:00Z",
+  "summary": "Complete predictions for ALL matches from the provided betting app screenshots (MS-2.5 tab) - All results set to pending",
   "matches": [
     {
       "id": "m1",
-      "league": "Australia NPL NSW Youth",
-      "homeTeam": "Sydney FC II",
-      "awayTeam": "APIA Leichhardt",
-      "date": "2026-03-28",
-      "time": "11:30",
+      "league": "Colombia Primera A",
+      "homeTeam": "Independiente Medellin",
+      "awayTeam": "America de Cali",
+      "date": "2026-03-31",
+      "time": "02:10",
       "prediction": {
-        "mainPick": "Away Win", "odds": "1.35", "overUnder": "3.5 Over", "btts": "Yes", "predictedScore": "1-4", "confidence": 90
+        "mainPick": "Home Win or Draw",
+        "odds": "1.84",
+        "overUnder": "Under 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 68
       },
-      "analysis": "APIA Leichhardt is in superior form in the youth league. High scoring game expected.",
-      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": true
+      "analysis": "Medellin are slight favorites at home. America de Cali are tough to beat away. Expect a tight, cagey match with possibly one goal each.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m2",
-      "league": "Australia NPL Capital Territory",
-      "homeTeam": "Monaro Panthers",
-      "awayTeam": "Tuggeranong United",
-      "date": "2026-03-27",
-      "time": "11:30",
+      "league": "Uruguay Primera Division",
+      "homeTeam": "Cerro Largo",
+      "awayTeam": "Danubio",
+      "date": "2026-03-31",
+      "time": "02:15",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.10", "overUnder": "3.5 Over", "btts": "No", "predictedScore": "5-0", "confidence": 98
+        "mainPick": "Draw",
+        "odds": "2.66",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 62
       },
-      "analysis": "Significant quality gap. Monaro Panthers likely to dominate from the start.",
-      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Very balanced odds. Both teams have shown they can score in recent encounters. A draw with BTTS is the most likely outcome.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m3",
-      "league": "Saudi Arabia First Division",
-      "homeTeam": "Al-Batin",
-      "awayTeam": "Al-Zulfi",
-      "date": "2026-03-27",
-      "time": "15:55",
+      "league": "Paraguay Primera Division",
+      "homeTeam": "Libertad Asuncion",
+      "awayTeam": "CD Recoleta",
+      "date": "2026-03-31",
+      "time": "02:30",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.85", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "2-0", "confidence": 82
+        "mainPick": "Home Win",
+        "odds": "1.50",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 78
       },
-      "analysis": "Al-Batin relies on solid home defense. Al-Zulfi struggles to create chances away.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Libertad are strong favorites at home. Recoleta are weaker away. Home win with goals expected from both sides.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m4",
-      "league": "Saudi Arabia First Division",
-      "homeTeam": "Al-Arabi",
-      "awayTeam": "Al-Najma",
-      "date": "2026-03-27",
-      "time": "16:00",
+      "league": "Chile Primera Division",
+      "homeTeam": "Palestino",
+      "awayTeam": "O'Higgins",
+      "date": "2026-03-31",
+      "time": "02:30",
       "prediction": {
-        "mainPick": "Draw", "odds": "3.10", "overUnder": "2.5 Under", "btts": "Yes", "predictedScore": "1-1", "confidence": 68
+        "mainPick": "Home Win",
+        "odds": "1.81",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 70
       },
-      "analysis": "A balanced clash in the Saudi second tier. Midfield battle will likely end in a stalemate.",
-      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Palestino have good home form and are favorites. O'Higgins often concede. Home victory with BTTS likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m5",
-      "league": "Saudi Arabia First Division",
-      "homeTeam": "Abha Club",
-      "awayTeam": "Al Jabil",
-      "date": "2026-03-27",
-      "time": "16:15",
+      "league": "Chile Primera Division",
+      "homeTeam": "Universidad Concepcion",
+      "awayTeam": "Nublense",
+      "date": "2026-03-31",
+      "time": "02:30",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.30", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "2-0", "confidence": 88
+        "mainPick": "Home Win",
+        "odds": "2.35",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 64
       },
-      "analysis": "Abha's squad depth is superior. Expected to secure a clean sheet victory.",
-      "result": "won", "vip": false, "adUnlock": true, "isDailyPick": false
+      "analysis": "Concepcion slight favorites at home. Both teams involved in open games recently. Over 2.5 and BTTS probable.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m6",
-      "league": "Egypt Second Division",
-      "homeTeam": "Al Qanah",
-      "awayTeam": "El Sekka El Hadid",
-      "date": "2026-03-27",
-      "time": "16:30",
+      "league": "Uruguay Primera Division",
+      "homeTeam": "Central Espanol",
+      "awayTeam": "Deportivo Maldonado",
+      "date": "2026-03-31",
+      "time": "03:00",
       "prediction": {
-        "mainPick": "Draw", "odds": "2.85", "overUnder": "1.5 Under", "btts": "No", "predictedScore": "0-0", "confidence": 75
+        "mainPick": "Home Win",
+        "odds": "2.72",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 59
       },
-      "analysis": "Egyptian lower leagues are historically low-scoring. Tight defensive setups for both.",
-      "result": "lost", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Evenly matched but Central Espanol have home advantage. Expect an open match with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m7",
-      "league": "Egypt Second Division",
-      "homeTeam": "Proxy SC",
-      "awayTeam": "Telecom Egypt",
-      "date": "2026-03-27",
-      "time": "16:30",
+      "league": "AFC Asian Cup Qualifiers",
+      "homeTeam": "Maldives",
+      "awayTeam": "East Timor",
+      "date": "2026-03-31",
+      "time": "13:30",
       "prediction": {
-        "mainPick": "Draw", "odds": "2.75", "overUnder": "2.5 Under", "btts": "Yes", "predictedScore": "1-1", "confidence": 70
+        "mainPick": "Home Win",
+        "odds": "1.89",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "confidence": 72
       },
-      "analysis": "Middle-table clash. Both teams tend to settle for a point in away/home rotations.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Maldives are clear favorites at home against a weaker side. Expect a controlled home win with a clean sheet possible.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m8",
-      "league": "Algeria Second Division",
-      "homeTeam": "ASM Oran",
-      "awayTeam": "WA Tlemcen",
-      "date": "2026-03-27",
-      "time": "17:00",
+      "league": "AFC Asian Cup Qualifiers",
+      "homeTeam": "Taiwan",
+      "awayTeam": "Sri Lanka",
+      "date": "2026-03-31",
+      "time": "13:30",
       "prediction": {
-        "mainPick": "Home Win", "odds": "2.05", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "1-0", "confidence": 78
+        "mainPick": "Home Win",
+        "odds": "1.91",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 67
       },
-      "analysis": "ASM Oran has the home advantage. Expect a narrow victory in a tactical game.",
-      "result": "won", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Taiwan slight favorites. These qualifier matches often see narrow home wins with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m9",
-      "league": "Algeria Second Division",
-      "homeTeam": "ES Mostaganem",
-      "awayTeam": "NA Hussein Dey",
-      "date": "2026-03-27",
-      "time": "17:00",
+      "league": "AFC Asian Cup Qualifiers",
+      "homeTeam": "Pakistan",
+      "awayTeam": "Myanmar",
+      "date": "2026-03-31",
+      "time": "12:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.90", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "2-0", "confidence": 82
+        "mainPick": "Home Win",
+        "odds": "1.54",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 65
       },
-      "analysis": "Mostaganem's home form is relentless. Hussein Dey struggles with away morale.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Pakistan are favorites at home. Expect a win with both teams scoring possible in this Asian qualifier.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m10",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Georgia U21",
-      "awayTeam": "Latvia U21",
-      "date": "2026-03-27",
-      "time": "18:00",
+      "league": "International Friendly",
+      "homeTeam": "Equatorial Guinea",
+      "awayTeam": "Madagascar",
+      "date": "2026-03-31",
+      "time": "12:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.25", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "2-0", "confidence": 92
+        "mainPick": "Home Win",
+        "odds": "2.44",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 58
       },
-      "analysis": "Georgia has a very promising youth generation. Latvia's defense is prone to errors.",
-      "result": "lost", "vip": true, "adUnlock": false, "isDailyPick": true
+      "analysis": "Close odds suggest a competitive friendly. Home advantage for Equatorial Guinea but Madagascar are solid. BTTS likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m11",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Cyprus U21",
-      "awayTeam": "Spain U21",
-      "date": "2026-03-27",
-      "time": "18:00",
+      "league": "International Friendly",
+      "homeTeam": "Australia",
+      "awayTeam": "Curacao",
+      "date": "2026-03-31",
+      "time": "12:10",
       "prediction": {
-        "mainPick": "Away Win", "odds": "1.10", "overUnder": "3.5 Over", "btts": "No", "predictedScore": "0-4", "confidence": 96
+        "mainPick": "Home Win",
+        "odds": "1.38",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 75
       },
-      "analysis": "Spain is one of the world's best at this level. Clear difference in technical quality.",
-      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Australia are strong favorites at home. Expect a comfortable win with multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m12",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Kazakhstan U21",
-      "awayTeam": "Slovakia U21",
-      "date": "2026-03-27",
-      "time": "18:00",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Georgia U21",
+      "awayTeam": "Malta U21",
+      "date": "2026-03-31",
+      "time": "17:00",
       "prediction": {
-        "mainPick": "Away Win", "odds": "1.75", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "0-1", "confidence": 80
+        "mainPick": "Home Win",
+        "odds": "1.21",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "confidence": 82
       },
-      "analysis": "Slovakia has a more disciplined tactical setup. Kazakhstan will likely sit back and defend.",
-      "result": "won", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Georgia U21 are heavy favorites. Malta are weak away. Expect a comfortable home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m13",
-      "league": "Saudi Arabia First Division",
-      "homeTeam": "Al-Faisaly",
-      "awayTeam": "Al-Bukiryah",
-      "date": "2026-03-27",
-      "time": "18:55",
+      "league": "AFC Asian Cup Qualifiers",
+      "homeTeam": "Tajikistan",
+      "awayTeam": "Philippines",
+      "date": "2026-03-31",
+      "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.65", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "2-1", "confidence": 85
+        "mainPick": "Home Win",
+        "odds": "1.80",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 70
       },
-      "analysis": "Faisaly is pushing for promotion. Their attack should find the breakthrough here.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Tajikistan favored at home. Expect a narrow win with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m14",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Turkey U21",
-      "awayTeam": "Italy U21",
-      "date": "2026-03-27",
-      "time": "19:15",
+      "league": "African Nations Cup Qualifiers",
+      "homeTeam": "Eswatini",
+      "awayTeam": "Eritrea",
+      "date": "2026-03-31",
+      "time": "17:00",
       "prediction": {
-        "mainPick": "Away Win", "odds": "1.72", "overUnder": "2.5 Over", "btts": "Yes", "predictedScore": "1-2", "confidence": 84
+        "mainPick": "Home Win",
+        "odds": "1.49",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 74
       },
-      "analysis": "Italy has more experience in high-pressure matches, but Turkey's youth home crowd adds risk.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": true
+      "analysis": "Eswatini are favorites. Expect a home victory with both teams scoring possible.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m15",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Norway U21",
-      "awayTeam": "Netherlands U21",
-      "date": "2026-03-27",
-      "time": "20:00",
+      "league": "Uruguay Primera Division",
+      "homeTeam": "CA Progreso",
+      "awayTeam": "Liverpool Montevideo",
+      "date": "2026-03-31",
+      "time": "17:00",
       "prediction": {
-        "mainPick": "Draw", "odds": "3.30", "overUnder": "3.5 Over", "btts": "Yes", "predictedScore": "2-2", "confidence": 75
+        "mainPick": "Draw",
+        "odds": "2.80",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 60
       },
-      "analysis": "Two high-scoring attacking sides. Expect a very entertaining match with goals on both ends.",
-      "result": "pending", "vip": false, "adUnlock": true, "isDailyPick": false
+      "analysis": "Evenly matched teams. Draw with BTTS is a common result in this league.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m16",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Germany U21",
-      "awayTeam": "Northern Ireland U21",
-      "date": "2026-03-27",
-      "time": "20:00",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Hungary U21",
+      "awayTeam": "Ukraine U21",
+      "date": "2026-03-31",
+      "time": "17:30",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.15", "overUnder": "3.5 Over", "btts": "No", "predictedScore": "4-0", "confidence": 95
+        "mainPick": "Away Win",
+        "odds": "1.81",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 68
       },
-      "analysis": "Germany at home is nearly unstoppable in qualifiers. Expect dominance.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Ukraine U21 are slight favorites. Expect an open youth international with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m17",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Poland U21",
-      "awayTeam": "Armenia U21",
-      "date": "2026-03-27",
-      "time": "20:00",
+      "league": "UEFA U19 European Championship Elite Round",
+      "homeTeam": "Austria U19",
+      "awayTeam": "Germany U19",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.20", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "3-0", "confidence": 90
+        "mainPick": "Away Win",
+        "odds": "1.32",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-3",
+        "confidence": 80
       },
-      "analysis": "Poland needs these points. Armenia lacks the defensive depth to resist for 90 minutes.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Germany U19 are strong favorites. Expect them to dominate and win comfortably.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m18",
-      "league": "U21 Euro Qualifiers",
-      "homeTeam": "Portugal U21",
-      "awayTeam": "Croatia U21",
-      "date": "2026-03-27",
-      "time": "20:30",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Romania U21",
+      "awayTeam": "San Marino U21",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.45", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "2-0", "confidence": 92
+        "mainPick": "Home Win",
+        "odds": "1.18",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "3-0",
+        "confidence": 85
       },
-      "analysis": "Portugal controls the tempo through possession. Croatia will struggle to find openings.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Romania are heavy favorites against very weak San Marino. Expect a big home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m19",
-      "league": "France National",
-      "homeTeam": "Fleury 91",
-      "awayTeam": "Bourg-en-Bresse",
-      "date": "2026-03-27",
-      "time": "21:30",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Denmark U21",
+      "awayTeam": "Wales U21",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Draw", "odds": "3.00", "overUnder": "2.5 Under", "btts": "Yes", "predictedScore": "1-1", "confidence": 70
+        "mainPick": "Home Win",
+        "odds": "1.18",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 78
       },
-      "analysis": "Two mid-table French sides. Expect a cautious approach from both managers.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Denmark strong favorites. Expect a home win with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m20",
-      "league": "France National",
-      "homeTeam": "Orleans",
-      "awayTeam": "Villefranche",
-      "date": "2026-03-27",
-      "time": "21:30",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Greece U21",
+      "awayTeam": "Germany U21",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.85", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "2-0", "confidence": 80
+        "mainPick": "Away Win",
+        "odds": "1.34",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 75
       },
-      "analysis": "Orleans has found a good rhythm at home lately. Villefranche struggles away.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Germany U21 are clear favorites. Expect them to take the three points.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m21",
-      "league": "France National",
-      "homeTeam": "Valenciennes",
-      "awayTeam": "Aubagne",
-      "date": "2026-03-27",
-      "time": "21:30",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Bulgaria U21",
+      "awayTeam": "Azerbaijan U21",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.60", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "1-0", "confidence": 85
+        "mainPick": "Home Win",
+        "odds": "1.12",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-0",
+        "confidence": 83
       },
-      "analysis": "Valenciennes' quality edge should be enough to secure a narrow victory.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Bulgaria heavy favorites at home. Expect a comfortable win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m22",
-      "league": "International Friendlies",
-      "homeTeam": "Comoros",
-      "awayTeam": "Angola",
-      "date": "2026-03-27",
-      "time": "22:00",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Austria U21",
+      "awayTeam": "Belarus U21",
+      "date": "2026-03-31",
+      "time": "19:00",
       "prediction": {
-        "mainPick": "Draw", "odds": "2.95", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "0-0", "confidence": 72
+        "mainPick": "Home Win",
+        "odds": "1.16",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 79
       },
-      "analysis": "A low-intensity friendly. Both teams are testing defensive rotations.",
-      "result": "pending", "vip": false, "adUnlock": true, "isDailyPick": false
+      "analysis": "Austria strong favorites. Expect a home victory.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m23",
-      "league": "International Friendlies",
-      "homeTeam": "Morocco",
-      "awayTeam": "Angola",
-      "date": "2026-03-27",
-      "time": "22:00",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Mirandes",
+      "awayTeam": "Albacete",
+      "date": "2026-03-31",
+      "time": "20:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.40", "overUnder": "2.5 Over", "btts": "No", "predictedScore": "2-0", "confidence": 90
+        "mainPick": "Home Win",
+        "odds": "2.44",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 61
       },
-      "analysis": "Morocco's squad is globally competitive. Expected to control the match throughout.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Close match with Mirandes slight favorites at home. Expect a competitive game.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m24",
-      "league": "International Friendlies",
-      "homeTeam": "Burkina Faso",
-      "awayTeam": "Libya",
-      "date": "2026-03-27",
-      "time": "22:00",
+      "league": "International Friendly",
+      "homeTeam": "Hungary",
+      "awayTeam": "Greece",
+      "date": "2026-03-31",
+      "time": "20:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.75", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "1-0", "confidence": 80
+        "mainPick": "Home Win",
+        "odds": "2.09",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 66
       },
-      "analysis": "Burkina Faso has more offensive options. Libya will likely play a deep defensive line.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Hungary slight favorites in this friendly. BTTS likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m25",
-      "league": "International Friendlies",
-      "homeTeam": "Madagascar",
-      "awayTeam": "Burundi",
-      "date": "2026-03-27",
-      "time": "22:00",
+      "league": "Argentina Primera Division",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Argentinos Juniors",
+      "date": "2026-03-31",
+      "time": "20:00",
       "prediction": {
-        "mainPick": "Draw", "odds": "3.10", "overUnder": "2.5 Under", "btts": "Yes", "predictedScore": "1-1", "confidence": 65
+        "mainPick": "Draw",
+        "odds": "2.69",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-0",
+        "confidence": 57
       },
-      "analysis": "Even match between two mid-tier African nations. Split of points expected.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "Very even matchup. Low-scoring draw possible.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m26",
-      "league": "International Friendlies",
-      "homeTeam": "Mauritania",
-      "awayTeam": "Mali",
-      "date": "2026-03-27",
-      "time": "22:30",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "Switzerland U21",
+      "awayTeam": "Estonia U21",
+      "date": "2026-03-31",
+      "time": "21:00",
       "prediction": {
-        "mainPick": "Away Win", "odds": "1.80", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "0-2", "confidence": 84
+        "mainPick": "Home Win",
+        "odds": "1.07",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "3-0",
+        "confidence": 88
       },
-      "analysis": "Mali's squad depth is far superior. They are expected to dominate the midfield.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": false
+      "analysis": "Switzerland heavy favorites. Expect a big home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m27",
-      "league": "International Friendlies",
-      "homeTeam": "Togo",
-      "awayTeam": "Niger",
-      "date": "2026-03-27",
-      "time": "23:00",
+      "league": "UEFA U21 European Championship Qualifiers",
+      "homeTeam": "England U21",
+      "awayTeam": "Moldova U21",
+      "date": "2026-03-31",
+      "time": "21:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "2.10", "overUnder": "2.5 Under", "btts": "No", "predictedScore": "1-0", "confidence": 75
+        "mainPick": "Home Win",
+        "odds": "1.07",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "4-0",
+        "confidence": 90
       },
-      "analysis": "Togo has shown better defensive organization in recent friendly rotations.",
-      "result": "pending", "vip": false, "adUnlock": false, "isDailyPick": false
+      "analysis": "England are massive favorites. Expect a dominant performance.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     },
     {
       "id": "m28",
-      "league": "International Friendlies",
-      "homeTeam": "Algeria",
-      "awayTeam": "Bolivia",
-      "date": "2026-03-27",
-      "time": "23:00",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Deportivo La Coruna",
+      "awayTeam": "Cordoba",
+      "date": "2026-03-31",
+      "time": "21:00",
       "prediction": {
-        "mainPick": "Home Win", "odds": "1.35", "overUnder": "3.5 Under", "btts": "No", "predictedScore": "3-0", "confidence": 92
+        "mainPick": "Home Win",
+        "odds": "1.78",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 69
       },
-      "analysis": "Algeria at home is a heavy favorite. Bolivia struggles significantly in away fixtures.",
-      "result": "pending", "vip": true, "adUnlock": false, "isDailyPick": true
+      "analysis": "La Coruna favorites at home. Expect a win with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m29",
+      "league": "FIFA World Cup European Playoff",
+      "homeTeam": "Sweden",
+      "awayTeam": "Poland",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.79",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 71
+      },
+      "analysis": "Sweden slight favorites in this important playoff. Expect a tight but goal-filled match.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m30",
+      "league": "FIFA World Cup European Playoff",
+      "homeTeam": "Kosovo",
+      "awayTeam": "Turkey",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.61",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 74
+      },
+      "analysis": "Turkey are favorites. Expect them to take the win in this playoff clash.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m31",
+      "league": "FIFA World Cup European Playoff",
+      "homeTeam": "Bosnia & Herzegovina",
+      "awayTeam": "Italy",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.35",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-3",
+        "confidence": 82
+      },
+      "analysis": "Italy strong favorites. Expect a professional away win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m32",
+      "league": "FIFA World Cup European Playoff",
+      "homeTeam": "Czech Republic",
+      "awayTeam": "Denmark",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.74",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 67
+      },
+      "analysis": "Denmark slight favorites. Expect a competitive match with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m33",
+      "league": "International Friendly",
+      "homeTeam": "England",
+      "awayTeam": "Japan",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.35",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 76
+      },
+      "analysis": "England strong favorites at home. Expect a win with both teams scoring.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m34",
+      "league": "International Friendly",
+      "homeTeam": "Netherlands",
+      "awayTeam": "Ecuador",
+      "date": "2026-03-31",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.38",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 73
+      },
+      "analysis": "Netherlands clear favorites. Expect a comfortable home win with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
   ]
 }
-
