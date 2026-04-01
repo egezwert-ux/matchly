@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01T00:37:00Z",
-  "summary": "All matches from screenshots - Sorted by kick-off time (earliest first) - All results pending",
+  "lastUpdated": "2026-04-02T00:37:00Z",
+  "summary": "2 April Predictions  are on Matchly right now",
   "matches": [
     {
       "id": "m1",
@@ -1345,6 +1345,428 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
+    },
+    {
+      "id": "m85",
+      "league": "Brazil Serie A",
+      "homeTeam": "Botafogo RJ",
+      "awayTeam": "Mirassol SP",
+      "date": "2026-04-01",
+      "time": "01:30",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.55",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 72
+      },
+      "analysis": "Botafogo are strong title contenders with excellent home defensive structure. Mirassol are newly promoted and tend to defend deep away. Expect a controlled, low-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m86",
+      "league": "Brazil Serie A",
+      "homeTeam": "Internacional",
+      "awayTeam": "Sao Paulo SP",
+      "date": "2026-04-01",
+      "time": "01:30",
+      "prediction": {
+        "mainPick": "BTTS No",
+        "odds": "1.54",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-0",
+        "confidence": 65
+      },
+      "analysis": "Two tactically disciplined Brazilian sides who rarely take risks early in the season. Expect a cautious, low-scoring draw.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m87",
+      "league": "US Open Cup",
+      "homeTeam": "Richmond Kickers",
+      "awayTeam": "Loudoun United",
+      "date": "2026-04-01",
+      "time": "01:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.73",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 68
+      },
+      "analysis": "Cup ties between these two sides are usually open and entertaining. Loudoun have attacking quality while Richmond concede at home. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m88",
+      "league": "Brazil Serie A",
+      "homeTeam": "Cruzeiro MG",
+      "awayTeam": "Vitoria BA",
+      "date": "2026-04-01",
+      "time": "02:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.35",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 75
+      },
+      "analysis": "Cruzeiro are clear favorites at home with strong attacking options. Vitoria are dangerous on the counter but leaky defensively. Home win with both teams scoring is likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m89",
+      "league": "Brazil Serie A",
+      "homeTeam": "Bahia BA",
+      "awayTeam": "Athletico Paranaense",
+      "date": "2026-04-01",
+      "time": "02:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.53",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 70
+      },
+      "analysis": "Bahia have been scoring freely at home. Paranaense are dangerous on the break and concede regularly away. Expect an open, high-tempo game with goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m90",
+      "league": "Argentina Primera Division",
+      "homeTeam": "Atletico Lanus",
+      "awayTeam": "CA Platense",
+      "date": "2026-04-01",
+      "time": "02:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.19",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 68
+      },
+      "analysis": "Lanus are very difficult to break down at home with a compact defense. Platense struggle to create chances away. Expect a tight, low-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m91",
+      "league": "Brazil Serie A",
+      "homeTeam": "Fluminense",
+      "awayTeam": "Corinthians",
+      "date": "2026-04-01",
+      "time": "03:30",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.97",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 71
+      },
+      "analysis": "Fluminense are in good attacking form at home while Corinthians are dangerous on the counter. Both teams have shown they can score and concede recently.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m92",
+      "league": "Brazil Serie B",
+      "homeTeam": "CRB AL",
+      "awayTeam": "Avai SC",
+      "date": "2026-04-01",
+      "time": "03:30",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.55",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 69
+      },
+      "analysis": "CRB have a strong home defensive record. Avai are solid but low-scoring away from home. Expect a controlled, low-event home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m93",
+      "league": "Brazil Serie B",
+      "homeTeam": "Criciuma",
+      "awayTeam": "Athletic Club MG",
+      "date": "2026-04-01",
+      "time": "03:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.40",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 67
+      },
+      "analysis": "Criciuma are in good attacking form at home. Athletic Club MG concede regularly on the road. Expect an open game with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m94",
+      "league": "US Open Cup",
+      "homeTeam": "San Antonio",
+      "awayTeam": "Tulsa Roughnecks",
+      "date": "2026-04-01",
+      "time": "03:30",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.77",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 66
+      },
+      "analysis": "Cup matches between these sides are usually lively. San Antonio have home advantage but Tulsa are dangerous on the break. Expect both teams to score.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m95",
+      "league": "El Salvador Primera Division",
+      "homeTeam": "Metapan",
+      "awayTeam": "Alianza",
+      "date": "2026-04-01",
+      "time": "04:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.36",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "0-1",
+        "confidence": 63
+      },
+      "analysis": "Alianza are one of the strongest teams and very difficult to score against on the road. Expect a tight, low-scoring away win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m96",
+      "league": "Australia A-League",
+      "homeTeam": "Macarthur FC",
+      "awayTeam": "Newcastle United Jets",
+      "date": "2026-04-01",
+      "time": "11:35",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.18",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 74
+      },
+      "analysis": "Macarthur have been involved in high-scoring home games. Newcastle Jets are dangerous on the counter and concede regularly. Goals are very likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m97",
+      "league": "Australia A-League",
+      "homeTeam": "Brisbane Roar",
+      "awayTeam": "Sydney FC",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.52",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 69
+      },
+      "analysis": "Both teams have shown they can score and concede recently. Sydney are in good attacking form while Brisbane are leaky at home. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m98",
+      "league": "Poland 2. Liga",
+      "homeTeam": "Slask Wroclaw II",
+      "awayTeam": "Chojniczanka",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.74",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 62
+      },
+      "analysis": "Both sides are well-organized and rarely produce high-scoring games. Expect a tight, low-event match with a narrow home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m99",
+      "league": "Spain Segunda RFEF",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Deportivo Aragon",
+      "date": "2026-04-01",
+      "time": "13:00",
+      "prediction": {
+        "mainPick": "BTTS No",
+        "odds": "1.62",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 65
+      },
+      "analysis": "Alfaro have a solid home defensive record. Deportivo Aragon are low-scoring on the road. Expect a controlled, low-scoring home win with a clean sheet.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m100",
+      "league": "Australia NPL Western Australia",
+      "homeTeam": "Bayswater City",
+      "awayTeam": "Fremantle City",
+      "date": "2026-04-01",
+      "time": "14:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.33",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 73
+      },
+      "analysis": "Bayswater are strong at home with excellent attacking form. Fremantle City concede regularly on the road. Expect a high-scoring home win.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m101",
+      "league": "Australia NPL Western Australia",
+      "homeTeam": "Perth Redstar",
+      "awayTeam": "Stirling Macedonia",
+      "date": "2026-04-01",
+      "time": "14:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "2.33",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 64
+      },
+      "analysis": "Perth Redstar have home advantage and are slight favorites. Stirling Macedonia are competitive but often concede away. Home win with goals expected.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m102",
+      "league": "Spain Segunda Division",
+      "homeTeam": "Las Palmas",
+      "awayTeam": "Granada",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.71",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 70
+      },
+      "analysis": "Las Palmas are strong at home with good attacking options. Granada are dangerous on the counter but leaky defensively. Home win with both teams scoring is likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m103",
+      "league": "Germany Regionalliga North",
+      "homeTeam": "A. Von 1893",
+      "awayTeam": "SSV Jeddeloh II",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.48",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 67
+      },
+      "analysis": "Both teams play open football in the Regionalliga. Expect an entertaining match with goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m104",
+      "league": "Germany Regionalliga North",
+      "homeTeam": "FSV Schöningen 2011",
+      "awayTeam": "Meppen",
+      "date": "2026-04-01",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.15",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 78
+      },
+      "analysis": "Meppen are clear favorites and in excellent form. Schöningen will try to attack at home but Meppen should win comfortably with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
   ]
 }
+  
+
