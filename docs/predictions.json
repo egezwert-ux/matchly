@@ -1089,7 +1089,7 @@
         "confidence": 82
       },
       "analysis": "ESM Kolea çok güçlü favori. Bechar Djedid deplasmanda zayıf. Temiz, düşük skorlu ev galibiyeti.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1131,7 +1131,7 @@
         "confidence": 67
       },
       "analysis": "MC Alger evinde derbi havasında güçlü. USM Alger kontrada tehlikeli. Ev galibiyeti + karşılıklı gol ve 2.5 üstü.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1152,7 +1152,7 @@
         "confidence": 73
       },
       "analysis": "Kabylie evinde favori ve formda. Ben Aknoun deplasmanda gol buluyor. Ev galibiyeti + karşılıklı gol.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1215,7 +1215,7 @@
         "confidence": 61
       },
       "analysis": "İki dengeli takım. Fakel deplasmanda kapalı oynuyor. Düşük skorlu beraberlik en olası.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1236,7 +1236,7 @@
         "confidence": 80
       },
       "analysis": "Bayern evinde çok güçlü favori. Man Utd gol atabilir ama Bayern net galip gelir ve 2.5 üstü olur.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1257,7 +1257,7 @@
         "confidence": 78
       },
       "analysis": "SC Cham net favori. Vevey evinde direnir ama Cham rahat galip gelir ve gollü maç olur.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1278,7 +1278,7 @@
         "confidence": 66
       },
       "analysis": "Hellerup evinde etkili. Ishoej deplasmanda açık oynuyor. Ev galibiyeti + karşılıklı gol.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1299,7 +1299,7 @@
         "confidence": 68
       },
       "analysis": "Fremad Amager evinde favori. Thisted deplasmanda gol yiyor. Gollü ev galibiyeti.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1320,7 +1320,7 @@
         "confidence": 64
       },
       "analysis": "Dengeli Segunda maçı. Her iki takım da temkinli. Düşük skorlu beraberlik en olası.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1341,7 +1341,7 @@
         "confidence": 67
       },
       "analysis": "Phönix Lübeck deplasmanda etkili. Norderstedt evinde direnir ama Phönix dar galibiyet alır ve maç gollü geçer.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
