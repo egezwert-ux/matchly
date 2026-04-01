@@ -942,7 +942,7 @@
         "confidence": 72
       },
       "analysis": "Newcastle evinde çok etkili ve favori. Adamstown deplasmanda gol buluyor ama savunma zayıf. Ev galibiyeti + karşılıklı gol ve 2.5 üstü mantıklı.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -963,7 +963,7 @@
         "confidence": 65
       },
       "analysis": "Dengeli J1 maçı. Machida evinde sağlam, Tokyo deplasmanda zorlanmıyor. 2.5 altı ve beraberlik en olası sonuç.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -984,7 +984,7 @@
         "confidence": 71
       },
       "analysis": "Vissel Kobe evinde çok güçlü ve favori. Shimizu kontrada tehlikeli. Ev galibiyeti + karşılıklı gol ve 2.5 üstü bekleniyor.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1005,7 +1005,7 @@
         "confidence": 63
       },
       "analysis": "Nairobi evinde favori. Mara Sugar deplasmanda zorlanıyor. Düşük skorlu ev galibiyeti en mantıklı.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1026,7 +1026,7 @@
         "confidence": 64
       },
       "analysis": "Azam ligin güçlü takımlarından ve deplasmanda etkili. Black Star evinde direnir ama Azam dar galibiyet alır.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1047,7 +1047,7 @@
         "confidence": 60
       },
       "analysis": "İki orta sıra takımı arasında dengeli maç. Her iki taraf da temkinli oynar, 1-1 beraberlik ve karşılıklı gol olası.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1068,7 +1068,7 @@
         "confidence": 68
       },
       "analysis": "Vizela U23 daha formda ve deplasmanda etkili. Maritimo genç takımda zorlanıyor. Deplasman galibiyeti + gollü maç.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -1110,7 +1110,7 @@
         "confidence": 70
       },
       "analysis": "Belouizdad ligin üst sıralarında ve deplasmanda etkili. Paradou evinde direnir ama Belouizdad dar galibiyet alır.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
