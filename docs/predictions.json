@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T00:37:00Z",
+  "lastUpdated": "2026-04-01T00:37:00Z",
   "summary": "All matches from screenshots - Sorted by kick-off time (earliest first) - All results pending",
   "matches": [
     {
@@ -927,7 +927,6 @@
       "isDailyPick": false
     },
     {
-      
       "id": "m65",
       "league": "Australia NPL Northern NSW / Southern NSW",
       "homeTeam": "Newcastle Olympic",
@@ -1347,3 +1346,5 @@
       "adUnlock": true,
       "isDailyPick": false
     }
+  ]
+}
