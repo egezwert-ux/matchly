@@ -2013,7 +2013,7 @@
         "confidence": 65
       },
       "analysis": "Adelaide have home advantage and are slight favorites in the A-League Women. Wellington are competitive but often concede away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2034,7 +2034,7 @@
         "confidence": 81
       },
       "analysis": "Apia Leichhardt are massive favorites at home. WS Wanderers U23 are young and leaky defensively. Expect a comfortable home win with multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2055,7 +2055,7 @@
         "confidence": 62
       },
       "analysis": "Eastern District are slight favorites at home. Lee Man are dangerous on the counter. Expect an open game with goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2076,7 +2076,7 @@
         "confidence": 70
       },
       "analysis": "Both teams play attacking football in the A-League Women. High-scoring games are common. Expect goals at both ends.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2097,7 +2097,7 @@
         "confidence": 66
       },
       "analysis": "Manly have home advantage. Sydney NPL Youth are dangerous but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "pendin",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2139,7 +2139,7 @@
         "confidence": 74
       },
       "analysis": "Leicester are strong favorites at home with excellent defensive structure. Preston struggle to score away. Expect a controlled low-scoring home win.",
-      "result": "pending",
+      "result": "pendin",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2160,7 +2160,7 @@
         "confidence": 66
       },
       "analysis": "Both teams have shown they can score and concede in recent games. Expect an open Championship match with goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2181,7 +2181,7 @@
         "confidence": 63
       },
       "analysis": "Two evenly matched Championship sides. Both tend to play cautiously in away games. Low-scoring draw is the most probable result.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2194,7 +2194,7 @@
       "date": "2026-04-03",
       "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Over 2.5",
         "odds": "1.85",
         "overUnder": "Over 2.5",
         "btts": "Yes",
@@ -2202,7 +2202,7 @@
         "confidence": 70
       },
       "analysis": "West Brom have strong home form. Wrexham are dangerous on the counter but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2215,15 +2215,15 @@
       "date": "2026-04-03",
       "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win",
+        "mainPick": "Under 2.5",
         "odds": "1.62",
-        "overUnder": "Over 2.5",
+        "overUnder": "Under 2.5",
         "btts": "Yes",
-        "predictedScore": "2-1",
+        "predictedScore": "1-0",
         "confidence": 69
       },
       "analysis": "Birmingham are in good form at home. Blackburn are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2244,7 +2244,7 @@
         "confidence": 64
       },
       "analysis": "Two mid-table sides with similar quality. Expect a cautious, low-scoring draw.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2257,15 +2257,15 @@
       "date": "2026-04-03",
       "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.86",
-        "overUnder": "Over 2.5",
+        "mainPick": "Over 3.5",
+        "odds": "2.86",
+        "overUnder": "Over 3.5",
         "btts": "Yes",
         "predictedScore": "2-1",
         "confidence": 72
       },
       "analysis": "Sheffield United are strong at home. Swansea are dangerous on the counter but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2286,7 +2286,7 @@
         "confidence": 71
       },
       "analysis": "Both teams are in good attacking form and concede regularly away from home. This should be an open League Two match with goals at both ends.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2307,7 +2307,7 @@
         "confidence": 68
       },
       "analysis": "Newport and Crawley both play open football and have shown they can score and concede in recent games. Expect goals from both sides.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2320,15 +2320,15 @@
       "date": "2026-04-03",
       "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.33",
+        "mainPick": "Over 2.5",
+        "odds": "1.89",
         "overUnder": "Over 2.5",
         "btts": "Yes",
         "predictedScore": "2-1",
         "confidence": 73
       },
       "analysis": "Grimsby have a strong home record and are slight favorites. Harrogate are dangerous on the counter but concede regularly. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2349,7 +2349,7 @@
         "confidence": 69
       },
       "analysis": "Both teams have been involved in high-scoring games recently. Expect an entertaining National League match with goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2370,7 +2370,7 @@
         "confidence": 67
       },
       "analysis": "Both sides play open football and have shown they can score and concede. Expect goals at both ends.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2391,7 +2391,7 @@
         "confidence": 64
       },
       "analysis": "Both teams are defensively solid and low-scoring in recent games. Expect a tight, low-event match with a narrow home win.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -2404,15 +2404,15 @@
       "date": "2026-04-03",
       "time": "17:00",
       "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.20",
-        "overUnder": "Over 2.5",
+        "mainPick": "Under 2.5",
+        "odds": "1.83",
+        "overUnder": "Under 2.5",
         "btts": "Yes",
-        "predictedScore": "2-1",
+        "predictedScore": "2-0",
         "confidence": 75
       },
       "analysis": "MK Dons are strong favorites at home. Barrow are competitive but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
