@@ -3508,10 +3508,595 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-     }
-   ]
- }
-  
-    
-  
+    },
+    {
+    "id": "m206",
+    "league": "Brazil Serie B",
+    "homeTeam": "Londrina PR",
+    "awayTeam": "Recife",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "prediction": {
+      "mainPick": "Away Win or Draw",
+      "odds": "2.74",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 65
+    },
+    "analysis": "Recife is technically superior, but playing away in Brazil is always tough. Expect a defensive game.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m207",
+    "league": "Brazil Serie A",
+    "homeTeam": "Coritiba",
+    "awayTeam": "Fluminense",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.17",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 72
+    },
+    "analysis": "Fluminense's tactical setup is superior. Coritiba will likely focus on defense but might concede late.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m208",
+    "league": "Paraguay Primera Division",
+    "homeTeam": "Cerro Porteno",
+    "awayTeam": "2 De Mayo",
+    "date": "2026-04-05",
+    "time": "02:30",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.38",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 85
+    },
+    "analysis": "Cerro Porteno is a giant in Paraguay. Their home record against smaller teams is nearly flawless.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": false
+  },
+  {
+    "id": "m209",
+    "league": "USA Major League Soccer",
+    "homeTeam": "Inter Miami",
+    "awayTeam": "Austin",
+    "date": "2026-04-05",
+    "time": "03:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.19",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "4-1",
+      "confidence": 95
+    },
+    "analysis": "With their superstar roster, Miami is the heavy favorite. Austin's defense will struggle to contain the pressure.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": true
+  },
+  {
+    "id": "m210",
+    "league": "Brazil Serie A",
+    "homeTeam": "Vasco Da Gama",
+    "awayTeam": "Botafogo RJ",
+    "date": "2026-04-05",
+    "time": "03:00",
+    "prediction": {
+      "mainPick": "Draw",
+      "odds": "2.99",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 60
+    },
+    "analysis": "A high-intensity Rio derby. Both teams have scoring potential but often cancel each other out defensively.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m211",
+    "league": "Ecuador Pro League",
+    "homeTeam": "CS Emelec",
+    "awayTeam": "CD Cuenca",
+    "date": "2026-04-05",
+    "time": "03:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.61",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 78
+    },
+    "analysis": "Emelec's home stadium advantage is a key factor in the Ecuadorian league.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m212",
+    "league": "Argentina Primera Division",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Atl Tucuman",
+    "date": "2026-04-05",
+    "time": "03:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.43",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 80
+    },
+    "analysis": "Rosario Central is a defensive wall at home. Expect a narrow victory for the hosts.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m213",
+    "league": "USA Major League Soccer",
+    "homeTeam": "Houston Dynamo",
+    "awayTeam": "Seattle Sounders",
+    "date": "2026-04-05",
+    "time": "03:30",
+    "prediction": {
+      "mainPick": "Home Win or Draw",
+      "odds": "2.34",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 68
+    },
+    "analysis": "Houston's climate and home turf give them a slight edge over the visitors from Seattle.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m214",
+    "league": "USA Major League Soccer",
+    "homeTeam": "Chicago Fire",
+    "awayTeam": "Nashville SC",
+    "date": "2026-04-05",
+    "time": "03:30",
+    "prediction": {
+      "mainPick": "Draw",
+      "odds": "2.85",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-1",
+      "confidence": 62
+    },
+    "analysis": "Both teams are struggling for consistency. A cautious tactical battle is expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m215",
+    "league": "Mexico Primera Division",
+    "homeTeam": "Santos Laguna",
+    "awayTeam": "Club America",
+    "date": "2026-04-05",
+    "time": "06:10",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.42",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 88
+    },
+    "analysis": "Club America is the powerhouse of Liga MX. They should dominate this matchup despite playing away.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": false
+  },
+  {
+    "id": "m216",
+    "league": "Japan J1 League",
+    "homeTeam": "V Varen Nagasaki",
+    "awayTeam": "Shimizu S-Pulse",
+    "date": "2026-04-05",
+    "time": "07:00",
+    "prediction": {
+      "mainPick": "Away Win or Draw",
+      "odds": "2.16",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-2",
+      "confidence": 66
+    },
+    "analysis": "Shimizu is chasing promotion-level performance. They are expected to be the more aggressive side.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m217",
+    "league": "China Super League",
+    "homeTeam": "Sh. Peng City",
+    "awayTeam": "Wuhan T.T.",
+    "date": "2026-04-05",
+    "time": "14:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.74",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 75
+    },
+    "analysis": "Wuhan has struggled in their recent away outings. Peng City should capitalize on home support.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m218",
+    "league": "Russia Premier League",
+    "homeTeam": "Nizhny Novgorod",
+    "awayTeam": "FK Rostov",
+    "date": "2026-04-05",
+    "time": "14:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.11",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 68
+    },
+    "analysis": "A cold-weather tactical match where Rostov's experience usually makes the difference.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m219",
+    "league": "Germany Bundesliga 2",
+    "homeTeam": "Schalke 04",
+    "awayTeam": "Karlsruhe",
+    "date": "2026-04-05",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.31",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 90
+    },
+    "analysis": "Schalke is a giant playing for the fans. Their home atmosphere is enough to break Karlsruhe.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": true
+  },
+  {
+    "id": "m220",
+    "league": "Germany Bundesliga 2",
+    "homeTeam": "G. Furth",
+    "awayTeam": "Paderborn",
+    "date": "2026-04-05",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.65",
+      "overUnder": "Over 3.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 74
+    },
+    "analysis": "Both teams play very open football. Paderborn's finishing is currently more reliable.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m221",
+    "league": "Germany Bundesliga 2",
+    "homeTeam": "Hannover 96",
+    "awayTeam": "Elversberg",
+    "date": "2026-04-05",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.93",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 82
+    },
+    "analysis": "Hannover needs these points for the promotion race. Elversberg will play for a draw but fail.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m222",
+    "league": "Germany Bundesliga 2",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Preussen M.",
+    "date": "2026-04-05",
+    "time": "14:30",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.69",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 85
+    },
+    "analysis": "Holstein Kiel is very dominant at home. Expect them to score early and control the tempo.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m223",
+    "league": "Spain La Liga",
+    "homeTeam": "Getafe",
+    "awayTeam": "Ath Bilbao",
+    "date": "2026-04-05",
+    "time": "15:00",
+    "prediction": {
+      "mainPick": "Away Win or Draw",
+      "odds": "2.34",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 72
+    },
+    "analysis": "Getafe's rigid defense will be tested by Bilbao's fast wingers. A narrow away win is likely.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": false
+  },
+  {
+    "id": "m224",
+    "league": "Sweden Allsvenskan",
+    "homeTeam": "Kalmar",
+    "awayTeam": "Vasteraas",
+    "date": "2026-04-05",
+    "time": "15:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.84",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 70
+    },
+    "analysis": "Kalmar is strong on set pieces. Vasteraas often struggles in high-tempo away games.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m225",
+    "league": "Sweden Allsvenskan",
+    "homeTeam": "AIK Solna",
+    "awayTeam": "Halmstads",
+    "date": "2026-04-05",
+    "time": "15:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 88
+    },
+    "analysis": "AIK's defense at home is one of the best in Sweden. Halmstads will find it hard to create chances.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m226",
+    "league": "Turkey Super League",
+    "homeTeam": "Fenerbahçe",
+    "awayTeam": "Beşiktaş",
+    "date": "2026-04-05",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.77",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "3-1",
+      "confidence": 93
+    },
+    "analysis": "Fenerbahçe enters this derby with incredible home momentum. Beşiktaş's defensive transitions will be punished by FB's wingers.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": true
+  },
+  {
+    "id": "m227",
+    "league": "Algeria 1st League",
+    "homeTeam": "MC El Bayadh",
+    "awayTeam": "JS Kabylie",
+    "date": "2026-04-05",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.74",
+      "overUnder": "Under 1.5",
+      "btts": "No",
+      "predictedScore": "0-1",
+      "confidence": 65
+    },
+    "analysis": "A very tactical and defensive league. One goal will likely decide the winner here.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m228",
+    "league": "Morocco Premier League",
+    "homeTeam": "RSB Berkane",
+    "awayTeam": "Mas Maghrib A Fes",
+    "date": "2026-04-05",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.74",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "2-0",
+      "confidence": 80
+    },
+    "analysis": "Berkane is dominant in Moroccan football, especially at their home fortress.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m229",
+    "league": "Saudi Arabia Pro League",
+    "homeTeam": "Al Riyadh",
+    "awayTeam": "Al Shabab",
+    "date": "2026-04-05",
+    "time": "21:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.67",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-3",
+      "confidence": 84
+    },
+    "analysis": "Al Shabab has significant offensive investment. They should overwhelm Riyadh's backline.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m230",
+    "league": "Saudi Arabia Pro League",
+    "homeTeam": "AL Ettifaq",
+    "awayTeam": "AL Qadisiyah",
+    "date": "2026-04-05",
+    "time": "21:00",
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.21",
+      "overUnder": "Over 3.5",
+      "btts": "No",
+      "predictedScore": "0-4",
+      "confidence": 90
+    },
+    "analysis": "AL Qadisiyah is far superior in every department. Expect a high-scoring blowout.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": false
+  },
+  {
+    "id": "m231",
+    "league": "Greece Super League",
+    "homeTeam": "Olympiakos",
+    "awayTeam": "AEK Athens",
+    "date": "2026-04-05",
+    "time": "21:00",
+    "prediction": {
+      "mainPick": "Home Win or Draw",
+      "odds": "1.53",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 75
+    },
+    "analysis": "A massive championship derby. Defense will be the priority for both sides in this high-tension match.",
+    "result": "pending",
+    "vip": true,
+    "adUnlock": false,
+    "isDailyPick": false
+  },
+  {
+    "id": "m232",
+    "league": "Egypt Premier League",
+    "homeTeam": "Al Masry",
+    "awayTeam": "Zamalek",
+    "date": "2026-04-05",
+    "time": "21:00",
+    "prediction": {
+      "mainPick": "Away Win or Draw",
+      "odds": "1.98",
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-1",
+      "confidence": 68
+    },
+    "analysis": "Zamalek is one of the giants of Africa. Al Masry is tough but Zamalek should at least get a point.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m233",
+    "league": "Peru Primera Division",
+    "homeTeam": "Huancayo",
+    "awayTeam": "Comerciantes Uni.",
+    "date": "2026-04-05",
+    "time": "21:15",
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.70",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 76
+    },
+    "analysis": "The altitude in Huancayo is a decisive factor against visitors not used to it.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+   }
+  ]
+ }    
 
