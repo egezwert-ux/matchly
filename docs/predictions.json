@@ -3273,7 +3273,7 @@
         "confidence": 82
       },
       "analysis": "Brest are strong at home. Rennes are dangerous on the counter but concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3294,7 +3294,7 @@
         "confidence": 90
       },
       "analysis": "Trabzonspor are in excellent home form and highly motivated. Galatasaray are strong but Trabzon can dominate this derby. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3315,7 +3315,7 @@
         "confidence": 83
       },
       "analysis": "Aurora have home advantage. Antigua are competitive but concede away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3336,7 +3336,7 @@
         "confidence": 81
       },
       "analysis": "Two evenly matched sides fighting for points. Expect a cautious, low-scoring draw.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3357,7 +3357,7 @@
         "confidence": 84
       },
       "analysis": "CR Salmi are solid at home defensively. Mouloudia struggle away. Expect a tight low-scoring home win.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3378,7 +3378,7 @@
         "confidence": 82
       },
       "analysis": "Atlas Khenifra have home advantage. Boujaad are competitive but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3399,7 +3399,7 @@
         "confidence": 91
       },
       "analysis": "Bayern are in unstoppable form. Freiburg are competitive at home but Bayern dominate. Away win with multiple goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3420,7 +3420,7 @@
         "confidence": 86
       },
       "analysis": "Hamburger SV have strong home form. Augsburg are dangerous but leaky away. Home win with goals expected.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3441,7 +3441,7 @@
         "confidence": 87
       },
       "analysis": "Hoffenheim are strong at home. Mainz concede regularly away. Home win with both teams scoring is likely.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3462,7 +3462,7 @@
         "confidence": 92
       },
       "analysis": "Leverkusen are in superb form at home. Wolfsburg are competitive but leaky. Comfortable high-scoring home win.",
-      "result": "pending",
+      "result": "won"
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3483,7 +3483,7 @@
         "confidence": 89
       },
       "analysis": "Gladbach have good home record. Heidenheim concede regularly away. Home win with goals expected.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -3504,7 +3504,7 @@
         "confidence": 85
       },
       "analysis": "Leipzig are in excellent form. Werder are competitive at home but Leipzig dominate. Away win with goals expected.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
