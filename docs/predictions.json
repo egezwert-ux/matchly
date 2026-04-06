@@ -736,4 +736,426 @@
       "adUnlock": true,
       "isDailyPick": false
     },
+    {
+      "id": "m36",
+      "league": "Argentina Primera Division Apertura",
+      "homeTeam": "Argentinos Juniors",
+      "awayTeam": "Banfield",
+      "date": "2026-04-07",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "2.06",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 86
+      },
+      "analysis": "Both teams have been scoring and conceding regularly in recent games. Expect goals at both ends in this Apertura clash.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m37",
+      "league": "Paraguay Primera Division Apertura",
+      "homeTeam": "Sportivo Trinidense",
+      "awayTeam": "Rubio NU",
+      "date": "2026-04-07",
+      "time": "02:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "2.05",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 84
+      },
+      "analysis": "Open football expected from both sides. High chance of multiple goals in this Apertura fixture.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m38",
+      "league": "Brazil Serie B",
+      "homeTeam": "Goias GO",
+      "awayTeam": "Criciuma",
+      "date": "2026-04-07",
+      "time": "03:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.91",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 85
+      },
+      "analysis": "Goias is strong at home in Serie B. Expect a tactical, low-scoring encounter where the home side edges it.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m39",
+      "league": "Ecuador Pro Liga",
+      "homeTeam": "Libertad Loja",
+      "awayTeam": "Mushuc Runa",
+      "date": "2026-04-07",
+      "time": "03:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.73",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 83
+      },
+      "analysis": "Attacking football is common in this league. High-scoring game expected with goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m40",
+      "league": "Chile Primera Division",
+      "homeTeam": "Huachipato",
+      "awayTeam": "Universidad de Concepcion",
+      "date": "2026-04-07",
+      "time": "03:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.68",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 82
+      },
+      "analysis": "Both teams have shown they can score and concede recently. Expect an open game with goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m41",
+      "league": "Argentina Primera Division Apertura",
+      "homeTeam": "Instituto",
+      "awayTeam": "Defensa y Justicia",
+      "date": "2026-04-07",
+      "time": "03:15",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.79",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 81
+      },
+      "analysis": "Instituto play disciplined football at home. Defensa y Justicia might struggle to break them down.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m42",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Mannheim 07",
+      "awayTeam": "Hoffenheim II",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.27",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "confidence": 88
+      },
+      "analysis": "Hoffenheim II matches are notoriously high-scoring. Expect plenty of goals from both sides.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m43",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Energie Cottbus",
+      "awayTeam": "1860 Munich",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.41",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 86
+      },
+      "analysis": "Cottbus and 1860 Munich both score and concede consistently. Expect goals from both sides.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m44",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Duisburg",
+      "awayTeam": "Osnabruck",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.49",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 78
+      },
+      "analysis": "Crucial relegation battle. Both teams will likely prioritize defense over risk-taking.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m45",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Regensburg",
+      "awayTeam": "Erzgebirge Aue",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.44",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 84
+      },
+      "analysis": "Both teams have high offensive output recently. The odds heavily favor a high-scoring game.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m46",
+      "league": "Germany 3. Liga",
+      "homeTeam": "Schweinfurt",
+      "awayTeam": "Weiss Essen",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.31",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "0-3",
+        "confidence": 91
+      },
+      "analysis": "Weiss Essen is the superior side here. Their offensive depth should overwhelm Schweinfurt.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": true
+    },
+    {
+      "id": "m47",
+      "league": "Turkey 1. Lig",
+      "homeTeam": "Çorum",
+      "awayTeam": "Bodrum FK",
+      "date": "2026-04-07",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.48",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "confidence": 87
+      },
+      "analysis": "Çorum is in excellent form and aims for promotion. Bodrum struggles in away fixtures.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m48",
+      "league": "Northern Ireland Premiership",
+      "homeTeam": "Larne",
+      "awayTeam": "Coleraine",
+      "date": "2026-04-07",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.79",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 82
+      },
+      "analysis": "Larne is aggressive at home. Coleraine is capable of scoring on the counter.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m49",
+      "league": "Northern Ireland Premiership",
+      "homeTeam": "Dungannon",
+      "awayTeam": "Linfield",
+      "date": "2026-04-07",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.50",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-3",
+        "confidence": 89
+      },
+      "analysis": "Linfield is chasing the title and cannot afford to drop points. Quality gap is significant.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m50",
+      "league": "Northern Ireland Premiership",
+      "homeTeam": "Cliftonville",
+      "awayTeam": "Glentoran",
+      "date": "2026-04-07",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Away Win",
+        "odds": "1.45",
+        "overUnder": "Over 2.5",
+        "btts": "No",
+        "predictedScore": "0-2",
+        "confidence": 85
+      },
+      "analysis": "Glentoran has been defensively solid. Cliftonville is missing key creative players.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m51",
+      "league": "Northern Ireland Premiership",
+      "homeTeam": "Portadown",
+      "awayTeam": "Carrick Rangers",
+      "date": "2026-04-07",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.51",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "confidence": 80
+      },
+      "analysis": "Both teams have porous defenses. A high-scoring draw or win for either side is likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m52",
+      "league": "England Championship",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Southampton",
+      "date": "2026-04-07",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.61",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-2",
+        "confidence": 84
+      },
+      "analysis": "Two high-energy teams. Southampton plays expansive football, and Wrexham is lethal at home.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m53",
+      "league": "England League Two",
+      "homeTeam": "Bromley",
+      "awayTeam": "Shrewsbury",
+      "date": "2026-04-07",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Home Win",
+        "odds": "1.44",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "2-0",
+        "confidence": 88
+      },
+      "analysis": "Bromley's home record is dominant this season. Shrewsbury is struggling with away travel.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m54",
+      "league": "UEFA Champions League",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Arsenal",
+      "date": "2026-04-07",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.68",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-2",
+        "confidence": 86
+      },
+      "analysis": "Arsenal's attacking style will leave gaps for Sporting's quick transitions. Goals are expected.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m55",
+      "league": "UEFA Champions League",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bayern Munich",
+      "date": "2026-04-07",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.23",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-2",
+        "confidence": 92
+      },
+      "analysis": "A European classic. Both teams have incredible firepower. A very low price for Over 2.5 reflects the high probability.",
+      "result": "pending",
+      "vip": true,
+      "adUnlock": true,
+      "isDailyPick": false
+    }
+  ]
+}
     
