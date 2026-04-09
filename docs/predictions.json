@@ -2058,9 +2058,449 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
+    },
+    {
+      "id": "m119",
+      "league": "Sudamericana Cup",
+      "homeTeam": "CA Juventud De Las Piedras",
+      "awayTeam": "CS Cienciano",
+      "date": "2026-04-10",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.70",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 91
+      },
+      "analysis": "Juventud attack strongly at home in cup ties. Cienciano concede regularly on the road. Very high probability of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m120",
+      "league": "Sudamericana Cup",
+      "homeTeam": "Botafogo RJ",
+      "awayTeam": "Caracas",
+      "date": "2026-04-10",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.34",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-0",
+        "confidence": 94
+      },
+      "analysis": "Botafogo in unstoppable attacking form at home. Caracas extremely leaky away. Extremely high chance of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m121",
+      "league": "Libertadores Cup",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Independiente Del Valle",
+      "date": "2026-04-10",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "2.09",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 90
+      },
+      "analysis": "Both teams score consistently in Libertadores. Open game with goals at both ends highly probable.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m122",
+      "league": "Libertadores Cup",
+      "homeTeam": "Universidad Catolica del Ecuador",
+      "awayTeam": "Libertad Asuncion",
+      "date": "2026-04-10",
+      "time": "01:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "2.03",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 89
+      },
+      "analysis": "UCV play very attacking football at home. Libertad dangerous on counter. High-scoring tie expected.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m123",
+      "league": "Honduras Liga Nacional Clausura",
+      "homeTeam": "CD Choloma",
+      "awayTeam": "Real CD Espana",
+      "date": "2026-04-10",
+      "time": "02:15",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.42",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 92
+      },
+      "analysis": "Both teams involved in high-scoring games recently. Multiple goals extremely likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m124",
+      "league": "Argentina Cup",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "Atletico Camioneros",
+      "date": "2026-04-10",
+      "time": "03:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.87",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 90
+      },
+      "analysis": "Cup matches are usually cautious. Gimnasia very solid defensively. Low-scoring game is the safest high-probability pick.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m125",
+      "league": "Turkey Super Lig",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Antalyaspor",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.33",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 93
+      },
+      "analysis": "Besiktas in superb attacking form at home. Antalyaspor concede regularly. Extremely high chance of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m126",
+      "league": "France Ligue 1",
+      "homeTeam": "Paris Saint-Germain",
+      "awayTeam": "Monaco",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.46",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 91
+      },
+      "analysis": "PSG dominate and score heavily at home. Monaco dangerous but leaky. Very high goal probability.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m127",
+      "league": "Germany Regional League North",
+      "homeTeam": "B. Weiss Lohne",
+      "awayTeam": "SSV Jeddeloh II",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.74",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 90
+      },
+      "analysis": "Both teams play very open football in this league. High-scoring game is the most probable outcome.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m128",
+      "league": "Spain Primera RFEF",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Marbella",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.71",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 89
+      },
+      "analysis": "Atletico B score regularly at home. Marbella create chances but concede. Goals at both ends likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m129",
+      "league": "Uganda Premier League",
+      "homeTeam": "Vipers SC",
+      "awayTeam": "Airtel Kitara",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.80",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 90
+      },
+      "analysis": "Vipers very strong at home and score freely. Kitara concede regularly. High goal probability.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m130",
+      "league": "Malta Premier League Promotion Group",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Hibernians",
+      "date": "2026-04-10",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.97",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 88
+      },
+      "analysis": "Both teams score and concede consistently in this group. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m131",
+      "league": "Netherlands Eerste Divisie",
+      "homeTeam": "Eindhoven",
+      "awayTeam": "Roda JC",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.36",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 92
+      },
+      "analysis": "Both teams play extremely open football. Very high probability of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m132",
+      "league": "Netherlands Eerste Divisie",
+      "homeTeam": "Den Bosch",
+      "awayTeam": "SC Cambuur",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.25",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 91
+      },
+      "analysis": "Den Bosch and Cambuur both score and concede regularly. Goals at both ends almost certain.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m133",
+      "league": "Netherlands Eerste Divisie",
+      "homeTeam": "Waalwijk",
+      "awayTeam": "Emmen",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.23",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 93
+      },
+      "analysis": "Waalwijk attack well at home. Emmen very leaky away. Extremely high chance of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m134",
+      "league": "Netherlands Eerste Divisie",
+      "homeTeam": "Maastricht",
+      "awayTeam": "Helmond",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.34",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 90
+      },
+      "analysis": "Both teams have been involved in high-scoring games recently. Goals at both ends highly probable.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m135",
+      "league": "France Ligue 2",
+      "homeTeam": "Guingamp",
+      "awayTeam": "Grenoble",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.56",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 89
+      },
+      "analysis": "Guingamp play open football at home. Grenoble concede regularly. High chance of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m136",
+      "league": "France Ligue 2",
+      "homeTeam": "Amiens",
+      "awayTeam": "Pau",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.48",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 90
+      },
+      "analysis": "Both teams score and concede consistently. Expect goals at both ends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m137",
+      "league": "France Ligue 2",
+      "homeTeam": "Annecy",
+      "awayTeam": "Montpellier",
+      "date": "2026-04-10",
+      "time": "21:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.87",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 88
+      },
+      "analysis": "Annecy attack well at home. Montpellier dangerous. High-scoring game likely.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m138",
+      "league": "Ireland Premier Division",
+      "homeTeam": "St. Patricks Athletic",
+      "awayTeam": "Shamrock Rovers",
+      "date": "2026-04-10",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "BTTS Yes",
+        "odds": "1.97",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-1",
+        "confidence": 89
+      },
+      "analysis": "Both teams score regularly in big derbies. Goals at both ends highly probable.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m139",
+      "league": "England Premier League",
+      "homeTeam": "West Ham United",
+      "awayTeam": "Wolverhampton",
+      "date": "2026-04-10",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.58",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 91
+      },
+      "analysis": "West Ham play open football at home. Wolves dangerous on counter. Very high chance of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
     }
   ]
 }
-
 
     
