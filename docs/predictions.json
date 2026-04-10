@@ -2501,7 +2501,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m121",
+      "id": "m141",
       "league": "Australia NPL Queensland",
       "homeTeam": "Wolves",
       "awayTeam": "Queensland Lions",
@@ -2522,7 +2522,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m122",
+      "id": "m142",
       "league": "Australia NPL Queensland",
       "homeTeam": "Gold Coast Knights",
       "awayTeam": "Rochdale Rovers",
@@ -2543,7 +2543,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m123",
+      "id": "m143",
       "league": "Australia NPL Victoria",
       "homeTeam": "St Albans Saints",
       "awayTeam": "Avondale",
@@ -2564,7 +2564,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m124",
+      "id": "m144",
       "league": "Australia A-League",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Brisbane Roar",
@@ -2585,7 +2585,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m125",
+      "id": "m145",
       "league": "Bulgaria Parva Liga",
       "homeTeam": "PFC Spartak Varna",
       "awayTeam": "Dobrudzha Dobrich",
@@ -2606,7 +2606,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m126",
+      "id": "m146",
       "league": "Australia NPL Tasmania",
       "homeTeam": "Launceston United",
       "awayTeam": "Launceston City",
@@ -2627,7 +2627,7 @@
       "isDailyPick": false
     },
     {
-      "id": "m127",
+      "id": "m147",
       "league": "Ireland Premier Division",
       "homeTeam": "St Patricks Athletic",
       "awayTeam": "Shamrock Rovers",
@@ -2646,30 +2646,11 @@
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-    },
-    {
-      "id": "m128",
-      "league": "England Premier League",
-      "homeTeam": "West Ham United",
-      "awayTeam": "Wolverhampton Wanderers",
-      "date": "2026-04-10",
-      "time": "22:00",
-      "prediction": {
-        "mainPick": "Over 2.5",
-        "odds": "1.58",
-        "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 92
-      },
-      "analysis": "West Ham play open football at home. Wolves dangerous on counter. Very high chance of multiple goals in this Premier League clash.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
     }
-  ]
-}
+   ]  
+  } 
+  
+
 
 
     
