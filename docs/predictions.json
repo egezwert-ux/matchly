@@ -228,7 +228,7 @@
         "confidence": 94
       },
       "analysis": "Bologna are very solid defensively at home. Lecce struggle to score away. Low-scoring match most probable.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -249,7 +249,7 @@
         "confidence": 95
       },
       "analysis": "Celta play open football at home. Oviedo dangerous on counter. High probability of multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -270,7 +270,7 @@
         "confidence": 98
       },
       "analysis": "Galatasaray in unstoppable attacking form at home. Kocaelispor leaky away. Extremely high probability of multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -291,7 +291,7 @@
         "confidence": 95
       },
       "analysis": "Both teams score and concede consistently in Bundesliga. Open match with goals at both ends expected.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -312,7 +312,7 @@
         "confidence": 96
       },
       "analysis": "Inter in excellent attacking form. Como dangerous at home. High chance of multiple goals.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -333,7 +333,7 @@
         "confidence": 97
       },
       "analysis": "Lyon attack strongly at home. Lorient concede regularly. Very high probability of multiple goals.",
-      "result": "pending",
+      "result": "lost",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
@@ -354,10 +354,388 @@
         "confidence": 94
       },
       "analysis": "Both teams score consistently in recent La Liga matches. Goals at both ends highly probable.",
-      "result": "pending",
+      "result": "won",
       "vip": false,
       "adUnlock": true,
       "isDailyPick": false
-    }
-  ]
-}
+    },
+    {
+    "id": "m41",
+    "league": "Brazil Serie A",
+    "homeTeam": "Fluminense",
+    "awayTeam": "Flamengo",
+    "date": "2026-04-13",
+    "time": "00:00",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "2.14",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-2",
+      "confidence": 96
+    },
+    "analysis": "Classic Brazilian derby. Both teams score regularly in recent matches. Realistic high-scoring draw expected.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m42",
+    "league": "Brazil Serie A",
+    "homeTeam": "Corinthians",
+    "awayTeam": "Palmeiras SP",
+    "date": "2026-04-13",
+    "time": "00:30",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.27",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 95
+    },
+    "analysis": "Big rivalry match. Both sides play cautiously. Realistic low-scoring home win for Corinthians.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m43",
+    "league": "Brazil Serie A",
+    "homeTeam": "Cruzeiro MG",
+    "awayTeam": "Bragantino",
+    "date": "2026-04-13",
+    "time": "00:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.80",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 94
+    },
+    "analysis": "Cruzeiro attack well at home. Bragantino dangerous on counter. Realistic open game with goals.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m44",
+    "league": "Poland Ekstraklasa",
+    "homeTeam": "Piast Gliwice",
+    "awayTeam": "Pogon Szczecin",
+    "date": "2026-04-13",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.56",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 93
+    },
+    "analysis": "Piast are defensively solid at home. Pogon struggle to score away. Realistic low-scoring match.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m45",
+    "league": "Italy Serie A",
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Lazio",
+    "date": "2026-04-13",
+    "time": "21:45",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "1.92",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 95
+    },
+    "analysis": "Both teams score consistently in Serie A. Realistic open match with goals at both ends.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m46",
+    "league": "France Ligue 2",
+    "homeTeam": "Rodez AF",
+    "awayTeam": "Troyes",
+    "date": "2026-04-13",
+    "time": "21:45",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.48",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 94
+    },
+    "analysis": "Rodez play controlled football at home. Troyes defensive away. Realistic low-scoring home win.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m47",
+    "league": "Russia Premier Lig",
+    "homeTeam": "Fakel",
+    "awayTeam": "Rodina Moscow",
+    "date": "2026-04-13",
+    "time": "17:15",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.33",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 96
+    },
+    "analysis": "Fakel are defensively strong at home. Rodina struggle to score away. Realistic low-scoring match.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m48",
+    "league": "AFC Asia Champions League",
+    "homeTeam": "Al Ahli Saudi",
+    "awayTeam": "Al Duhail SC",
+    "date": "2026-04-13",
+    "time": "17:45",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.21",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 95
+    },
+    "analysis": "High-quality Asian clash. Both teams attack well. Realistic high-scoring game.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m49",
+    "league": "Egypt Premier League Relegation",
+    "homeTeam": "Ghazi El Mahallah",
+    "awayTeam": "Wadi Degla",
+    "date": "2026-04-13",
+    "time": "18:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.17",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 94
+    },
+    "analysis": "Relegation battle. Both teams play cautiously. Realistic low-scoring home win.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m50",
+    "league": "Egypt Premier League",
+    "homeTeam": "Farco",
+    "awayTeam": "Haras Hodood",
+    "date": "2026-04-13",
+    "time": "18:00",
+    "prediction": {
+      "mainPick": "BTTS Yes",
+      "odds": "2.22",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "1-1",
+      "confidence": 93
+    },
+    "analysis": "Both teams score and concede regularly. Realistic draw with goals at both ends.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m51",
+    "league": "Latvia Virsliga",
+    "homeTeam": "Ogre Utd",
+    "awayTeam": "Grobinas SC",
+    "date": "2026-04-13",
+    "time": "18:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.74",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 92
+    },
+    "analysis": "Latvian league is open and high-scoring. Both teams attack freely.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m52",
+    "league": "Romania Liga 1 Championship Group",
+    "homeTeam": "Rapid 1923",
+    "awayTeam": "A. Pitesti",
+    "date": "2026-04-13",
+    "time": "18:30",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.50",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 94
+    },
+    "analysis": "Rapid are solid at home. Pitesti defensive away. Realistic low-scoring home win.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m53",
+    "league": "Saudi Arabia 1. Division",
+    "homeTeam": "Al Jabalain",
+    "awayTeam": "Al Jabli",
+    "date": "2026-04-13",
+    "time": "19:15",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.39",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 93
+    },
+    "analysis": "Saudi second division is often low-scoring. Both teams play cautiously.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m54",
+    "league": "Qatar Stars League",
+    "homeTeam": "Arabi Doha",
+    "awayTeam": "Al Sailiya",
+    "date": "2026-04-13",
+    "time": "19:30",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.34",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 95
+    },
+    "analysis": "Qatar league is high-scoring. Both teams attack well.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m55",
+    "league": "Russia Premier Lig",
+    "homeTeam": "Fakel",
+    "awayTeam": "Rodina Moscow",
+    "date": "2026-04-13",
+    "time": "19:45",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.33",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 96
+    },
+    "analysis": "Fakel are defensively strong at home. Rodina struggle to score away. Realistic low-scoring match.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m56",
+    "league": "Poland Ekstraklasa",
+    "homeTeam": "Piast Gliwice",
+    "awayTeam": "Pogon Szczecin",
+    "date": "2026-04-13",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.56",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 94
+    },
+    "analysis": "Piast solid at home. Pogon struggle to score away. Realistic low-scoring game.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m57",
+    "league": "Portugal 2. Liga",
+    "homeTeam": "Lusitania",
+    "awayTeam": "Porto B",
+    "date": "2026-04-13",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.85",
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "predictedScore": "2-1",
+      "confidence": 93
+    },
+    "analysis": "Porto B play open football. Lusitania dangerous at home. Realistic high-scoring match.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  },
+  {
+    "id": "m58",
+    "league": "Turkey 1. Lig",
+    "homeTeam": "Amed Sportif",
+    "awayTeam": "Umraniyespor",
+    "date": "2026-04-13",
+    "time": "20:00",
+    "prediction": {
+      "mainPick": "Under 2.5",
+      "odds": "1.10",
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "predictedScore": "1-0",
+      "confidence": 97
+    },
+    "analysis": "Amed are very solid at home. Umraniyespor defensive away. Realistic low-scoring home win.",
+    "result": "pending",
+    "vip": false,
+    "adUnlock": true,
+    "isDailyPick": false
+  }
+ ]
+}    
