@@ -1261,6 +1261,386 @@
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
-  }
- ]
-}    
+  },
+  {
+      "id": "m84",
+      "league": "Australia NPL Capital Region",
+      "homeTeam": "Tuggeranong Utd",
+      "awayTeam": "O Connor Knights",
+      "date": "2026-04-14",
+      "time": "12:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.54",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 97
+      },
+      "analysis": "Tuggeranong strong recent home scoring form. O Connor Knights concede regularly on the road. Very high probability of multiple goals based on current league trends.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m85",
+      "league": "Australia NPL Capital Region",
+      "homeTeam": "Canberra",
+      "awayTeam": "Canberra White Eagles",
+      "date": "2026-04-14",
+      "time": "12:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.17",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 98
+      },
+      "analysis": "Local derby with both teams in high-scoring form recently. Very high probability of open game with multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m86",
+      "league": "Australia NPL Capital Region",
+      "homeTeam": "Belconnen Utd",
+      "awayTeam": "Brindabella B.",
+      "date": "2026-04-14",
+      "time": "12:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.53",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 96
+      },
+      "analysis": "Belconnen excellent attacking home record recently. Brindabella leaky away. Very high chance of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m87",
+      "league": "Australia NPL Capital Region",
+      "homeTeam": "Cooma Tigers",
+      "awayTeam": "Canberra Juventus",
+      "date": "2026-04-14",
+      "time": "12:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.13",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-1",
+        "confidence": 99
+      },
+      "analysis": "Cooma Tigers dominant at home with heavy scoring. Juventus concede heavily away. Extremely high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m88",
+      "league": "South Korea K League 1",
+      "homeTeam": "Ulsan HD",
+      "awayTeam": "Seoul",
+      "date": "2026-04-14",
+      "time": "13:30",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.90",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 96
+      },
+      "analysis": "Ulsan strong home attacking form. Seoul dangerous on counter. Very high probability of goals based on recent form.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m89",
+      "league": "Ethiopia Premier League",
+      "homeTeam": "Hawassa Kenema SC",
+      "awayTeam": "Shire Endaselassie",
+      "date": "2026-04-14",
+      "time": "15:00",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.40",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 95
+      },
+      "analysis": "Ethiopian league defensively tight. Hawassa solid at home recently. Very high probability of low-scoring result.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m90",
+      "league": "Norway Eliteserien",
+      "homeTeam": "Tromso",
+      "awayTeam": "Lillestrom",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.47",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 97
+      },
+      "analysis": "Tromso excellent recent home scoring. Lillestrom concede regularly away. Very high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m91",
+      "league": "Norway Eliteserien",
+      "homeTeam": "Sarpsborg 08",
+      "awayTeam": "Bodo Glimt",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.13",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "1-3",
+        "confidence": 98
+      },
+      "analysis": "Bodo Glimt unstoppable attacking form. Sarpsborg open at home. Extremely high probability of high-scoring game.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m92",
+      "league": "Germany Regionalliga Nord",
+      "homeTeam": "Kickers Emden",
+      "awayTeam": "Werder Bremen II",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.68",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 96
+      },
+      "analysis": "Both teams score and concede consistently in recent form. Very high probability of open game.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m93",
+      "league": "Germany Regionalliga Nord",
+      "homeTeam": "Alemannia Aachen 1893",
+      "awayTeam": "VfB Oldenburg",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.15",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 98
+      },
+      "analysis": "Oldenburg leaky away recently. Alemannia strong home scoring. Extremely high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m94",
+      "league": "Switzerland Promotion League",
+      "homeTeam": "Vevey Sports 05",
+      "awayTeam": "Breitenrain",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.47",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 95
+      },
+      "analysis": "Both teams in high-scoring recent form. Very high probability of multiple goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m95",
+      "league": "Germany Regionalliga Nordost",
+      "homeTeam": "Weiss Erfurt",
+      "awayTeam": "Altglienicke",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.74",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 96
+      },
+      "analysis": "Both teams score consistently recently. Very high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m96",
+      "league": "Germany Regionalliga Nordost",
+      "homeTeam": "Meuselwitz",
+      "awayTeam": "Dynamo",
+      "date": "2026-04-14",
+      "time": "20:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.80",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 95
+      },
+      "analysis": "Open league style with both teams in good attacking form. Very high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m97",
+      "league": "England League 1",
+      "homeTeam": "Wimbledon",
+      "awayTeam": "Stockport",
+      "date": "2026-04-14",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.56",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 96
+      },
+      "analysis": "Wimbledon defensively solid at home recently. Stockport cautious away. Very high probability of low-scoring result.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m98",
+      "league": "England Southern League Central",
+      "homeTeam": "Stourbridge",
+      "awayTeam": "Needham",
+      "date": "2026-04-14",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.56",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 97
+      },
+      "analysis": "Both teams high-scoring in recent form. Very high probability of goals.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m99",
+      "league": "Ireland Premier Division Relegation",
+      "homeTeam": "Ballymena Utd",
+      "awayTeam": "Bangor",
+      "date": "2026-04-14",
+      "time": "21:45",
+      "prediction": {
+        "mainPick": "Under 2.5",
+        "odds": "1.59",
+        "overUnder": "Under 2.5",
+        "btts": "No",
+        "predictedScore": "1-0",
+        "confidence": 97
+      },
+      "analysis": "Relegation battle with both teams ultra-defensive recently. Very high probability of low-scoring result.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m100",
+      "league": "UEFA Champions League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Sporting CP",
+      "date": "2026-04-14",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.66",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "2-1",
+        "confidence": 98
+      },
+      "analysis": "Arsenal in blistering attacking form at home. Sporting dangerous on counter. Very high probability of goals in this big night match.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    },
+    {
+      "id": "m101",
+      "league": "UEFA Champions League",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "date": "2026-04-14",
+      "time": "22:00",
+      "prediction": {
+        "mainPick": "Over 2.5",
+        "odds": "1.06",
+        "overUnder": "Over 2.5",
+        "btts": "Yes",
+        "predictedScore": "3-2",
+        "confidence": 99
+      },
+      "analysis": "Two of the highest-scoring teams in Europe. Bayern unstoppable at home, Real dangerous. Extremely high probability of classic high-scoring European night clash.",
+      "result": "pending",
+      "vip": false,
+      "adUnlock": true,
+      "isDailyPick": false
+    }
+  ]
+}
+ 
+      
