@@ -1656,7 +1656,7 @@
       "confidence": 68
     },
     "analysis": "Despite Racing being at home, Botafogo's current form and defensive discipline make an away win likely in a low-scoring affair.",
-    "result": "pending",
+    "result": "won"
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1677,7 +1677,7 @@
       "confidence": 85
     },
     "analysis": "Caracas holds a significant technical advantage and is expected to dominate possession without conceding.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1698,7 +1698,7 @@
       "confidence": 80
     },
     "analysis": "Libertadores group stages often feature cagey matches. Cruzeiro will likely secure a narrow victory while keeping a clean sheet.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": true
@@ -1719,7 +1719,7 @@
       "confidence": 75
     },
     "analysis": "Both teams prioritize defensive stability in continental play. A low-scoring draw or a 1-0 result is highly probable.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1740,7 +1740,7 @@
       "confidence": 70
     },
     "analysis": "Unan Managua has a superior squad depth and usually performs well at home against lower-tier opposition.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1761,7 +1761,7 @@
       "confidence": 82
     },
     "analysis": "Orlando City brings MLS-level quality to the cup tie. Expect them to control the game despite Naples' home crowd energy.",
-    "result": "pending",
+    "result": "won",
     "vip": true,
     "adUnlock": true,
     "isDailyPick": false
@@ -1782,7 +1782,7 @@
       "confidence": 78
     },
     "analysis": "Corinthians are strong favorites but rarely blow teams away in the Libertadores. A controlled, low-goal win is the standard.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1803,7 +1803,7 @@
       "confidence": 88
     },
     "analysis": "Fluminense's tactical setup focuses on possession and minimizing counter-attacks, which often leads to 'Under' results.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1824,7 +1824,7 @@
       "confidence": 95
     },
     "analysis": "Total mismatch. River Plate should easily secure a victory with a significant margin of goals.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1845,7 +1845,7 @@
       "confidence": 74
     },
     "analysis": "Municipal L. shows better defensive organization and finishing skills than the home side.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1866,7 +1866,7 @@
       "confidence": 81
     },
     "analysis": "Two offensive powerhouses in Asia. Both teams are likely to score given their attacking rosters.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1887,7 +1887,7 @@
       "confidence": 76
     },
     "analysis": "Celta Vigo is formidable at home in European nights, though Freiburg's set-piece threat usually guarantees them a goal.",
-    "result": "pending",
+    "result": "lost",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
@@ -1908,7 +1908,7 @@
       "confidence": 83
     },
     "analysis": "Betis has a superior squad and home advantage. Braga's open play style should lead to multiple scoring chances for the hosts.",
-    "result": "pending",
+    "result": "lost",
     "vip": true,
     "adUnlock": true,
     "isDailyPick": false
@@ -1929,13 +1929,631 @@
       "confidence": 90
     },
     "analysis": "Aston Villa's home form under high-pressure European nights is exceptional. Bologna will find it difficult to contain Villa's front line.",
-    "result": "pending",
+    "result": "won",
     "vip": false,
     "adUnlock": true,
     "isDailyPick": false
+  },
+  {
+    "id": "m200",
+    "league": "Copa Sudamericana",
+    "homeTeam": "Atlético Mineiro",
+    "awayTeam": "Juventud de las Piedras",
+    "kickoff_utc": "2026-04-16T22:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "1.25",
+      "confidence": 92,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 35, "odds": "6.50" },
+      { "score": "3-0", "probability": 28, "odds": "9.00" },
+      { "score": "2-1", "probability": 18, "odds": "8.50" }
+    ],
+    "homeForm": "WWWWL",
+    "awayForm": "LDLWL",
+    "avgGoals": 2.91,
+    "analysis": "Atlético Mineiro are extremely strong at home, while Juventud struggle on the road. The MS 1 odds of 1.10 make them heavy favorites.",
+    "special_analysis": "VIP STAT: The home side has won 7 of their last 8 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m201",
+    "league": "Copa Sudamericana",
+    "homeTeam": "Tigre",
+    "awayTeam": "Macará",
+    "kickoff_utc": "2026-04-16T22:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Under 4.5",
+      "odds": "1.40",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.50" },
+      { "score": "2-0", "probability": 25, "odds": "6.00" },
+      { "score": "1-0", "probability": 20, "odds": "5.50" }
+    ],
+    "homeForm": "WDLDW",
+    "awayForm": "LWLDL",
+    "avgGoals": 2.55,
+    "analysis": "Tigre are favored at home. Macará may show resilience but are unlikely to secure a win.",
+    "special_analysis": "MODEL FORECAST: Both teams to score, final score likely 2-1 or 2-0 to the home side.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m202",
+    "league": "Copa Libertadores",
+    "homeTeam": "Palmeiras",
+    "awayTeam": "Sporting Cristal",
+    "kickoff_utc": "2026-04-16T22:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 2.5",
+      "odds": "1.48",
+      "confidence": 90,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 34, "odds": "6.50" },
+      { "score": "3-0", "probability": 26, "odds": "9.00" },
+      { "score": "2-1", "probability": 15, "odds": "9.50" }
+    ],
+    "homeForm": "WWWWW",
+    "awayForm": "WLWLL",
+    "avgGoals": 3.14,
+    "analysis": "Palmeiras have lost only 3 matches in 2026 and are in excellent form. Sporting Cristal have won just 2 of their last 5.",
+    "special_analysis": "VIP TACTICAL INSIGHT: Palmeiras average 2.4 goals per home game.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m203",
+    "league": "Copa Libertadores",
+    "homeTeam": "Lanús",
+    "awayTeam": "Always Ready",
+    "kickoff_utc": "2026-04-16T22:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "1.20",
+      "confidence": 94,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 38, "odds": "7.00" },
+      { "score": "2-0", "probability": 30, "odds": "5.50" },
+      { "score": "4-0", "probability": 15, "odds": "12.00" }
+    ],
+    "homeForm": "WWWLW",
+    "awayForm": "LLWLL",
+    "avgGoals": 3.42,
+    "analysis": "Lanús are overwhelming favorites at home (MS 1 odds 1.07). Always Ready are very weak on the road.",
+    "special_analysis": "VIP STAT: Lanús have 8 wins and 2 draws in their last 10 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "VERY_LOW",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m204",
+    "league": "Copa Libertadores",
+    "homeTeam": "Peñarol",
+    "awayTeam": "Platense",
+    "kickoff_utc": "2026-04-17T00:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Under 3.5",
+      "odds": "1.95",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 30, "odds": "6.00" },
+      { "score": "2-0", "probability": 25, "odds": "7.50" },
+      { "score": "2-1", "probability": 18, "odds": "9.00" }
+    ],
+    "homeForm": "WWDWL",
+    "awayForm": "LDLDL",
+    "avgGoals": 2.10,
+    "analysis": "Peñarol have lost just 1 of their last 5 matches. Platense are winless in 7 consecutive games.",
+    "special_analysis": "STAT: Platense have scored only 1 goal in their last 5 matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m205",
+    "league": "Copa Libertadores",
+    "homeTeam": "Flamengo",
+    "awayTeam": "Independiente Medellín",
+    "kickoff_utc": "2026-04-17T00:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 2.5",
+      "odds": "1.55",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 32, "odds": "7.00" },
+      { "score": "2-0", "probability": 28, "odds": "5.50" },
+      { "score": "3-1", "probability": 15, "odds": "10.00" }
+    ],
+    "homeForm": "WWWLW",
+    "awayForm": "LDDWL",
+    "avgGoals": 3.20,
+    "analysis": "Flamengo are in strong form, winning 4 of their last 5 with a 16:0 goal difference in that span. Medellín have just 1 win in their last 5.",
+    "special_analysis": "VIP STAT: Flamengo have scored 16 goals and conceded 0 in their last 5 matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m206",
+    "league": "Copa Sudamericana",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Deportivo Cuenca",
+    "kickoff_utc": "2026-04-17T00:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Under 4.5",
+      "odds": "1.50",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.50" },
+      { "score": "2-0", "probability": 25, "odds": "6.00" },
+      { "score": "1-0", "probability": 20, "odds": "5.00" }
+    ],
+    "homeForm": "WDWDL",
+    "awayForm": "LWLDL",
+    "avgGoals": 2.45,
+    "analysis": "San Lorenzo are solid at home. Cuenca may find the net but are unlikely to avoid defeat.",
+    "special_analysis": "MODEL FORECAST: 65% probability for a home win.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m207",
+    "league": "Copa Sudamericana",
+    "homeTeam": "Bragantino",
+    "awayTeam": "Blooming",
+    "kickoff_utc": "2026-04-17T00:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 2.5",
+      "odds": "1.45",
+      "confidence": 90,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 35, "odds": "7.00" },
+      { "score": "2-0", "probability": 28, "odds": "5.50" },
+      { "score": "4-0", "probability": 15, "odds": "11.00" }
+    ],
+    "homeForm": "WWLWW",
+    "awayForm": "LLLWL",
+    "avgGoals": 3.60,
+    "analysis": "Bragantino are strong favorites at home. Blooming have struggled immensely on their travels.",
+    "special_analysis": "VIP STAT: Blooming have conceded 12 goals in their last 5 away matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m208",
+    "league": "Australia NPL Victoria",
+    "homeTeam": "Bentleigh Greens",
+    "awayTeam": "Preston Lions",
+    "kickoff_utc": "2026-04-17T09:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.69",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 25, "odds": "8.00" },
+      { "score": "1-2", "probability": 20, "odds": "9.00" },
+      { "score": "2-2", "probability": 18, "odds": "11.00" }
+    ],
+    "homeForm": "WLWDL",
+    "awayForm": "WDLWW",
+    "avgGoals": 3.10,
+    "analysis": "Both teams have been involved in high-scoring matches recently. The over 2.5 market looks appealing.",
+    "special_analysis": "STAT: 4 of the last 5 meetings between these sides have seen over 2.5 goals.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m209",
+    "league": "Australia NPL Queensland",
+    "homeTeam": "Wolves FC",
+    "awayTeam": "Gold Coast Knights",
+    "kickoff_utc": "2026-04-17T09:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "2 or Draw",
+      "odds": "1.45",
+      "confidence": 78,
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 25, "odds": "6.50" },
+      { "score": "1-2", "probability": 22, "odds": "8.00" },
+      { "score": "0-1", "probability": 18, "odds": "7.50" }
+    ],
+    "homeForm": "LLWDL",
+    "awayForm": "WWWDW",
+    "avgGoals": 2.60,
+    "analysis": "Gold Coast Knights are in excellent form and should avoid defeat against a struggling Wolves side.",
+    "special_analysis": "FORM: Gold Coast Knights have won 4 of their last 5 matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m210",
+    "league": "Australia A-League",
+    "homeTeam": "Melbourne Victory",
+    "awayTeam": "Newcastle Jets",
+    "kickoff_utc": "2026-04-17T09:35:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "1.85",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "7.50" },
+      { "score": "3-1", "probability": 22, "odds": "10.00" },
+      { "score": "2-0", "probability": 18, "odds": "8.00" }
+    ],
+    "homeForm": "WWLWD",
+    "awayForm": "LLDWL",
+    "avgGoals": 3.00,
+    "analysis": "Melbourne Victory are strong at home. Newcastle Jets have been poor defensively on the road.",
+    "special_analysis": "H2H: Melbourne Victory have won 4 of the last 5 meetings at this venue.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m211",
+    "league": "Australia NPL Victoria",
+    "homeTeam": "Dandenong City",
+    "awayTeam": "Green Gully",
+    "kickoff_utc": "2026-04-17T09:45:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "2.00",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00" },
+      { "score": "1-1", "probability": 22, "odds": "6.50" },
+      { "score": "2-0", "probability": 18, "odds": "7.50" }
+    ],
+    "homeForm": "WDLWW",
+    "awayForm": "LWDLD",
+    "avgGoals": 2.80,
+    "analysis": "Dandenong City have been solid at home. Green Gully's away form is inconsistent.",
+    "special_analysis": "TREND: Dandenong City have scored in each of their last 8 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m212",
+    "league": "Australia NPL South Australia",
+    "homeTeam": "Croydon Kings",
+    "awayTeam": "West Torrens Birkalla",
+    "kickoff_utc": "2026-04-17T10:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "2.10",
+      "confidence": 75,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00" },
+      { "score": "2-0", "probability": 22, "odds": "7.50" },
+      { "score": "1-1", "probability": 20, "odds": "6.50" }
+    ],
+    "homeForm": "WDLWW",
+    "awayForm": "LLWLL",
+    "avgGoals": 3.20,
+    "analysis": "Croydon Kings are strong at home. West Torrens have lost 4 of their last 5 away matches.",
+    "special_analysis": "FORM: West Torrens have conceded 14 goals in their last 5 away games.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m213",
+    "league": "Australia NPL Northern NSW",
+    "homeTeam": "Broadmeadow Magic",
+    "awayTeam": "Cooks Hill United",
+    "kickoff_utc": "2026-04-17T10:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 2.5",
+      "odds": "1.65",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 30, "odds": "7.00" },
+      { "score": "2-0", "probability": 25, "odds": "5.50" },
+      { "score": "4-0", "probability": 18, "odds": "11.00" }
+    ],
+    "homeForm": "WWWWL",
+    "awayForm": "LLLLW",
+    "avgGoals": 3.80,
+    "analysis": "Broadmeadow Magic are a dominant force at home. Cooks Hill United have lost 4 of their last 5 matches.",
+    "special_analysis": "STAT: Broadmeadow Magic have scored 15 goals in their last 5 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m214",
+    "league": "Australia NPL South Australia",
+    "homeTeam": "Adelaide Comets",
+    "awayTeam": "Playford City",
+    "kickoff_utc": "2026-04-17T11:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "2 or Draw",
+      "odds": "1.35",
+      "confidence": 80,
+      "overUnder": "Under 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 25, "odds": "8.00" },
+      { "score": "1-1", "probability": 22, "odds": "6.50" },
+      { "score": "0-1", "probability": 18, "odds": "7.00" }
+    ],
+    "homeForm": "LLWDL",
+    "awayForm": "WWWDW",
+    "avgGoals": 2.40,
+    "analysis": "Playford City are in excellent form and should avoid defeat against an out-of-sorts Adelaide Comets side.",
+    "special_analysis": "FORM: Playford City are unbeaten in their last 6 matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m215",
+    "league": "China Super League",
+    "homeTeam": "Qingdao Hainiu",
+    "awayTeam": "Qingdao West Coast",
+    "kickoff_utc": "2026-04-17T11:00:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.49",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 26, "odds": "8.00" },
+      { "score": "1-2", "probability": 22, "odds": "9.00" },
+      { "score": "2-2", "probability": 18, "odds": "11.00" }
+    ],
+    "homeForm": "WLWDL",
+    "awayForm": "LWDWL",
+    "avgGoals": 2.90,
+    "analysis": "Both teams have been involved in open, high-scoring matches recently. The over 2.5 market is priced attractively.",
+    "special_analysis": "TREND: 6 of Qingdao Hainiu's last 8 matches have seen over 2.5 goals.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m216",
+    "league": "China Super League",
+    "homeTeam": "Chongqing Tonglianglong",
+    "awayTeam": "Shenzhen Peng City",
+    "kickoff_utc": "2026-04-17T11:35:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 1.5",
+      "odds": "1.85",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "7.50" },
+      { "score": "2-0", "probability": 22, "odds": "8.00" },
+      { "score": "1-0", "probability": 18, "odds": "6.50" }
+    ],
+    "homeForm": "WWDLW",
+    "awayForm": "LLDWL",
+    "avgGoals": 2.70,
+    "analysis": "Chongqing are in strong form at home. Shenzhen have struggled on their travels this season.",
+    "special_analysis": "H2H: Chongqing have won the last 3 meetings between these sides.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m217",
+    "league": "China Super League",
+    "homeTeam": "Shandong Taishan",
+    "awayTeam": "Shanghai Port",
+    "kickoff_utc": "2026-04-17T11:35:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Over 2.5",
+      "odds": "1.70",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00" },
+      { "score": "3-1", "probability": 22, "odds": "10.00" },
+      { "score": "1-1", "probability": 18, "odds": "7.00" }
+    ],
+    "homeForm": "WWWWD",
+    "awayForm": "WDLWL",
+    "avgGoals": 3.10,
+    "analysis": "Shandong Taishan are in excellent form, winning 4 of their last 5. Shanghai Port have been inconsistent.",
+    "special_analysis": "STAT: Shandong Taishan have won 7 of their last 8 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m218",
+    "league": "Germany 2. Bundesliga",
+    "homeTeam": "Elversberg",
+    "awayTeam": "Karlsruher SC",
+    "kickoff_utc": "2026-04-17T16:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "1 & Under 4.5",
+      "odds": "1.45",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.50" },
+      { "score": "2-0", "probability": 25, "odds": "8.00" },
+      { "score": "1-0", "probability": 20, "odds": "6.00" }
+    ],
+    "homeForm": "WWWWD",
+    "awayForm": "LDLWL",
+    "avgGoals": 3.00,
+    "analysis": "Elversberg are in superb form, unbeaten in their last 8 matches. Karlsruhe have been poor on the road.",
+    "special_analysis": "FORM: Elversberg have won 6 of their last 7 home matches.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "LOW",
+    "is_daily_pick": false
+  },
+  {
+    "id": "m219",
+    "league": "Germany 2. Bundesliga",
+    "homeTeam": "Holstein Kiel",
+    "awayTeam": "Kaiserslautern",
+    "kickoff_utc": "2026-04-17T16:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "Over 2.5",
+      "odds": "1.46",
+      "confidence": 82,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-2", "probability": 22, "odds": "10.00" },
+      { "score": "2-1", "probability": 20, "odds": "8.50" },
+      { "score": "1-2", "probability": 18, "odds": "9.50" }
+    ],
+    "homeForm": "LDLWD",
+    "awayForm": "WLLWL",
+    "avgGoals": 3.10,
+    "analysis": "Both teams have been involved in high-scoring encounters recently. Holstein Kiel have won just 1 of their last 5. Kaiserslautern have won 2 of their last 5.",
+    "special_analysis": "MODEL FORECAST: 70% probability for over 2.5 goals.",
+    "access_type": "AD_UNLOCK",
+    "risk_label": "NORMAL",
+    "is_daily_pick": true
+  },
+  {
+    "id": "m220",
+    "league": "Italy Serie A",
+    "homeTeam": "Sassuolo",
+    "awayTeam": "Como",
+    "kickoff_utc": "2026-04-17T16:30:00Z",
+    "local_date_key": "2026-04-17",
+    "prediction": {
+      "mainPick": "2 & Over 1.5",
+      "odds": "1.72",
+      "confidence": 86,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+   ]
   }
- ]
-}
+ 
+
  
  
   
