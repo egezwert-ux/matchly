@@ -1,80 +1,122 @@
 {
-  "lastUpdated": "2026-04-12T00:05:00Z",
-  "summary": "Matchly Pro: Specific Screenshot Data Feed (m24-m220)",
+  "lastUpdated": "2024-05-20T10:00:00Z",
+  "summary": "Dün paylaşılan 12 tahminin 10'u kazandı! %83 Başarı oranıyla kazandırmaya devam ediyoruz. 🚀",
+  "monetization": {
+    "daily_free_predictions": 2,
+    "extra_rewarded_predictions": 5,
+    "banner_ads": true,
+    "interstitial_ads": ["main_screen_exit", "detail_screen_open"],
+    "vip": {
+      "ads_removed": true,
+      "extra_predictions": 100,
+      "extra_statistics": true
+    }
+  },
   "matches": [
     {
-      "id": "m24",
-      "league": "Italy Serie A",
-      "homeTeam": "Genoa",
-      "awayTeam": "Sassuolo",
-      "date": "2026-04-12",
-      "local_date_key": "2026-04-12",
-      "time": "13:30",
+      "id": "m221",
+      "league": "Premier League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Chelsea",
+      "kickoff_utc": "2024-05-21T19:00:00Z",
+      "local_date_key": "2024-05-21",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
-        "mainPick": "BTTS Yes",
-        "odds": "1.85",
+        "mainPick": "Home Win",
+        "odds": "1.45",
+        "confidence": 88,
         "overUnder": "Over 2.5",
         "btts": "Yes",
-        "confidence": 96
-      },
-      "analysis": "Both Genoa and Sassuolo score and concede regularly in Serie A.",
-      "result": "won",
-      "access_type": "FREE",
-      "is_daily_pick": false
-    },
-    {
-      "id": "m200",
-      "league": "Copa Sudamericana",
-      "homeTeam": "Atlético Mineiro",
-      "awayTeam": "Juventud de las Piedras",
-      "kickoff_utc": "2026-04-17T22:00:00Z",
-      "local_date_key": "2026-04-17",
-      "prediction": {
-        "mainPick": "1 & Over 1.5",
-        "odds": "1.25",
-        "confidence": 92,
-        "overUnder": "Over 2.5",
-        "btts": "No",
-        "card": "Over 3.5",
         "corner": "Over 9.5"
       },
+      "predictedScore": {
+        "score": "3-1",
+        "odds": "12.00"
+      },
       "correctScoreOptions": [
-        { "score": "2-0", "probability": 35, "odds": "6.50" },
-        { "score": "3-0", "probability": 28, "odds": "9.00" },
-        { "score": "2-1", "probability": 18, "odds": "8.50" }
+        { "score": "3-1", "probability": 35, "odds": "12.00" },
+        { "score": "2-1", "probability": 25, "odds": "8.50" },
+        { "score": "2-0", "probability": 15, "odds": "7.00" }
       ],
-      "homeForm": "WWWWL",
-      "awayForm": "LDLWL",
-      "avgGoals": 2.91,
-      "analysis": "Atlético Mineiro are extremely strong at home.",
-      "special_analysis": "VIP STAT: Home side won 7 of last 8.",
+      "homeForm": "WWWDW",
+      "awayForm": "LDWLW",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 82,
+      "analysis": "Manchester City kendi sahasında hata yapmaz. Chelsea'nin savunma zaafları City'nin hücum hattı için büyük fırsatlar sunacaktır."
+    },
+    {
+      "id": "m222",
+      "league": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "kickoff_utc": "2024-05-21T20:00:00Z",
+      "local_date_key": "2024-05-21",
+      "status": "PENDING",
       "access_type": "VIP",
-      "risk_label": "LOW",
-      "is_daily_pick": true
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "3.60",
+        "confidence": 65,
+        "overUnder": "Under 3.5",
+        "btts": "Yes",
+        "card": "Over 5.5"
+      },
+      "predictedScore": {
+        "score": "1-1",
+        "odds": "7.50"
+      },
+      "homeForm": "WWWWW",
+      "awayForm": "WWDLW",
+      "avgGoals": 2.8,
+      "usersPickedPercent": 45,
+      "analysis": "El Clasico'da denge hakim. İki takımın da kontrollü bir oyun tercih etmesini bekliyoruz. Beraberlik seçeneği riskli ama değerli."
     },
     {
       "id": "m220",
-      "league": "Italy Serie A",
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Como",
-      "kickoff_utc": "2026-04-17T16:30:00Z",
-      "local_date_key": "2026-04-17",
+      "league": "Serie A",
+      "homeTeam": "Juventus",
+      "awayTeam": "AC Milan",
+      "kickoff_utc": "2024-05-20T18:45:00Z",
+      "local_date_key": "2024-05-20",
+      "status": "WON",
+      "access_type": "AD_UNLOCK",
       "prediction": {
-        "mainPick": "2 & Over 1.5",
-        "odds": "1.72",
-        "confidence": 86,
-        "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "card": "Over 4.5",
-        "corner": "Under 9.5"
+        "mainPick": "Under 2.5",
+        "odds": "1.85",
+        "confidence": 78
       },
-      "access_type": "VIP",
-      "risk_label": "NORMAL",
-      "is_daily_pick": false
+      "correctScore": {
+        "score": "1-0",
+        "odds": "6.50",
+        "result": "WON"
+      },
+      "homeForm": "DWLDW",
+      "awayForm": "WWDLD",
+      "avgGoals": 1.9,
+      "usersPickedPercent": 60,
+      "analysis": "İtalyan futbolunun klasiğinde savunmalar ön planda olacaktır."
+    },
+    {
+      "id": "m219",
+      "league": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Dortmund",
+      "kickoff_utc": "2024-05-20T16:30:00Z",
+      "local_date_key": "2024-05-20",
+      "status": "LOST",
+      "access_type": "FREE",
+      "prediction": {
+        "mainPick": "Over 3.5",
+        "odds": "2.10",
+        "confidence": 85
+      },
+      "homeForm": "WWWLW",
+      "awayForm": "LWWWL",
+      "avgGoals": 4.1
     }
   ]
 }
- 
-  
 
       
