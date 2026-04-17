@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-04-17T00:05:00Z",
-  "summary": "Matchly Pro: Daily Predictions Feed (2026-04-17)",
+  "lastUpdated": "2026-04-17T09:00:00Z",
+  "summary": "Matchly Pro Analiz: Bugün bültende Copa Libertadores, Süper Lig ve Avustralya NPL heyecanı var! Ekibimiz %80+ güven oranıyla günün banko kuponunu hazırladı. VIP üyelerimiz için ekstra skor seçenekleri eklendi. Bol şanslar! 🚀🎯",
+  "monetization": {
+    "daily_free_predictions": 2,
+    "extra_rewarded_predictions": 5,
+    "banner_ads": true,
+    "interstitial_ads": ["main_screen_exit", "detail_screen_open"],
+    "vip": {
+      "ads_removed": true,
+      "extra_predictions": 100,
+      "extra_statistics": true
+    }
+  },
   "matches": [
     {
       "id": "m220",
@@ -9,19 +20,25 @@
       "awayTeam": "CA Platense",
       "date": "2026-04-17",
       "time": "03:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.76",
+        "confidence": 78,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 78
+        "btts": "No"
       },
-      "analysis": "Penarol strong at home in Libertadores. Platense struggle away in continental competition. Low-scoring home win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "6.00" },
+        { "score": "2-0", "probability": 25, "odds": "9.50" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LDLLW",
+      "avgGoals": 2.0,
+      "usersPickedPercent": 75,
+      "analysis": "Penarol strong at home in Libertadores. Platense struggle away in continental competition. Low-scoring home win expected."
     },
     {
       "id": "m221",
@@ -30,19 +47,26 @@
       "awayTeam": "Independiente Medellin",
       "date": "2026-04-17",
       "time": "03:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.41",
+        "confidence": 88,
         "overUnder": "Over 2.5",
-        "btts": "No",
-        "predictedScore": "3-0",
-        "confidence": 88
+        "btts": "No"
       },
-      "analysis": "Flamengo dominant force at home. Medellin out of their depth against Brazilian giants. Comfortable home victory expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": true
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 45, "odds": "8.00" },
+        { "score": "2-0", "probability": 30, "odds": "6.50" },
+        { "score": "2-1", "probability": 15, "odds": "9.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LLLWD",
+      "avgGoals": 3.4,
+      "usersPickedPercent": 85,
+      "analysis": "Flamengo dominant force at home. Medellin out of their depth against Brazilian giants. Comfortable home victory expected."
     },
     {
       "id": "m222",
@@ -51,19 +75,25 @@
       "awayTeam": "CD Cuenca",
       "date": "2026-04-17",
       "time": "03:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.41",
+        "confidence": 82,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 82
+        "btts": "Yes"
       },
-      "analysis": "San Lorenzo solid at home in continental competition. Cuenca may find the net but unlikely to avoid defeat.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 42, "odds": "8.50" },
+        { "score": "3-1", "probability": 28, "odds": "12.00" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "WDLWL",
+      "avgGoals": 3.1,
+      "usersPickedPercent": 79,
+      "analysis": "San Lorenzo solid at home in continental competition. Cuenca may find the net but unlikely to avoid defeat."
     },
     {
       "id": "m223",
@@ -72,19 +102,25 @@
       "awayTeam": "Blooming",
       "date": "2026-04-17",
       "time": "03:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.38",
+        "confidence": 85,
         "overUnder": "Over 2.5",
-        "btts": "No",
-        "predictedScore": "3-0",
-        "confidence": 85
+        "btts": "No"
       },
-      "analysis": "Bragantino strong favorites at home. Blooming have struggled immensely on their travels in continental competition.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 40, "odds": "7.50" },
+        { "score": "2-0", "probability": 30, "odds": "6.00" },
+        { "score": "4-0", "probability": 15, "odds": "15.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LLLLL",
+      "avgGoals": 3.5,
+      "usersPickedPercent": 82,
+      "analysis": "Bragantino strong favorites at home. Blooming have struggled immensely on their travels in continental competition."
     },
     {
       "id": "m224",
@@ -93,19 +129,25 @@
       "awayTeam": "CSD Imperial",
       "date": "2026-04-17",
       "time": "04:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.31",
+        "confidence": 75,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 75
+        "btts": "No"
       },
-      "analysis": "Malacateco solid at home. Imperial struggle away. Low-scoring home win most probable outcome.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 50, "odds": "5.50" },
+        { "score": "2-0", "probability": 25, "odds": "8.00" },
+        { "score": "0-0", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "avgGoals": 1.9,
+      "usersPickedPercent": 70,
+      "analysis": "Malacateco solid at home. Imperial struggle away. Low-scoring home win most probable outcome."
     },
     {
       "id": "m225",
@@ -114,19 +156,25 @@
       "awayTeam": "Motagua",
       "date": "2026-04-17",
       "time": "04:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
         "odds": "1.32",
+        "confidence": 80,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "0-1",
-        "confidence": 80
+        "btts": "No"
       },
-      "analysis": "Motagua superior quality and form. Victoria struggle at home against top sides. Away win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 45, "odds": "6.00" },
+        { "score": "0-2", "probability": 30, "odds": "9.50" },
+        { "score": "1-1", "probability": 15, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWL",
+      "awayForm": "WWWWW",
+      "avgGoals": 2.0,
+      "usersPickedPercent": 78,
+      "analysis": "Motagua superior quality and form. Victoria struggle at home against top sides. Away win expected."
     },
     {
       "id": "m226",
@@ -135,19 +183,25 @@
       "awayTeam": "Preston Lions",
       "date": "2026-04-17",
       "time": "12:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Over 2.5",
         "odds": "1.69",
+        "confidence": 78,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 78
+        "btts": "Yes"
       },
-      "analysis": "Both teams involved in high-scoring matches recently. Open game expected with goals at both ends.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-2", "probability": 25, "odds": "10.00" },
+        { "score": "3-1", "probability": 20, "odds": "12.00" }
+      ],
+      "homeForm": "WWDLW",
+      "awayForm": "WDLWW",
+      "avgGoals": 3.3,
+      "usersPickedPercent": 74,
+      "analysis": "Both teams involved in high-scoring matches recently. Open game expected with goals at both ends."
     },
     {
       "id": "m227",
@@ -156,19 +210,25 @@
       "awayTeam": "Gold Coast Knights",
       "date": "2026-04-17",
       "time": "12:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
         "odds": "2.03",
+        "confidence": 76,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "0-1",
-        "confidence": 76
+        "btts": "No"
       },
-      "analysis": "Gold Coast Knights in excellent form. Wolves struggling at home. Away win most likely outcome.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 42, "odds": "6.50" },
+        { "score": "0-2", "probability": 28, "odds": "9.00" },
+        { "score": "1-1", "probability": 18, "odds": "7.00" }
+      ],
+      "homeForm": "LLDWW",
+      "awayForm": "WWWWW",
+      "avgGoals": 2.1,
+      "usersPickedPercent": 71,
+      "analysis": "Gold Coast Knights in excellent form. Wolves struggling at home. Away win most likely outcome."
     },
     {
       "id": "m228",
@@ -177,19 +237,26 @@
       "awayTeam": "Newcastle Jets",
       "date": "2026-04-17",
       "time": "12:35",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.67",
+        "confidence": 82,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 82
+        "btts": "Yes"
       },
-      "analysis": "Melbourne Victory strong at home. Newcastle Jets poor defensively on the road. Home win with goals expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": true
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "8.00" },
+        { "score": "3-1", "probability": 25, "odds": "11.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 80,
+      "analysis": "Melbourne Victory strong at home. Newcastle Jets poor defensively on the road. Home win with goals expected."
     },
     {
       "id": "m229",
@@ -198,19 +265,25 @@
       "awayTeam": "Green Gully",
       "date": "2026-04-17",
       "time": "12:45",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.80",
+        "confidence": 75,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 75
+        "btts": "Yes"
       },
-      "analysis": "Dandenong City solid at home. Green Gully inconsistent away. Home advantage should prove decisive.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "3-1", "probability": 28, "odds": "12.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.00" }
+      ],
+      "homeForm": "WWDLW",
+      "awayForm": "WDLWL",
+      "avgGoals": 3.0,
+      "usersPickedPercent": 72,
+      "analysis": "Dandenong City solid at home. Green Gully inconsistent away. Home advantage should prove decisive."
     },
     {
       "id": "m230",
@@ -219,19 +292,25 @@
       "awayTeam": "West Torrens Birkalla",
       "date": "2026-04-17",
       "time": "13:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "2.33",
+        "confidence": 73,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 73
+        "btts": "Yes"
       },
-      "analysis": "Croydon Kings strong at home. West Torrens struggling away. Home win in high-scoring affair expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "9.00" },
+        { "score": "3-1", "probability": 25, "odds": "13.00" },
+        { "score": "2-2", "probability": 20, "odds": "10.00" }
+      ],
+      "homeForm": "WWDWW",
+      "awayForm": "LLLWD",
+      "avgGoals": 3.1,
+      "usersPickedPercent": 68,
+      "analysis": "Croydon Kings strong at home. West Torrens struggling away. Home win in high-scoring affair expected."
     },
     {
       "id": "m231",
@@ -240,19 +319,25 @@
       "awayTeam": "Cooks Hill United",
       "date": "2026-04-17",
       "time": "13:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.92",
+        "confidence": 80,
         "overUnder": "Over 2.5",
-        "btts": "No",
-        "predictedScore": "3-0",
-        "confidence": 80
+        "btts": "No"
       },
-      "analysis": "Broadmeadow Magic dominant at home. Cooks Hill United struggling for form. Comfortable home win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 42, "odds": "7.00" },
+        { "score": "2-0", "probability": 30, "odds": "6.00" },
+        { "score": "4-0", "probability": 18, "odds": "14.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LLDLW",
+      "avgGoals": 3.4,
+      "usersPickedPercent": 76,
+      "analysis": "Broadmeadow Magic dominant at home. Cooks Hill United struggling for form. Comfortable home win expected."
     },
     {
       "id": "m232",
@@ -261,19 +346,25 @@
       "awayTeam": "Manningham United",
       "date": "2026-04-17",
       "time": "13:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.45",
+        "confidence": 77,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 77
+        "btts": "Yes"
       },
-      "analysis": "Melbourne Knights strong home record. Manningham United vulnerable away. Home win with goals expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "8.00" },
+        { "score": "3-1", "probability": 25, "odds": "11.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "WDLWL",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 73,
+      "analysis": "Melbourne Knights strong home record. Manningham United vulnerable away. Home win with goals expected."
     },
     {
       "id": "m233",
@@ -282,19 +373,25 @@
       "awayTeam": "Playford City",
       "date": "2026-04-17",
       "time": "14:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
         "odds": "1.51",
+        "confidence": 78,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "0-1",
-        "confidence": 78
+        "btts": "No"
       },
-      "analysis": "Playford City in excellent form. Adelaide Comets struggling at home. Away win most probable outcome.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 45, "odds": "6.00" },
+        { "score": "0-2", "probability": 28, "odds": "9.00" },
+        { "score": "1-1", "probability": 18, "odds": "7.00" }
+      ],
+      "homeForm": "LLDWW",
+      "awayForm": "WWWWW",
+      "avgGoals": 2.0,
+      "usersPickedPercent": 74,
+      "analysis": "Playford City in excellent form. Adelaide Comets struggling at home. Away win most probable outcome."
     },
     {
       "id": "m234",
@@ -303,19 +400,25 @@
       "awayTeam": "Qingdao Youth Island",
       "date": "2026-04-17",
       "time": "14:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Over 2.5",
         "odds": "1.49",
+        "confidence": 76,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 76
+        "btts": "Yes"
       },
-      "analysis": "Local derby with both teams in open, attacking form. High probability of multiple goals.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-2", "probability": 25, "odds": "10.00" },
+        { "score": "3-1", "probability": 22, "odds": "12.00" }
+      ],
+      "homeForm": "WWDWW",
+      "awayForm": "WWDLW",
+      "avgGoals": 3.3,
+      "usersPickedPercent": 72,
+      "analysis": "Local derby with both teams in open, attacking form. High probability of multiple goals."
     },
     {
       "id": "m235",
@@ -324,19 +427,25 @@
       "awayTeam": "Hyderabad",
       "date": "2026-04-17",
       "time": "14:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "BTTS Yes",
         "odds": "1.62",
+        "confidence": 74,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 74
+        "btts": "Yes"
       },
-      "analysis": "Both teams score and concede regularly in ISL. Open match with goals at both ends expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 35, "odds": "8.50" },
+        { "score": "1-1", "probability": 30, "odds": "7.00" },
+        { "score": "2-2", "probability": 25, "odds": "11.00" }
+      ],
+      "homeForm": "WDLWW",
+      "awayForm": "DLWWL",
+      "avgGoals": 3.0,
+      "usersPickedPercent": 70,
+      "analysis": "Both teams score and concede regularly in ISL. Open match with goals at both ends expected."
     },
     {
       "id": "m236",
@@ -345,19 +454,25 @@
       "awayTeam": "Shenzhen Peng City",
       "date": "2026-04-17",
       "time": "14:35",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.68",
+        "confidence": 77,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 77
+        "btts": "No"
       },
-      "analysis": "Chongqing strong at home. Shenzhen struggle away. Low-scoring home win most likely.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "6.00" },
+        { "score": "2-0", "probability": 25, "odds": "9.00" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "avgGoals": 2.1,
+      "usersPickedPercent": 73,
+      "analysis": "Chongqing strong at home. Shenzhen struggle away. Low-scoring home win most likely."
     },
     {
       "id": "m237",
@@ -366,19 +481,26 @@
       "awayTeam": "Shanghai Port",
       "date": "2026-04-17",
       "time": "14:35",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.49",
+        "confidence": 81,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 81
+        "btts": "Yes"
       },
-      "analysis": "Shandong Taishan in excellent form at home. Shanghai Port inconsistent away. Home win with goals expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": true
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "8.00" },
+        { "score": "3-1", "probability": 25, "odds": "11.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.50" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "WDLWL",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 79,
+      "analysis": "Shandong Taishan in excellent form at home. Shanghai Port inconsistent away. Home win with goals expected."
     },
     {
       "id": "m238",
@@ -387,19 +509,25 @@
       "awayTeam": "Karlsruher SC",
       "date": "2026-04-17",
       "time": "19:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.27",
+        "confidence": 83,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 83
+        "btts": "No"
       },
-      "analysis": "Elversberg superb form, unbeaten in last 8. Karlsruhe poor on the road. Comfortable home win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 50, "odds": "5.50" },
+        { "score": "2-0", "probability": 28, "odds": "8.00" },
+        { "score": "0-0", "probability": 15, "odds": "7.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LDLLW",
+      "avgGoals": 1.8,
+      "usersPickedPercent": 81,
+      "analysis": "Elversberg superb form, unbeaten in last 8. Karlsruhe poor on the road. Comfortable home win expected."
     },
     {
       "id": "m239",
@@ -408,19 +536,26 @@
       "awayTeam": "Kaiserslautern",
       "date": "2026-04-17",
       "time": "19:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
         "mainPick": "Over 2.5",
         "odds": "1.46",
+        "confidence": 79,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 79
+        "btts": "Yes"
       },
-      "analysis": "Both teams involved in high-scoring encounters recently. Open game with goals at both ends expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": true
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-2", "probability": 28, "odds": "10.00" },
+        { "score": "3-1", "probability": 20, "odds": "12.00" }
+      ],
+      "homeForm": "WWDWW",
+      "awayForm": "WLWDL",
+      "avgGoals": 3.3,
+      "usersPickedPercent": 76,
+      "analysis": "Both teams involved in high-scoring encounters recently. Open game with goals at both ends expected."
     },
     {
       "id": "m240",
@@ -429,19 +564,25 @@
       "awayTeam": "Vestmannaeyjar",
       "date": "2026-04-17",
       "time": "19:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.80",
+        "confidence": 75,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 75
+        "btts": "Yes"
       },
-      "analysis": "Valur strong at home in Icelandic league. Vestmannaeyjar vulnerable away. Home win with goals expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 40, "odds": "8.50" },
+        { "score": "3-1", "probability": 25, "odds": "12.00" },
+        { "score": "2-2", "probability": 20, "odds": "9.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDWL",
+      "avgGoals": 3.0,
+      "usersPickedPercent": 71,
+      "analysis": "Valur strong at home in Icelandic league. Vestmannaeyjar vulnerable away. Home win with goals expected."
     },
     {
       "id": "m241",
@@ -450,19 +591,25 @@
       "awayTeam": "Como 1907",
       "date": "2026-04-17",
       "time": "19:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
         "odds": "1.45",
+        "confidence": 78,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "1-2",
-        "confidence": 78
+        "btts": "Yes"
       },
-      "analysis": "Como in better form than Sassuolo. Away side has quality to take all three points in this Serie A clash.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-2", "probability": 40, "odds": "8.50" },
+        { "score": "0-2", "probability": 25, "odds": "9.00" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "WDLWL",
+      "awayForm": "WWWDW",
+      "avgGoals": 3.1,
+      "usersPickedPercent": 74,
+      "analysis": "Como in better form than Sassuolo. Away side has quality to take all three points in this Serie A clash."
     },
     {
       "id": "m242",
@@ -471,19 +618,25 @@
       "awayTeam": "Sochi",
       "date": "2026-04-17",
       "time": "19:30",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.27",
+        "confidence": 80,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 80
+        "btts": "No"
       },
-      "analysis": "Rostov solid defensively at home. Sochi struggle to score away. Low-scoring home win most probable.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "5.50" },
+        { "score": "2-0", "probability": 28, "odds": "8.00" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "avgGoals": 1.9,
+      "usersPickedPercent": 77,
+      "analysis": "Rostov solid defensively at home. Sochi struggle to score away. Low-scoring home win most probable."
     },
     {
       "id": "m243",
@@ -492,19 +645,25 @@
       "awayTeam": "Konyaspor",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Under 2.5",
         "odds": "1.60",
+        "confidence": 76,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 76
+        "btts": "No"
       },
-      "analysis": "Both teams defensively solid in Turkish league. Low-scoring affair most likely outcome.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 45, "odds": "6.00" },
+        { "score": "0-0", "probability": 30, "odds": "7.50" },
+        { "score": "2-0", "probability": 15, "odds": "9.00" }
+      ],
+      "homeForm": "WWDWL",
+      "awayForm": "DDWWL",
+      "avgGoals": 1.8,
+      "usersPickedPercent": 72,
+      "analysis": "Both teams defensively solid in Turkish league. Low-scoring affair most likely outcome."
     },
     {
       "id": "m244",
@@ -513,19 +672,26 @@
       "awayTeam": "Rizespor",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "is_daily_pick": true,
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.15",
+        "confidence": 90,
         "overUnder": "Over 2.5",
-        "btts": "No",
-        "predictedScore": "3-0",
-        "confidence": 90
+        "btts": "No"
       },
-      "analysis": "Fenerbahce dominant force at home. Rizespor out of their depth. Comfortable home victory expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": true
+      "correctScoreOptions": [
+        { "score": "3-0", "probability": 45, "odds": "6.50" },
+        { "score": "2-0", "probability": 30, "odds": "5.00" },
+        { "score": "4-0", "probability": 15, "odds": "12.00" }
+      ],
+      "homeForm": "WWWWW",
+      "awayForm": "LLDLW",
+      "avgGoals": 3.6,
+      "usersPickedPercent": 88,
+      "analysis": "Fenerbahce dominant force at home. Rizespor out of their depth. Comfortable home victory expected."
     },
     {
       "id": "m245",
@@ -534,19 +700,25 @@
       "awayTeam": "Airtel Kitara",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Home Win",
         "odds": "1.66",
+        "confidence": 74,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 74
+        "btts": "No"
       },
-      "analysis": "Kampala City strong at home in Ugandan league. Kitara struggle away. Low-scoring home win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 48, "odds": "6.00" },
+        { "score": "2-0", "probability": 25, "odds": "9.00" },
+        { "score": "0-0", "probability": 18, "odds": "7.50" }
+      ],
+      "homeForm": "WWWDW",
+      "awayForm": "LLDLW",
+      "avgGoals": 1.9,
+      "usersPickedPercent": 70,
+      "analysis": "Kampala City strong at home in Ugandan league. Kitara struggle away. Low-scoring home win expected."
     },
     {
       "id": "m246",
@@ -555,19 +727,25 @@
       "awayTeam": "Torpedo Kutaisi",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Away Win",
         "odds": "1.59",
+        "confidence": 77,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "0-1",
-        "confidence": 77
+        "btts": "No"
       },
-      "analysis": "Torpedo superior quality and form. Gagra struggle at home against top sides. Away win expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "0-1", "probability": 45, "odds": "6.00" },
+        { "score": "0-2", "probability": 25, "odds": "9.50" },
+        { "score": "1-1", "probability": 20, "odds": "7.00" }
+      ],
+      "homeForm": "LDLWW",
+      "awayForm": "WWWWW",
+      "avgGoals": 2.0,
+      "usersPickedPercent": 73,
+      "analysis": "Torpedo superior quality and form. Gagra struggle at home against top sides. Away win expected."
     },
     {
       "id": "m247",
@@ -576,19 +754,25 @@
       "awayTeam": "AC Horsens",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Under 2.5",
         "odds": "1.40",
+        "confidence": 75,
         "overUnder": "Under 2.5",
-        "btts": "No",
-        "predictedScore": "1-0",
-        "confidence": 75
+        "btts": "No"
       },
-      "analysis": "Promotion group match with both teams cautious. Low-scoring affair most probable outcome.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "1-0", "probability": 45, "odds": "6.00" },
+        { "score": "0-0", "probability": 30, "odds": "7.50" },
+        { "score": "2-0", "probability": 15, "odds": "9.00" }
+      ],
+      "homeForm": "WWDWL",
+      "awayForm": "DDWWL",
+      "avgGoals": 1.8,
+      "usersPickedPercent": 71,
+      "analysis": "Promotion group match with both teams cautious. Low-scoring affair most probable outcome."
     },
     {
       "id": "m248",
@@ -597,19 +781,25 @@
       "awayTeam": "HB Koege",
       "date": "2026-04-17",
       "time": "20:00",
+      "status": "PENDING",
+      "access_type": "AD_UNLOCK",
       "prediction": {
         "mainPick": "Over 2.5",
         "odds": "1.36",
+        "confidence": 78,
         "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "predictedScore": "2-1",
-        "confidence": 78
+        "btts": "Yes"
       },
-      "analysis": "Relegation group match with both teams desperate for points. Open game with goals expected.",
-      "result": "pending",
-      "vip": false,
-      "adUnlock": true,
-      "isDailyPick": false
+      "correctScoreOptions": [
+        { "score": "2-1", "probability": 38, "odds": "8.50" },
+        { "score": "2-2", "probability": 28, "odds": "10.00" },
+        { "score": "3-1", "probability": 20, "odds": "12.00" }
+      ],
+      "homeForm": "WDLWW",
+      "awayForm": "WLWDL",
+      "avgGoals": 3.2,
+      "usersPickedPercent": 75,
+      "analysis": "Relegation group match with both teams desperate for points. Open game with goals expected."
     }
   ]
 }
