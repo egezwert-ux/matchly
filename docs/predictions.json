@@ -1,27 +1,48 @@
 {
-  "version": "v2.2.1",  "summary": "Matchly Pro: Elite picks updated! VIP Correct Scores are now LIVE. 🚀🎯",
+  "version": "v2.2.1","summary": "Matchly Pro: Günün kuponları hazır! VIP Skor tahminleri eklendi. 🚀🎯",
   "matches": [
     {
-      "id": "m801",
+      "id": "m1001",
       "league": "England Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Chelsea",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Liverpool",
       "kickoff_timestamp": 1713553200,
       "status": "WON", 
-      "access_type": "AD_UNLOCK",
+      "access_type": "FREE",
       "prediction": {
         "mainPick": "Home Win",
-        "odds": "1.65",
-        "confidence": 88,
+        "odds": "1.85",
+        "confidence": 85,
         "overUnder": "Over 2.5",
         "btts": "Yes",
         "card": "Over 3.5",
-        "corner": "Over 9.5"
+        "corner": "Over 10.5"
       },
       "correctScoreOptions": [
-        { "score": "2-1", "probability": 35, "odds": "8.50", "isCorrect": true }
+        { "score": "3-1", "probability": 30, "odds": "12.00", "isCorrect": true },
+        { "score": "2-1", "probability": 25, "odds": "8.50", "isCorrect": false }
       ],
-      "analysis": "Arsenal is in great form at home. Chelsea's defense is struggling."
+      "analysis": "City evinde çok güçlü, Liverpool savunma hataları yapıyor."
+    },
+    {
+      "id": "m1002",
+      "league": "Spain La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "kickoff_timestamp": 1713564000,
+      "status": "PENDING", 
+      "access_type": "AD_UNLOCK",
+      "prediction": {
+        "mainPick": "Draw",
+        "odds": "3.40",
+        "confidence": 70,
+        "overUnder": "Under 3.5",
+        "btts": "Yes"
+      },
+      "correctScoreOptions": [
+        { "score": "1-1", "probability": 40, "odds": "7.00", "isCorrect": false }
+      ],
+      "analysis": "El Clasico'da beraberlik ihtimali yüksek görünüyor."
     }
   ]
 }
