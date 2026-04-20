@@ -9,7 +9,7 @@
       "awayTeam": "Al Ahli Saudi",
       "date": "2026-04-20",
       "time": "19:15",
-      "status": "PENDING",
+      "status": "WON",
       "access_type": "FREE",
       "homeForm": "WWDWL",
       "awayForm": "WDLWW",
@@ -26,7 +26,7 @@
       },
       "correctScoreOptions": [
         { "score": "2-1", "probability": 28, "odds": "9.50", "isCorrect": false },
-        { "score": "1-2", "probability": 24, "odds": "10.00", "isCorrect": false }
+        { "score": "1-2", "probability": 24, "odds": "10.00", "isCorrect": true },
       ],
       "analysis": "Both teams are prolific scorers in Asian competition. Vissel Kobe strong at home, Al Ahli dangerous on the break. Expect goals at both ends in this high-quality clash."
     },
