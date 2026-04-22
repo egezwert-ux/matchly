@@ -1096,7 +1096,7 @@
       "awayTeam": "Cruz Azul",
       "date": "2026-04-22",
       "time": "04:00",
-      "status": "PENDING",
+      "status": "lost",
       "access_type": "AD_UNLOCK",
       "homeForm": "LDLDW",
       "awayForm": "WWDWL",
@@ -1124,7 +1124,7 @@
       "awayTeam": "AD San Carlos",
       "date": "2026-04-22",
       "time": "05:00",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "FREE",
       "homeForm": "WDLWW",
       "awayForm": "LLWDL",
@@ -1152,7 +1152,7 @@
       "awayTeam": "Puebla",
       "date": "2026-04-22",
       "time": "06:05",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "FREE",
       "homeForm": "LLWDL",
       "awayForm": "LLLLL",
@@ -1168,7 +1168,7 @@
         "corner": "Over 9.5"
       },
       "correctScoreOptions": [
-        { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+        { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": true },
         { "score": "3-1", "probability": 22, "odds": "11.00", "isCorrect": false }
       ],
       "analysis": "Monterrey (14th, 15 pts) coming off 1-3 loss to Pachuca but still heavy favorites at Estadio BBVA. Puebla (16th, 13 pts) destroyed 0-5 by Guadalajara last match, 6 games without a win. Both teams already eliminated from Liguilla."
@@ -1180,7 +1180,7 @@
       "awayTeam": "America",
       "date": "2026-04-22",
       "time": "06:06",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "AD_UNLOCK",
       "homeForm": "WLLDW",
       "awayForm": "WDLWW",
@@ -1208,7 +1208,7 @@
       "awayTeam": "Persija Jakarta",
       "date": "2026-04-22",
       "time": "11:30",
-      "status": "PENDING",
+      "status": "won",
       "access_type": "FREE",
       "homeForm": "WDLWW",
       "awayForm": "WWDWL",
@@ -1225,7 +1225,7 @@
       },
       "correctScoreOptions": [
         { "score": "2-1", "probability": 26, "odds": "9.00", "isCorrect": false },
-        { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": false }
+        { "score": "1-1", "probability": 24, "odds": "7.50", "isCorrect": true }
       ],
       "analysis": "Indonesian league open and high-scoring. Both teams in decent form. Expect goals at both ends in this morning clash."
     },
