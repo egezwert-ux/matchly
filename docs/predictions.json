@@ -2368,8 +2368,948 @@
       { "score": "1-0", "probability": 29, "odds": "6.50", "isCorrect": false }
     ],
     "analysis": "Damac are strong at home and face an out‑of‑form Al Akhdood. The hosts should secure a win with a clean sheet, but the match may open up if they score early."
+  },
+  {
+    "id": "m133",
+    "league": "Argentina Primera LFP",
+    "homeTeam": "Def. Justicia",
+    "awayTeam": "Boca Juniors",
+    "date": "2026-04-24",
+    "time": "02:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "WDWLW",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 48,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "2.42",
+      "confidence": 62,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-1",
+        "probability": 18,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-2",
+        "probability": 16,
+        "odds": "10.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 14,
+        "odds": "9.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Defensores de Justicia host Boca Juniors in the Argentine Primera Division opening round fixture. Boca Juniors bring their big-game pedigree but historically struggle away against physical lower-mid-table sides in Argentina. Def. Justicia are hard to beat at home and have won 2 of their last 3. With Boca's attacking quality and the hosts' competitive home record, goals from both sides is the best value bet."
+  },
+  {
+    "id": "m138",
+    "league": "Colombia Primera A",
+    "homeTeam": "Deportivo Pasto",
+    "awayTeam": "Independiente Santa Fe",
+    "date": "2026-04-24",
+    "time": "02:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LWDLW",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 51,
+    "prediction": {
+      "mainPick": "Deportivo Pasto Win",
+      "odds": "1.77",
+      "confidence": 61,
+      "overUnder": "Over 1.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 20,
+        "odds": "9.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 18,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 15,
+        "odds": "8.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Deportivo Pasto host Independiente Santa Fe in the opening round of the Colombian Primera A. Pasto are historically strong at home in Pasto's high altitude, which makes life difficult for visiting teams. Santa Fe have struggled on the road this season with 2 losses and 1 draw in their last 3 away fixtures. The altitude advantage and Pasto's solid home record make them the pick."
+  },
+  {
+    "id": "m134",
+    "league": "Ecuador Pro League",
+    "homeTeam": "Universidad Católica",
+    "awayTeam": "CSD Macara",
+    "date": "2026-04-24",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLDWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Universidad Católica Win",
+      "odds": "1.49",
+      "confidence": 69,
+      "overUnder": "Over 1.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 26,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 21,
+        "odds": "7.50",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 14,
+        "odds": "9.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Universidad Católica host CSD Macara in the Ecuador Pro League. Católica are one of Ecuador's top clubs and are comfortable at home — 3 wins from their last 4 home games. Macara have been poor away from home with 3 defeats in their last 4 road trips. Católica's home dominance in Ecuadorian football makes them a confident pick."
+  },
+  {
+    "id": "m123",
+    "league": "Germany 2. Bundesliga - Round 30",
+    "homeTeam": "Kaiserslautern",
+    "awayTeam": "Eintracht Braunschweig",
+    "date": "2026-04-24",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDLW",
+    "awayForm": "LDLWL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Kaiserslautern Win",
+      "odds": "1.81",
+      "confidence": 66,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 20,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 17,
+        "odds": "7.50",
+        "isCorrect": false
+      },
+      {
+        "score": "3-1",
+        "probability": 12,
+        "odds": "12.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Kaiserslautern host Eintracht Braunschweig in the 2. Bundesliga at Fritz-Walter-Stadion. Kaiserslautern have 14 wins in 30 league games and are mid-table promotion chasers with 49 goals scored. Braunschweig sit lower with just 8 wins from 30 matches and a poor defensive record of 50 conceded. Lautern's home advantage and greater quality make them the clear favourites."
+  },
+  {
+    "id": "m124",
+    "league": "Germany 2. Bundesliga - Round 30",
+    "homeTeam": "Fortuna Düsseldorf",
+    "awayTeam": "Dynamo Dresden",
+    "date": "2026-04-24",
+    "time": "17:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDWWL",
+    "awayForm": "LWLLL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Fortuna Düsseldorf Win",
+      "odds": "2.00",
+      "confidence": 65,
+      "overUnder": "Over 1.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 24,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 18,
+        "odds": "8.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 17,
+        "odds": "7.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Fortuna Düsseldorf host Dynamo Dresden in the 2. Bundesliga. Düsseldorf are pushing for promotion and have strong home form. Dresden are struggling badly with 4 defeats in their last 5 away matches and sitting in relegation trouble. Düsseldorf's quality, home advantage, and Dresden's alarming away record all point to a home win."
+  },
+  {
+    "id": "m136",
+    "league": "Saudi Arabia Pro League",
+    "homeTeam": "AL Hazem",
+    "awayTeam": "AL Riyadh",
+    "date": "2026-04-24",
+    "time": "19:10",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDLWW",
+    "awayForm": "LDWWL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 49,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.58",
+      "confidence": 65,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 19,
+        "odds": "8.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 16,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-2",
+        "probability": 13,
+        "odds": "10.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "AL Hazem host AL Riyadh in the Saudi Pro League. Both sides have shown a habit of scoring — each team has netted in their last 4 consecutive matches. With similar mid-table ambitions and attacking intent on both sides, this fixture has the hallmarks of an entertaining, goal-filled encounter in the Saudi top flight."
+  },
+  {
+    "id": "m139",
+    "league": "Germany Bundesliga - Round 31",
+    "homeTeam": "RB Leipzig",
+    "awayTeam": "Union Berlin",
+    "date": "2026-04-24",
+    "time": "19:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWW",
+    "awayForm": "LLDWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "RB Leipzig Win",
+      "odds": "1.50",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 10.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 22,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 19,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "3-1",
+        "probability": 13,
+        "odds": "12.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "RB Leipzig host Union Berlin in the German Bundesliga at Red Bull Arena. Leipzig are in strong form — 4 wins in their last 5 — chasing a European spot. Union Berlin are in the bottom half, having lost 3 of their last 5 including their last two away games. Leipzig's attacking depth, home support, and Union's poor road form make Leipzig clear favourites in this Bundesliga clash."
+  },
+  {
+    "id": "m120",
+    "league": "Italy Serie A - Round 34",
+    "homeTeam": "Napoli",
+    "awayTeam": "Cremonese",
+    "date": "2026-04-24",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "LWDWW",
+    "awayForm": "DLDDL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Napoli Win",
+      "odds": "1.16",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Under 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 30,
+        "odds": "5.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 22,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 14,
+        "odds": "9.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Napoli host relegation-threatened Cremonese at the Diego Armando Maradona in a crucial Serie A Round 34 fixture. Napoli sit 3rd and need points for their Champions League spot. Cremonese have managed just 1 win in their last 14 matches and have not beaten Napoli in Serie A for 32 years. With De Bruyne, McTominay and Hojlund available, Napoli should control this comfortably. Key absences: Lukaku (muscle), Di Lorenzo (knee) for Napoli; Vardy (muscle), Thorsby for Cremonese."
+  },
+  {
+    "id": "m126",
+    "league": "Ireland Premier Division - Round 13",
+    "homeTeam": "Shelbourne",
+    "awayTeam": "Drogheda United",
+    "date": "2026-04-24",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "DLLWL",
+    "awayForm": "LDDLL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Shelbourne Win",
+      "odds": "1.48",
+      "confidence": 62,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 2.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-0",
+        "probability": 27,
+        "odds": "6.50",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 20,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 14,
+        "odds": "10.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Shelbourne host Drogheda United at Tolka Park in the League of Ireland Premier Division. Shelbourne won the last H2H meeting 2-1. Drogheda are in poor form — no wins in their last 5 and just 2 wins from 11 league games this season. Both sides have suffered consecutive defeats recently, but Shelbourne's home advantage and superior H2H record give them the edge in this derby encounter."
+  },
+  {
+    "id": "m127",
+    "league": "Ireland Premier Division - Round 13",
+    "homeTeam": "St. Patricks Athletic",
+    "awayTeam": "Bohemians",
+    "date": "2026-04-24",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LWDLL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 57,
+    "prediction": {
+      "mainPick": "St. Patricks Athletic Win",
+      "odds": "1.87",
+      "confidence": 64,
+      "overUnder": "Over 1.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 20,
+        "odds": "9.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 18,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 15,
+        "odds": "8.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "St. Patricks Athletic host Bohemians in one of the best Dublin derbies in Irish football. St. Pat's have been in decent form — 3 wins in their last 5 — and have beaten Drogheda United 3-1 in their most recent match. Bohemians have struggled on the road, losing their last 2 away games. Richmond Park's atmosphere and St. Pat's home record should see the hosts take the three points."
+  },
+  {
+    "id": "m128",
+    "league": "Ireland Premier Division - Round 13",
+    "homeTeam": "Waterford",
+    "awayTeam": "Galway United",
+    "date": "2026-04-24",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "DLDWW",
+    "awayForm": "WDLWL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 44,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.62",
+      "confidence": 65,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-1",
+        "probability": 21,
+        "odds": "6.50",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 17,
+        "odds": "9.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-2",
+        "probability": 14,
+        "odds": "10.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Waterford host Galway United at RSC in a balanced League of Ireland Premier Division clash. Both sides have shown attacking intent this season and the fixture has historically produced goals. With both teams in similar mid-table positions and inconsistent form, a goals-heavy encounter with both sides finding the net is the most attractive betting angle."
+  },
+  {
+    "id": "m122",
+    "league": "Turkey Super Lig - Round 31",
+    "homeTeam": "Basaksehir",
+    "awayTeam": "Kasimpasa",
+    "date": "2026-04-24",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDWWL",
+    "awayForm": "DWWLD",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Basaksehir Win",
+      "odds": "1.47",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 20,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 17,
+        "odds": "7.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 14,
+        "odds": "6.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Istanbul Basaksehir host Kasimpasa in a Turkish Super Lig mid-table clash. Basaksehir have dominated this fixture historically — 4 wins in their last 5 H2H meetings with no losses. Both teams have lost just once in their last 5 games. In 4 of their last 5 encounters, both sides have found the net. Basaksehir's home advantage and superior H2H record make them the pick here."
+  },
+  {
+    "id": "m125",
+    "league": "Italy Serie B - Round 34",
+    "homeTeam": "AC Monza",
+    "awayTeam": "Modena",
+    "date": "2026-04-24",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LDDLL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Monza Win",
+      "odds": "1.42",
+      "confidence": 73,
+      "overUnder": "Over 1.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 26,
+        "odds": "6.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 21,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 15,
+        "odds": "9.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Monza host Modena in the Italian Serie B with promotion ambitions. Monza have been one of the more consistent sides in Serie B and are strong at home. Modena are winless in their last 4 and sit in serious danger of relegation. The class difference and home advantage should deliver a comfortable win for Monza in this second division clash."
+  },
+  {
+    "id": "m135",
+    "league": "Denmark 1. Liga - Promotion Group",
+    "homeTeam": "Lyngby BK",
+    "awayTeam": "Esbjerg",
+    "date": "2026-04-24",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WWDWL",
+    "awayForm": "LLLWL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Lyngby BK Win",
+      "odds": "1.50",
+      "confidence": 67,
+      "overUnder": "Over 1.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-0",
+        "probability": 25,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 21,
+        "odds": "7.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-1",
+        "probability": 15,
+        "odds": "9.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Lyngby BK host Esbjerg in the Danish 1. Liga promotion group. Lyngby are pushing hard for promotion — 3 wins in their last 4 home matches — with a settled squad and promotion ambitions. Esbjerg have been in terrible form with 4 defeats in their last 5. This promotion group clash at home should deliver a Lyngby win as they look to seal their top-flight return."
+  },
+  {
+    "id": "m137",
+    "league": "Sweden Allsvenskan - Round 3",
+    "homeTeam": "Ljungskile",
+    "awayTeam": "Helsingborg",
+    "date": "2026-04-24",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "LDWWL",
+    "awayForm": "DWWLW",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 46,
+    "prediction": {
+      "mainPick": "Helsingborg Win",
+      "odds": "2.59",
+      "confidence": 58,
+      "overUnder": "Over 1.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-2",
+        "probability": 18,
+        "odds": "10.00",
+        "isCorrect": false
+      },
+      {
+        "score": "0-2",
+        "probability": 15,
+        "odds": "9.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 14,
+        "odds": "6.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Ljungskile host Helsingborg in the Swedish Superettan. Helsingborg are one of the division's most experienced clubs and come into this game with 3 wins in their last 4 including an away win. Ljungskile have been inconsistent — 2 defeats in their last 3 home games. Helsingborg's quality and current momentum give them the edge away from home."
+  },
+  {
+    "id": "m121",
+    "league": "France Ligue 1 - Round 31",
+    "homeTeam": "Brest",
+    "awayTeam": "RC Lens",
+    "date": "2026-04-24",
+    "time": "20:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "LLLLD",
+    "awayForm": "WWWLW",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.66",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-2",
+        "probability": 20,
+        "odds": "9.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-3",
+        "probability": 16,
+        "odds": "12.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-2",
+        "probability": 12,
+        "odds": "11.00",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Lens travel to Brest in a pivotal Ligue 1 title race clash. Lens are 2nd, just 1 point behind PSG, and are flying — 4 wins in last 5 including a stunning 4-1 Coupe de France semi-final win over Toulouse. Brest are winless in 4 straight league games but have scored in each of their last 4 home matches. Lens have won the last 4 H2Hs and scored in 11 consecutive away games. Both teams to score is the standout value bet in this wide-open fixture."
+  },
+  {
+    "id": "m129",
+    "league": "France Ligue 2 - Round 33",
+    "homeTeam": "Annecy",
+    "awayTeam": "Pau",
+    "date": "2026-04-24",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "LLLWL",
+    "avgGoals": 2.5,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Annecy Win",
+      "odds": "1.81",
+      "confidence": 66,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 21,
+        "odds": "8.50",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 18,
+        "odds": "7.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 14,
+        "odds": "6.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Annecy host Pau in France's Ligue 2. Annecy are in decent mid-table form with 3 wins in their last 5 home games and pushing for a top-10 finish. Pau have been struggling badly — 4 defeats in their last 5 matches — and have the worst away record in the division's bottom half. Annecy's home strength and Pau's dreadful road form point clearly to a home win."
+  },
+  {
+    "id": "m130",
+    "league": "France Ligue 2 - Round 33",
+    "homeTeam": "Amiens",
+    "awayTeam": "Montpellier",
+    "date": "2026-04-24",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "LDWDW",
+    "awayForm": "WWWDL",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 55,
+    "prediction": {
+      "mainPick": "Montpellier Win",
+      "odds": "1.80",
+      "confidence": 67,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "1-2",
+        "probability": 20,
+        "odds": "9.50",
+        "isCorrect": false
+      },
+      {
+        "score": "0-2",
+        "probability": 17,
+        "odds": "9.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 14,
+        "odds": "6.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Relegated Montpellier are using Ligue 2 as a springboard back to the top flight. They have been outstanding all season — 3 wins in their last 4 — and sit near the top of Ligue 2. Amiens are a mid-table side at home and have been inconsistent. Montpellier's quality, ambition and consistent away scoring record make them strong favourites here."
+  },
+  {
+    "id": "m131",
+    "league": "France Ligue 2 - Round 33",
+    "homeTeam": "Red Star",
+    "awayTeam": "Guingamp",
+    "date": "2026-04-24",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDWLW",
+    "awayForm": "WLDWL",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 52,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.65",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 19,
+        "odds": "8.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-1",
+        "probability": 17,
+        "odds": "6.50",
+        "isCorrect": false
+      },
+      {
+        "score": "1-2",
+        "probability": 14,
+        "odds": "9.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Red Star host Guingamp in a competitive Ligue 2 mid-table clash. Both teams have been scoring regularly this season and the H2H history shows goals from both sides in recent meetings. Red Star's home form has been solid with 3 wins in their last 4, while Guingamp are an attack-minded side who always provide entertainment. Both Teams to Score is the standout value pick."
+  },
+  {
+    "id": "m132",
+    "league": "France Ligue 2 - Round 33",
+    "homeTeam": "Clermont",
+    "awayTeam": "SC Bastia",
+    "date": "2026-04-24",
+    "time": "21:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "home_score": null,
+    "away_score": null,
+    "is_finished": false,
+    "homeForm": "WDWWL",
+    "awayForm": "DWLLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 56,
+    "prediction": {
+      "mainPick": "Clermont Win",
+      "odds": "2.31",
+      "confidence": 61,
+      "overUnder": "Over 1.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 8.5"
+    },
+    "correctScoreOptions": [
+      {
+        "score": "2-1",
+        "probability": 20,
+        "odds": "9.00",
+        "isCorrect": false
+      },
+      {
+        "score": "1-0",
+        "probability": 17,
+        "odds": "8.00",
+        "isCorrect": false
+      },
+      {
+        "score": "2-0",
+        "probability": 15,
+        "odds": "8.50",
+        "isCorrect": false
+      }
+    ],
+    "analysis": "Clermont host SC Bastia in the French second division. Clermont have been one of the better home sides in Ligue 2 with 3 wins in their last 4 home matches and a settled squad. Bastia have struggled on the road — 2 losses in their last 3 away games — and the travelling support adds to the atmospheric challenge. Clermont's home advantage is the key differentiator here."
   }
- ]
+ ] 
 }
  
   
