@@ -3308,9 +3308,445 @@
       }
     ],
     "analysis": "Clermont host SC Bastia in the French second division. Clermont have been one of the better home sides in Ligue 2 with 3 wins in their last 4 home matches and a settled squad. Bastia have struggled on the road — 2 losses in their last 3 away games — and the travelling support adds to the atmospheric challenge. Clermont's home advantage is the key differentiator here."
+  },
+  {
+    "id": "m300",
+    "league": "German Bundesliga 2",
+    "homeTeam": "Preussen M.",
+    "awayTeam": "A. Bielefeld",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "DLWDL",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.93",
+      "confidence": 72,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 32, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 26, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Preussen Münster are bottom of the table with 0 wins in their last 5, scoring just 2 goals and conceding 13. Bielefeld have been inconsistent but carry more quality and should edge this relegation battle."
+  },
+  {
+    "id": "m301",
+    "league": "German Bundesliga 2",
+    "homeTeam": "Karlsruhe",
+    "awayTeam": "Hannover 96",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WLWLD",
+    "awayForm": "DWDWD",
+    "avgGoals": 3.1,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.32",
+      "confidence": 78,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Karlsruhe have scored 12 goals in their last 5 matches, while Hannover are unbeaten in five with 2 wins and 3 draws. Both sides find the net regularly and the over 2.5 market is heavily favoured."
+  },
+  {
+    "id": "m302",
+    "league": "German Bundesliga 2",
+    "homeTeam": "Hertha Berlin",
+    "awayTeam": "Holstein Kiel",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "WLWWD",
+    "avgGoals": 2.7,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.79",
+      "confidence": 76,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "3-1", "probability": 22, "odds": "9.50", "isCorrect": false }
+    ],
+    "analysis": "Hertha have won 4 of their last 5, picking up 13 points from 15 and mounting a late promotion charge. Holstein Kiel have 3 wins in 5 but Hertha's home momentum should prove decisive."
+  },
+  {
+    "id": "m303",
+    "league": "English Premier League",
+    "homeTeam": "Fulham",
+    "awayTeam": "Aston Villa",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWDW",
+    "awayForm": "WWDWL",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.54",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 28, "odds": "6.80", "isCorrect": false },
+      { "score": "2-1", "probability": 24, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Fulham are unbeaten in 5 league matches and have conceded just 1 goal in that run. Aston Villa sit 4th and have won 5 of the last 6 head-to-head meetings. A tight but open contest is expected."
+  },
+  {
+    "id": "m304",
+    "league": "Russian Premier League",
+    "homeTeam": "FK Rostov",
+    "awayTeam": "Orenburg",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLWL",
+    "awayForm": "LDLLW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.79",
+      "confidence": 70,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Rostov have lost 3 of their last 5 but face an Orenburg side also struggling for form. Rostov's home advantage in the Russian Premier League should be enough to secure a narrow win."
+  },
+  {
+    "id": "m305",
+    "league": "Turkish Super Lig",
+    "homeTeam": "Eyüpspor",
+    "awayTeam": "Gaziantep",
+    "date": "2026-04-25",
+    "time": "14:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "WLDLW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.58",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "8.50", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Eyüpspor had four straight defeats before a recent away win. Gaziantep's last five read win-loss-draw-loss-win, including a 4-1 success at Antalyaspor. Both defences are vulnerable."
+  },
+  {
+    "id": "m306",
+    "league": "Spanish La Liga",
+    "homeTeam": "Alaves",
+    "awayTeam": "Mallorca",
+    "date": "2026-04-25",
+    "time": "15:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLL",
+    "awayForm": "DLLDL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.87",
+      "confidence": 68,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Alaves have taken maximum points in 3 of their last 5 home meetings against Mallorca, who have won just 1 of their last 5 overall. A tight, low-scoring encounter favours the hosts."
+  },
+  {
+    "id": "m307",
+    "league": "French Ligue 1",
+    "homeTeam": "Lyon",
+    "awayTeam": "Auxerre",
+    "date": "2026-04-25",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLDLL",
+    "awayForm": "DDLDW",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 78,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.44",
+      "confidence": 77,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 28, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "Lyon have gone 5 matches without a win but face an Auxerre side that has also struggled for victories. Lyon's superior squad quality at home should break the stalemate."
+  },
+  {
+    "id": "m308",
+    "league": "Italian Serie A",
+    "homeTeam": "Parma",
+    "awayTeam": "AC Pisa",
+    "date": "2026-04-25",
+    "time": "16:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDWDL",
+    "awayForm": "WDLWL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.95",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Parma have drawn 3 of their last 5 and are tough to beat at home. Pisa travel with decent form. The odds suggest value on goals in what should be an evenly matched Serie A contest."
+  },
+  {
+    "id": "m309",
+    "league": "German Bundesliga",
+    "homeTeam": "Augsburg",
+    "awayTeam": "E. Frankfurt",
+    "date": "2026-04-25",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDLL",
+    "awayForm": "DDWWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.17",
+      "confidence": 71,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Augsburg are winless in 5, scoring just 6 and conceding 12. Eintracht Frankfurt have 2 wins in their last 5 and won the reverse fixture in December. The visitors are rightly favoured."
+  },
+  {
+    "id": "m310",
+    "league": "German Bundesliga",
+    "homeTeam": "Köln",
+    "awayTeam": "B. Leverkusen",
+    "date": "2026-04-25",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWDDD",
+    "awayForm": "DDLDW",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.38",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "7.50", "isCorrect": false },
+      { "score": "2-2", "probability": 24, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Köln have drawn four of their last five, playing attractive but leaky football. Leverkusen's attacking quality is undeniable and this Rhine derby rarely disappoints for goals."
+  },
+  {
+    "id": "m311",
+    "league": "German Bundesliga",
+    "homeTeam": "Wolfsburg",
+    "awayTeam": "M'gladbach",
+    "date": "2026-04-25",
+    "time": "16:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWWDW",
+    "awayForm": "DDLWL",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 69,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.92",
+      "confidence": 73,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 31, "odds": "8.00", "isCorrect": false },
+      { "score": "3-1", "probability": 21, "odds": "10.00", "isCorrect": false }
+    ],
+    "analysis": "Wolfsburg are unbeaten in 5, winning 3 of them, and are pushing for European places. M'gladbach have been inconsistent on the road, making the home side a solid pick."
+  },
+  {
+    "id": "m312",
+    "league": "English Premier League",
+    "homeTeam": "Liverpool",
+    "awayTeam": "Crystal Palace",
+    "date": "2026-04-25",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "WLWDW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 86,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.39",
+      "confidence": 88,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 38, "odds": "6.00", "isCorrect": false },
+      { "score": "3-0", "probability": 30, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Liverpool are in imperious form, unbeaten in 5 with four wins, conceding just 2 goals. Crystal Palace have been decent but Anfield is a fortress where the Reds normally dominate."
+  },
+  {
+    "id": "m313",
+    "league": "English Premier League",
+    "homeTeam": "Wolverhampton",
+    "awayTeam": "Tottenham",
+    "date": "2026-04-25",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLDLL",
+    "awayForm": "WWWWD",
+    "avgGoals": 3.5,
+    "usersPickedPercent": 75,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.45",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 32, "odds": "7.80", "isCorrect": false },
+      { "score": "0-2", "probability": 28, "odds": "8.00", "isCorrect": false }
+    ],
+    "analysis": "Wolves are in a tailspin, without a win in 5 and conceding heavily. Tottenham are flying high in the title race, unbeaten in 5 with 4 wins, and should have too much firepower."
+  },
+  {
+    "id": "m314",
+    "league": "English Premier League",
+    "homeTeam": "West Ham",
+    "awayTeam": "Everton",
+    "date": "2026-04-25",
+    "time": "17:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLDLD",
+    "awayForm": "DDLWW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.68",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.40", "isCorrect": false },
+      { "score": "0-0", "probability": 29, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "West Ham have been inconsistent but are tough to break down at home. Everton have found some form with back-to-back wins. A cagey, low-scoring London Stadium affair is expected."
   }
- ] 
-}
+ ]
+} 
+
  
   
 
