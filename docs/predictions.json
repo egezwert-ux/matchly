@@ -1796,7 +1796,7 @@
     "awayTeam": "AL Wahda",
     "date": "2026-04-23",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "LWDWL",
@@ -1825,7 +1825,7 @@
     "awayTeam": "Baniyas",
     "date": "2026-04-23",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "WDLWW",
@@ -1842,7 +1842,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": false },
+      { "score": "2-1", "probability": 29, "odds": "8.00", "isCorrect": true },
       { "score": "1-2", "probability": 21, "odds": "9.00", "isCorrect": false }
     ],
     "analysis": "Both sides leak goals but carry a threat going forward. Over 2.5 is a solid value pick with two inconsistent defences."
@@ -1854,7 +1854,7 @@
     "awayTeam": "ES Zarzis",
     "date": "2026-04-23",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "WWWWL",
@@ -1883,7 +1883,7 @@
     "awayTeam": "Jav. Ivanjica",
     "date": "2026-04-23",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLLWL",
@@ -1912,7 +1912,7 @@
     "awayTeam": "Çorlu Spor 1947",
     "date": "2026-04-23",
     "time": "17:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "WDWLW",
@@ -1941,7 +1941,7 @@
     "awayTeam": "AL Ittihad",
     "date": "2026-04-23",
     "time": "18:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "LLDLW",
@@ -1958,7 +1958,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "0-0", "probability": 38, "odds": "5.50", "isCorrect": false },
+      { "score": "0-0", "probability": 38, "odds": "5.50", "isCorrect": true },
       { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false }
     ],
     "analysis": "Extremely low total goals expectation. Both teams are among the lowest scorers in the league and will be cautious in a relegation battle."
@@ -1970,7 +1970,7 @@
     "awayTeam": "FK Liepaja",
     "date": "2026-04-23",
     "time": "18:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "FREE",
     "is_finished": false,
     "homeForm": "LDLLL",
@@ -1987,7 +1987,7 @@
       "corner": "Over 9.5"
     },
     "correctScoreOptions": [
-      { "score": "1-2", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 28, "odds": "8.00", "isCorrect": true },
       { "score": "0-2", "probability": 26, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "Liepaja are far superior and in strong away form. Super Nova are struggling but often score at home, so an away win with goals is likely."
@@ -1999,7 +1999,7 @@
     "awayTeam": "Trabzonspor",
     "date": "2026-04-23",
     "time": "18:45",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DWLDW",
@@ -2028,7 +2028,7 @@
     "awayTeam": "Fredericia",
     "date": "2026-04-23",
     "time": "19:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WLLLD",
@@ -2057,7 +2057,7 @@
     "awayTeam": "AGF Aarhus",
     "date": "2026-04-23",
     "time": "19:00",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DWWWL",
@@ -2086,7 +2086,7 @@
     "awayTeam": "Krasnodar",
     "date": "2026-04-23",
     "time": "19:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWLWW",
@@ -2115,7 +2115,7 @@
     "awayTeam": "B. Kaliningrad",
     "date": "2026-04-23",
     "time": "19:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDDW",
