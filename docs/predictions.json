@@ -4476,7 +4476,7 @@
     "awayTeam": "Brentford",
     "date": "2026-04-27",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDWL",
@@ -4497,14 +4497,442 @@
       { "score": "3-1", "probability": 22, "odds": "10.50", "isCorrect": false }
     ],
     "analysis": "Manchester United sit 3rd in the Premier League and are coming off a 1-0 win at Chelsea. Brentford have drawn their last 5 matches and are without a win since March. Eight of the last ten meetings between these sides have seen over 2.5 goals, and the odds heavily back another high-scoring encounter at Old Trafford."
+   },
+   {
+    "id": "m450",
+    "league": "Argentine Primera LFP, Apertura",
+    "homeTeam": "V. Sarsfield",
+    "awayTeam": "Union Santa Fe",
+    "date": "2026-04-28",
+    "time": "00:45",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWDDW",
+    "awayForm": "LLLLW",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.98",
+      "confidence": 78,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.20", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Velez Sarsfield have kept clean sheets in their last 4 league matches and sit 3rd in the table with 8 wins from 15. Union Santa Fe have lost their last 4 league games away from home, conceding over 2.5 goals in each. The hosts' defensive solidity should prove decisive in what's likely to be a low-scoring affair."
+  },
+  {
+    "id": "m451",
+    "league": "Brazilian Serie B",
+    "homeTeam": "Athletic Club MG",
+    "awayTeam": "Nautico PE",
+    "date": "2026-04-28",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDDWL",
+    "awayForm": "LWLWL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 59,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.93",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 27, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 24, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Athletic Club MG sit 7th with 2 wins and 2 draws from 5 Serie B matches. Nautico are 14th and suffered a heavy 0-3 home defeat to Sao Bernardo last time out. Both sides have been inconsistent defensively, which should produce an open contest."
+  },
+  {
+    "id": "m452",
+    "league": "Uruguayan Primera Liga, Apertura",
+    "homeTeam": "Defensor Sp.",
+    "awayTeam": "CA Progreso",
+    "date": "2026-04-28",
+    "time": "01:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWDD",
+    "awayForm": "LLLLD",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 72,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.67",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "5.80", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "Defensor Sporting have been solid at home with a 2-0 win over Boston River and a clean sheet against Racing. CA Progreso are winless in 5 away matches and concede an average of 2.60 goals per game on the road. The hosts should secure a straightforward victory."
+  },
+  {
+    "id": "m453",
+    "league": "Argentine Primera LFP, Apertura",
+    "homeTeam": "CA Huracan",
+    "awayTeam": "Argentinos J.",
+    "date": "2026-04-28",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDWWD",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 63,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.87",
+      "confidence": 72,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-1", "probability": 30, "odds": "6.50", "isCorrect": false },
+      { "score": "2-1", "probability": 25, "odds": "8.80", "isCorrect": false }
+    ],
+    "analysis": "Huracan are unbeaten in 5 matches across all competitions, scoring 9 goals and conceding just 3. Argentinos Juniors have won 4 of their last 5, scoring 9 goals. Both teams come into this in excellent attacking form and the last five head-to-head encounters have seen both sides score in three of them."
+  },
+  {
+    "id": "m454",
+    "league": "Ecuadorian Pro Liga",
+    "homeTeam": "SD Aucas",
+    "awayTeam": "Delfin",
+    "date": "2026-04-28",
+    "time": "03:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLWLL",
+    "awayForm": "LLDWL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 70,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.88",
+      "confidence": 69,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.90", "isCorrect": false },
+      { "score": "0-0", "probability": 27, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "SD Aucas are heavily favoured despite mixed recent form. Delfin have won just 1 of their last 5 matches and have scored only 2 goals in that period. The hosts' superior squad depth and home advantage should be enough, but goals may be scarce given both sides' recent struggles in front of net."
+  },
+  {
+    "id": "m455",
+    "league": "Dutch Eredivisie, Promotion/Relegation Playoff",
+    "homeTeam": "Roda",
+    "awayTeam": "Waalwijk",
+    "date": "2026-04-28",
+    "time": "19:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDWL",
+    "awayForm": "WWWLW",
+    "avgGoals": 2.9,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.39",
+      "confidence": 81,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 30, "odds": "7.80", "isCorrect": false },
+      { "score": "2-2", "probability": 23, "odds": "11.00", "isCorrect": false }
+    ],
+    "analysis": "Roda finished 8th in the Eerste Divisie with 55 points while Waalwijk sit 6th with 58 points. Waalwijk have been consistently involved in high-scoring matches with their last 5 all seeing over 2.5 goals and scoring 11 goals. Roda have conceded 21 goals in their last 10 matches. Goals look guaranteed."
+  },
+  {
+    "id": "m456",
+    "league": "Portuguese Liga Portugal 2",
+    "homeTeam": "CD Feirense",
+    "awayTeam": "Torreense",
+    "date": "2026-04-28",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DLLLD",
+    "awayForm": "WWDWL",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.13",
+      "confidence": 71,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 32, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 24, "odds": "8.20", "isCorrect": false }
+    ],
+    "analysis": "CD Feirense have won just 1 of their last 5 matches, scoring only 2 goals and conceding 6. Torreense have won 3 of their last 5, scoring 8 and conceding just 3. The visitors' superior form and defensive solidity should prove the difference in this Portuguese second-tier clash."
+  },
+  {
+    "id": "m457",
+    "league": "Swedish Superettan",
+    "homeTeam": "Norrköping",
+    "awayTeam": "Landskrona",
+    "date": "2026-04-28",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWL",
+    "awayForm": "LLDLL",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.33",
+      "confidence": 87,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 36, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "5.50", "isCorrect": false }
+    ],
+    "analysis": "Norrköping have been in devastating form, winning 4 of their last 5 and scoring 12 goals. Landskrona have won just 1 of their last 5, conceding 10 goals in that period. The gulf in class is reflected in the odds, and a comfortable home victory with multiple goals is the most likely outcome."
+  },
+  {
+    "id": "m458",
+    "league": "Egyptian Premier League, Relegation Round",
+    "homeTeam": "Al Mokawloon",
+    "awayTeam": "Ghazl El Mahallah",
+    "date": "2026-04-28",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WDDLL",
+    "awayForm": "LDDLW",
+    "avgGoals": 1.5,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.10",
+      "confidence": 92,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.40", "isCorrect": false },
+      { "score": "0-0", "probability": 34, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Both sides are struggling in the Egyptian Premier League relegation round. Al Mokawloon have scored just 5 goals in their last 5 matches while Ghazl El Mahallah have managed only 5 goals in the same period. The odds heavily favor a low-scoring encounter, and for good reason."
+  },
+  {
+    "id": "m459",
+    "league": "Latvian Virsliga",
+    "homeTeam": "Rigas Skola",
+    "awayTeam": "Riga",
+    "date": "2026-04-28",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWW",
+    "awayForm": "WWWWL",
+    "avgGoals": 3.8,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.42",
+      "confidence": 85,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 26, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "A top-of-the-table Virsliga clash. Rigas Skola have started the season with 7 wins from 8 league matches and sit top. Riga FC are in excellent form themselves, winning 4 of their last 5 and scoring 21 goals. Both teams are prolific in attack, and the last head-to-head ended 4-3."
+  },
+  {
+    "id": "m460",
+    "league": "English League One",
+    "homeTeam": "Peterborough",
+    "awayTeam": "Mansfield",
+    "date": "2026-04-28",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DWLLD",
+    "awayForm": "WDLWD",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.37",
+      "confidence": 80,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.00", "isCorrect": false },
+      { "score": "1-2", "probability": 24, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Peterborough have scored 11 goals in their last 5 matches despite winning just once. Mansfield have scored 9 goals in their last 5. Both teams have been involved in entertaining, high-scoring matches, and the over 2.5 odds are heavily favoured in this League One contest."
+  },
+  {
+    "id": "m461",
+    "league": "English Championship",
+    "homeTeam": "Southampton",
+    "awayTeam": "Ipswich Town",
+    "date": "2026-04-28",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWDDW",
+    "awayForm": "WWLWD",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Over 2.5 Goals",
+      "odds": "1.53",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 29, "odds": "8.20", "isCorrect": false },
+      { "score": "1-1", "probability": 26, "odds": "6.60", "isCorrect": false }
+    ],
+    "analysis": "Southampton sit 5th and are unbeaten in their last 4 league matches as they push for promotion. Ipswich Town are 2nd with 3 wins in their last 5. Both sides are among the Championship's top scorers and this high-stakes encounter at St Mary's promises goals."
+  },
+  {
+    "id": "m462",
+    "league": "English National League, Playoff",
+    "homeTeam": "Scunthorpe",
+    "awayTeam": "Southend",
+    "date": "2026-04-28",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDWWL",
+    "awayForm": "LWWWW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.70",
+      "confidence": 70,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-1", "probability": 25, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Scunthorpe have 2 wins, 2 draws, and 1 loss in their last 5 but have conceded 12 goals in that span. Southend sit 7th in the National League and have won their last 4 away matches, scoring 6 at FC Halifax Town. The visitors' momentum could be decisive in this playoff clash."
+  },
+  {
+    "id": "m463",
+    "league": "UEFA Champions League",
+    "homeTeam": "PSG",
+    "awayTeam": "Bayern Munich",
+    "date": "2026-04-28",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWW",
+    "awayForm": "WWWWW",
+    "avgGoals": 3.8,
+    "usersPickedPercent": 91,
+    "prediction": {
+      "mainPick": "Both Teams to Score",
+      "odds": "1.61",
+      "confidence": 83,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-2", "probability": 26, "odds": "8.50", "isCorrect": false },
+      { "score": "2-2", "probability": 22, "odds": "12.00", "isCorrect": false }
+    ],
+    "analysis": "A massive Champions League semi-final first leg at the Parc des Princes. PSG have won their last 5 matches in all competitions, scoring 12 goals in their last 4 Champions League games. Bayern are unbeaten in 19 matches and have won five of the last six meetings with PSG. Both teams are in devastating attacking form and this should be a classic European night with goals at both ends."
+  },
+  {
+    "id": "m464",
+    "league": "Algerian Ligue 1",
+    "homeTeam": "MC Alger",
+    "awayTeam": "Olympique Akbou",
+    "date": "2026-04-28",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "DWLWL",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.50",
+      "confidence": 82,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.60", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "MC Alger have been in excellent form, winning 4 of their last 5 matches and going unbeaten in 5 league games. Olympique Akbou have been inconsistent with 2 wins in their last 5. The hosts' defensive record of just 3 goals conceded in 5 matches should see them through comfortably in this Algerian Ligue 1 encounter."
    }
-  ] 
- }  
- 
-    
-
- 
+  ]
+ }
   
-
-  
-
