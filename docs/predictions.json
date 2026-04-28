@@ -4563,7 +4563,7 @@
     "awayTeam": "CA Progreso",
     "date": "2026-04-28",
     "time": "01:30",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DLWDD",
@@ -4580,7 +4580,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "1-0", "probability": 34, "odds": "5.80", "isCorrect": false },
+      { "score": "1-0", "probability": 34, "odds": "5.80", "isCorrect": true },
       { "score": "2-0", "probability": 26, "odds": "7.20", "isCorrect": false }
     ],
     "analysis": "Defensor Sporting have been solid at home with a 2-0 win over Boston River and a clean sheet against Racing. CA Progreso are winless in 5 away matches and concede an average of 2.60 goals per game on the road. The hosts should secure a straightforward victory."
@@ -4592,7 +4592,7 @@
     "awayTeam": "Argentinos J.",
     "date": "2026-04-28",
     "time": "03:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDWWD",
@@ -4621,7 +4621,7 @@
     "awayTeam": "Delfin",
     "date": "2026-04-28",
     "time": "03:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DLWLL",
@@ -4638,7 +4638,7 @@
       "corner": "Under 9.5"
     },
     "correctScoreOptions": [
-      { "score": "1-0", "probability": 36, "odds": "5.90", "isCorrect": false },
+      { "score": "1-0", "probability": 36, "odds": "5.90", "isCorrect": true },
       { "score": "0-0", "probability": 27, "odds": "7.50", "isCorrect": false }
     ],
     "analysis": "SD Aucas are heavily favoured despite mixed recent form. Delfin have won just 1 of their last 5 matches and have scored only 2 goals in that period. The hosts' superior squad depth and home advantage should be enough, but goals may be scarce given both sides' recent struggles in front of net."
@@ -4737,7 +4737,7 @@
     "awayTeam": "Ghazl El Mahallah",
     "date": "2026-04-28",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WDDLL",
@@ -4766,7 +4766,7 @@
     "awayTeam": "Riga",
     "date": "2026-04-28",
     "time": "20:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWWW",
@@ -4824,7 +4824,7 @@
     "awayTeam": "Ipswich Town",
     "date": "2026-04-28",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWDDW",
@@ -4853,7 +4853,7 @@
     "awayTeam": "Southend",
     "date": "2026-04-28",
     "time": "21:45",
-    "status": "PENDING",
+    "status": "lost",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "DDWWL",
@@ -4882,7 +4882,7 @@
     "awayTeam": "Bayern Munich",
     "date": "2026-04-28",
     "time": "22:00",
-    "status": "PENDING",
+    "status": "won",
     "access_type": "AD_UNLOCK",
     "is_finished": false,
     "homeForm": "WWWWW",
@@ -4932,7 +4932,473 @@
       { "score": "2-0", "probability": 30, "odds": "6.80", "isCorrect": false }
     ],
     "analysis": "MC Alger have been in excellent form, winning 4 of their last 5 matches and going unbeaten in 5 league games. Olympique Akbou have been inconsistent with 2 wins in their last 5. The hosts' defensive record of just 3 goals conceded in 5 matches should see them through comfortably in this Algerian Ligue 1 encounter."
-   }
-  ]
- }
+   },
+   {
+    "id": "m465",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Atl Lanus",
+    "awayTeam": "LDU Quito",
+    "date": "2026-04-29",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDDWL",
+    "awayForm": "WWDLW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 64,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.33",
+      "confidence": 72,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 35, "odds": "6.00", "isCorrect": false },
+      { "score": "2-0", "probability": 27, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Lanus hold the historical advantage in this Libertadores tie, having won the last meeting 3-1 in August 2024. LDU Quito lost 1-0 to Emelec in their previous outing. Lanus are solid at home in continental competition and should edge a tight, low-scoring affair."
+  },
+  {
+    "id": "m466",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "Botafogo RJ",
+    "awayTeam": "Independiente Petrolero",
+    "date": "2026-04-29",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WWLWL",
+    "awayForm": "LLLDL",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 74,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.09",
+      "confidence": 91,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 42, "odds": "5.00", "isCorrect": false },
+      { "score": "2-0", "probability": 33, "odds": "5.50", "isCorrect": false }
+    ],
+    "analysis": "Botafogo lead Group E with maximum points and welcome Bolivian visitors Independiente Petrolero, who sit bottom of the group. Botafogo have scored at least 2 goals in each of their last 7 matches across all competitions. With over 2.5 goals landing in their last 6 Brasileirão matches and the visitors' poor defensive record, this should be a comfortable home victory at the Estádio Nilton Santos."
+  },
+  {
+    "id": "m467",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Santos SP",
+    "date": "2026-04-29",
+    "time": "01:00",
+    "status": "PENDING",
+    "access_type": "FREE",
+    "is_finished": false,
+    "homeForm": "WDDWD",
+    "awayForm": "LWDWL",
+    "avgGoals": 2.3,
+    "usersPickedPercent": 61,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.27",
+      "confidence": 68,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 28, "odds": "8.50", "isCorrect": false },
+      { "score": "1-0", "probability": 25, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "San Lorenzo are unbeaten in their last 8 matches across all competitions (4 wins, 4 draws) and lead Sudamericana Group D. Santos, even with Neymar, have been inconsistent. The hosts' momentum and home advantage at the Nuevo Gasómetro should prove decisive."
+  },
+  {
+    "id": "m468",
+    "league": "US Open Cup",
+    "homeTeam": "Charlotte FC",
+    "awayTeam": "Atlanta United",
+    "date": "2026-04-29",
+    "time": "02:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLWD",
+    "awayForm": "LLDLW",
+    "avgGoals": 3.0,
+    "usersPickedPercent": 66,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.80",
+      "confidence": 74,
+      "overUnder": "Over 2.5",
+      "btts": "Yes",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-1", "probability": 30, "odds": "8.00", "isCorrect": false },
+      { "score": "1-1", "probability": 26, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Charlotte FC have won 4 of their last 5 matches in all competitions, scoring 17 goals. Atlanta United have won just 1 of their last 5. The hosts' superior form and home advantage in this US Open Cup Round of 16 clash make them clear favourites."
+  },
+  {
+    "id": "m469",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Cruzeiro MG",
+    "awayTeam": "Boca Juniors",
+    "date": "2026-04-29",
+    "time": "03:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLLDD",
+    "awayForm": "WWWWL",
+    "avgGoals": 1.9,
+    "usersPickedPercent": 58,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "2.93",
+      "confidence": 64,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 33, "odds": "6.50", "isCorrect": false },
+      { "score": "0-2", "probability": 25, "odds": "8.50", "isCorrect": false }
+    ],
+    "analysis": "Cruzeiro have won just 1 of their last 5 matches and are struggling for consistency. Boca Juniors have been in excellent form, winning 4 of their last 5 and scoring 9 goals while conceding just 2. The visitors' pedigree in this competition should see them through at the Mineirão."
+  },
+  {
+    "id": "m470",
+    "league": "CONCACAF Champions Cup",
+    "homeTeam": "Nashville SC",
+    "awayTeam": "Tigres UANL",
+    "date": "2026-04-29",
+    "time": "03:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWLW",
+    "awayForm": "WDLDW",
+    "avgGoals": 2.4,
+    "usersPickedPercent": 67,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.00",
+      "confidence": 69,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 34, "odds": "6.80", "isCorrect": false },
+      { "score": "2-0", "probability": 26, "odds": "9.00", "isCorrect": false }
+    ],
+    "analysis": "Nashville SC have won 4 of their last 5 MLS matches, conceding just once in that stretch. Tigres have been solid but less dominant with 2 wins and 2 draws in their last 5. In this first leg of the semi-final, the MLS side's defensive discipline at Geodis Park could give them a narrow edge."
+  },
+  {
+    "id": "m471",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "CD Tolima",
+    "awayTeam": "Coquimbo Unido",
+    "date": "2026-04-29",
+    "time": "05:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDLLW",
+    "awayForm": "WDLDW",
+    "avgGoals": 2.0,
+    "usersPickedPercent": 71,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.50",
+      "confidence": 75,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 37, "odds": "5.50", "isCorrect": false },
+      { "score": "2-0", "probability": 29, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Tolima sit 3rd in Group B with 1 point and desperately need a home win to stay in contention. Coquimbo are 2nd with 4 points and in good form, but Tolima's high altitude home advantage in Ibagué and greater Libertadores experience should prove decisive in this crucial group encounter."
+  },
+  {
+    "id": "m472",
+    "league": "CONMEBOL Libertadores",
+    "homeTeam": "Sporting Cristal",
+    "awayTeam": "Atl Junior",
+    "date": "2026-04-29",
+    "time": "05:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWDWL",
+    "awayForm": "WDLWD",
+    "avgGoals": 2.2,
+    "usersPickedPercent": 62,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "2.27",
+      "confidence": 66,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 33, "odds": "6.20", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Sporting Cristal host Atlético Junior in a pivotal Group F clash at Matute. The Peruvian side will rely on their passionate home support, while Junior travel with confidence. The reverse fixture saw a tight contest, and another low-scoring affair is expected with the hosts having a slight edge."
+  },
+  {
+    "id": "m473",
+    "league": "CONMEBOL Sudamericana",
+    "homeTeam": "O'Higgins",
+    "awayTeam": "Boston River",
+    "date": "2026-04-29",
+    "time": "05:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LWWDW",
+    "awayForm": "LWLDL",
+    "avgGoals": 1.8,
+    "usersPickedPercent": 68,
+    "prediction": {
+      "mainPick": "Home Win",
+      "odds": "1.39",
+      "confidence": 76,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.60", "isCorrect": false },
+      { "score": "2-0", "probability": 28, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "O'Higgins come into this Sudamericana clash having won 2-0 at Ñublense in their last outing. Boston River suffered a heavy 4-1 defeat to Montevideo City. The Chilean side are strong at home in El Teniente and should control this contest against a visiting side struggling for defensive stability."
+  },
+  {
+    "id": "m474",
+    "league": "Norwegian Eliteserien",
+    "homeTeam": "Tromso",
+    "awayTeam": "Brann",
+    "date": "2026-04-29",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWWWD",
+    "awayForm": "LLLWL",
+    "avgGoals": 3.2,
+    "usersPickedPercent": 79,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.59",
+      "confidence": 86,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "3-0", "probability": 35, "odds": "7.00", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "6.00", "isCorrect": false }
+    ],
+    "analysis": "Tromso are top of the Eliteserien with 5 wins and 1 draw from 6 matches, scoring 11 and conceding just 1. Brann are 14th with only 1 win in 6, conceding heavily. The gulf in class is enormous and the hosts should cruise to a comfortable victory at Alfheim Stadion."
+  },
+  {
+    "id": "m475",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "Wydad Casablanca",
+    "awayTeam": "US Yacoub Mansour",
+    "date": "2026-04-29",
+    "time": "20:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDLDD",
+    "awayForm": "LLLDL",
+    "avgGoals": 1.6,
+    "usersPickedPercent": 76,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.72",
+      "confidence": 79,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 38, "odds": "5.40", "isCorrect": false },
+      { "score": "2-0", "probability": 30, "odds": "6.80", "isCorrect": false }
+    ],
+    "analysis": "Wydad sit 3rd in Botola Pro with 31 points from 16 matches and have been hard to beat despite recent draws. US Yacoub Mansour are struggling near the bottom with poor away form. The hosts have far superior quality and should secure a narrow but comfortable victory at the Stade Mohamed V."
+  },
+  {
+    "id": "m476",
+    "league": "South African Premier Soccer League",
+    "homeTeam": "Polokwane City",
+    "awayTeam": "Mamelodi Sundowns",
+    "date": "2026-04-29",
+    "time": "20:30",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "DDLWW",
+    "awayForm": "DDWWW",
+    "avgGoals": 2.1,
+    "usersPickedPercent": 73,
+    "prediction": {
+      "mainPick": "Away Win",
+      "odds": "1.27",
+      "confidence": 84,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 36, "odds": "5.80", "isCorrect": false },
+      { "score": "0-2", "probability": 30, "odds": "7.00", "isCorrect": false }
+    ],
+    "analysis": "Mamelodi Sundowns sit 2nd with 58 points, just one behind Orlando Pirates with a game in hand. Despite two frustrating draws, they remain the strongest side in the PSL. Polokwane City are 6th and competitive, but Sundowns have won 6 of the last 9 meetings between these sides and should return to winning ways."
+  },
+  {
+    "id": "m477",
+    "league": "English National League North, Playoff",
+    "homeTeam": "Macclesfield",
+    "awayTeam": "Chester",
+    "date": "2026-04-29",
+    "time": "21:45",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WWLDW",
+    "awayForm": "DDWWW",
+    "avgGoals": 1.7,
+    "usersPickedPercent": 60,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.58",
+      "confidence": 78,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 30, "odds": "6.80", "isCorrect": false },
+      { "score": "0-0", "probability": 27, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Chester have won both previous meetings this season 2-0. However, all four recent encounters between these sides have seen under 2.5 goals. Macclesfield are solid at home while Chester are unbeaten in 6 matches. A tight, tactical playoff clash is expected with few clear chances."
+  },
+  {
+    "id": "m478",
+    "league": "UEFA Champions League",
+    "homeTeam": "Atletico Madrid",
+    "awayTeam": "Arsenal",
+    "date": "2026-04-29",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LLLLW",
+    "awayForm": "WWLWW",
+    "avgGoals": 2.6,
+    "usersPickedPercent": 88,
+    "prediction": {
+      "mainPick": "Under 2.5 Goals",
+      "odds": "1.46",
+      "confidence": 77,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 4.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "0-1", "probability": 30, "odds": "7.50", "isCorrect": false },
+      { "score": "1-1", "probability": 28, "odds": "6.50", "isCorrect": false }
+    ],
+    "analysis": "A heavyweight Champions League semi-final first leg at the Metropolitano. Atletico snapped a four-game losing streak with a 3-2 win over Athletic Club on Saturday, but remain vulnerable. Arsenal returned to the top of the Premier League with a 1-0 win over Newcastle and beat Atletico 4-0 in the league phase. First-leg caution typically prevails at this stage, with a low-scoring draw or narrow away win the most likely outcome."
+  },
+  {
+    "id": "m479",
+    "league": "Moroccan Botola Pro",
+    "homeTeam": "MAS Maghrib A Fes",
+    "awayTeam": "Hassania Agadir",
+    "date": "2026-04-29",
+    "time": "22:00",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "WLWDL",
+    "awayForm": "LDLWD",
+    "avgGoals": 1.5,
+    "usersPickedPercent": 65,
+    "prediction": {
+      "mainPick": "Home Win & Under 2.5",
+      "odds": "1.46",
+      "confidence": 75,
+      "overUnder": "Under 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Under 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "1-0", "probability": 36, "odds": "5.50", "isCorrect": false },
+      { "score": "0-0", "probability": 28, "odds": "7.20", "isCorrect": false }
+    ],
+    "analysis": "MAS Fes have dominated this fixture historically, winning 8 of 17 meetings with just 3 defeats. Hassania Agadir have struggled for consistency on the road. Botola Pro matches are typically low-scoring, and the hosts' home advantage at the Complexe Sportif de Fes should be enough for a narrow victory."
+  },
+  {
+    "id": "m480",
+    "league": "Portuguese Primeira Liga",
+    "homeTeam": "Sporting CP",
+    "awayTeam": "Tondela",
+    "date": "2026-04-29",
+    "time": "22:15",
+    "status": "PENDING",
+    "access_type": "AD_UNLOCK",
+    "is_finished": false,
+    "homeForm": "LDDDL",
+    "awayForm": "LLDWL",
+    "avgGoals": 2.8,
+    "usersPickedPercent": 77,
+    "prediction": {
+      "mainPick": "Home Win & Over 2.5",
+      "odds": "1.45",
+      "confidence": 84,
+      "overUnder": "Over 2.5",
+      "btts": "No",
+      "card": "Over 3.5",
+      "corner": "Over 9.5"
+    },
+    "correctScoreOptions": [
+      { "score": "2-0", "probability": 35, "odds": "5.80", "isCorrect": false },
+      { "score": "3-0", "probability": 28, "odds": "7.50", "isCorrect": false }
+    ],
+    "analysis": "Sporting CP sit 3rd on 72 points and have won all of their last 5 meetings against Tondela, who are 17th with just 21 points and fighting relegation. Despite Sporting's recent dip in form with just 1 win in 6, the visit of the league's second-worst defence offers the perfect opportunity to return to winning ways in style at the Estádio José Alvalade."
+  }
+ ]
+}     
+  
+ 
   
