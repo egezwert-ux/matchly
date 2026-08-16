@@ -1,1 +1,26 @@
-
+{
+  "matches": [
+    {
+      "id": "bb_20260817_01",
+      "league": "NBA",
+      "homeTeam": "Denver Nuggets",
+      "awayTeam": "Phoenix Suns",
+      "date": "2026-08-17",
+      "time": "04:30",
+      "sport": "basketball",
+      "prediction": {
+        "mainPick": "Denver Nuggets -5.5",
+        "odds": "1.90",
+        "confidence": 82
+      },
+      "spread": "Denver -5.5",
+      "totalPoints": "Over 218.5",
+      "access_type": "AD_UNLOCK",
+      "riskLevel": "MEDIUM",
+      "status": "PENDING",
+      "isMatchOfTheDay": false,
+      "analysis": "Denver at high altitude always has an advantage in the 4th quarter.",
+      "credit_cost": 25
+    }
+  ]
+}
