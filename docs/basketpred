@@ -1,26 +1,50 @@
 {
+  "version": "v2.2.1",
+  "summary": "NBA ve EuroLeague bülteninde yüksek oranlı tahminler.",
   "matches": [
     {
-      "id": "bb_20260817_01",
+      "id": "bb_201",
       "league": "NBA",
-      "homeTeam": "Denver Nuggets",
-      "awayTeam": "Phoenix Suns",
-      "date": "2026-08-17",
-      "time": "04:30",
-      "sport": "basketball",
+      "homeTeam": "LA Lakers",
+      "awayTeam": "Boston Celtics",
+      "sport": "BASKETBALL",
+      "date": "2026-04-18",
+      "time": "03:30",
+      "status": "PENDING",
+      "access_type": "CREDIT",
+      "isMatchOfTheDay": false,
+      "credit_cost": 25,
       "prediction": {
-        "mainPick": "Denver Nuggets -5.5",
-        "odds": "1.90",
+        "mainPick": "Home Win",
+        "odds": "1.80",
+        "confidence": 78
+      },
+      "spread": "Lakers -3.5",
+      "totalPoints": "Over 224.5",
+      "firstHalf": "Lakers Win",
+      "analysis": "Lakers kendi sahasındaki tempolu hücum oyunuyla avantajlı pozisyonda."
+    },
+    {
+      "id": "bb_202",
+      "league": "EuroLeague",
+      "homeTeam": "Anadolu Efes",
+      "awayTeam": "Fenerbahçe Beko",
+      "sport": "BASKETBALL",
+      "date": "2026-10-31",
+      "time": "19:30",
+      "status": "PENDING",
+      "access_type": "FREE",
+      "isMatchOfTheDay": true,
+      "credit_cost": 0,
+      "prediction": {
+        "mainPick": "Over 162.5",
+        "odds": "1.85",
         "confidence": 82
       },
-      "spread": "Denver -5.5",
-      "totalPoints": "Over 218.5",
-      "access_type": "AD_UNLOCK",
-      "riskLevel": "MEDIUM",
-      "status": "PENDING",
-      "isMatchOfTheDay": false,
-      "analysis": "Denver at high altitude always has an advantage in the 4th quarter.",
-      "credit_cost": 25
+      "spread": "Efes -2.5",
+      "totalPoints": "Over 162.5",
+      "firstHalf": "Over 80.5 Points",
+      "analysis": "EuroLeague derbisinde iki takımın da son maçlarındaki sayı ortalaması yüksek."
     }
   ]
 }
