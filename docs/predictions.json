@@ -1,71 +1,33 @@
-{
-  "version": "v2.2.1",
-  "summary": "Bugün bültende Premier League ve La Liga öne çıkıyor.",
-  "matches": [
-    {
-      "id": "fb_101",
-      "league": "Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Liverpool",
-      "sport": "FOOTBALL",
-      "date": "2026-10-31",
-      "time": "20:30",
-      "status": "PENDING",
-      "access_type": "FREE",
-      "isMatchOfTheDay": true,
-      "credit_cost": 20,
-      "prediction": {
-        "mainPick": "Home Win",
-        "odds": "1.95",
-        "confidence": 85,
-        "overUnder": "Over 2.5",
-        "btts": "Yes",
-        "card": "Over 3.5 Cards",
-        "corner": "Over 9.5 Corners"
-      },
-      "predictedScore": {
-        "score": "2 - 1",
-        "odds": "8.50"
-      },
-      "correctScoreOptions": [
-        { "score": "2 - 1", "probability": 42, "odds": "8.50" },
-        { "score": "1 - 1", "probability": 28, "odds": "6.50" },
-        { "score": "3 - 1", "probability": 18, "odds": "14.00" }
-      ],
-      "homeForm": "WWWDW",
-      "awayForm": "WWDLW",
-      "avgGoals": 2.8,
-      "usersPickedPercent": 72,
-      "analysis": "Arsenal kendi sahasında yüksek gol temposuna sahip. Liverpool deplasmanda skora katkı veriyor."
-    },
-    {
-      "id": "fb_102",
-      "league": "La Liga",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Barcelona",
-      "sport": "FOOTBALL",
-      "date": "2026-10-31",
-      "time": "22:00",
+"sport": "FOOTBALL",
+      "date": "2026-11-02",
+      "time": "00:30",
       "status": "PENDING",
       "access_type": "CREDIT",
       "isMatchOfTheDay": false,
       "credit_cost": 20,
       "prediction": {
         "mainPick": "Over 2.5",
-        "odds": "1.75",
-        "confidence": 80,
+        "odds": "1.28",
+        "confidence": 76,
         "overUnder": "Over 2.5",
         "btts": "Yes"
       },
       "predictedScore": {
-        "score": "2 - 2",
-        "odds": "12.00"
+        "score": "2 - 1",
+        "odds": "9.00"
       },
-      "homeForm": "WWWWW",
-      "awayForm": "WDWWW",
-      "avgGoals": 3.2,
-      "usersPickedPercent": 65,
-      "analysis": "El Clasico mücadelesinde her iki takım da hücum hatlarında çok etkili."
-    }
-  ]
-}
+      "correctScoreOptions": [
+        {
+          "score": "2 - 1",
+          "probability": 14,
+          "odds": "9.00"
+        },
+        {
+          "score": "2 - 2",
+          "probability": 11,
+          "odds": "13.00"
+        },
+        {
+          "score": "3 - 1",
+          "probability": 10,
+          "odds": "14.00"
